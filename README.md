@@ -37,7 +37,7 @@ The list is designed for **Mod Organizer 2 (MO2)** and **Wabbajack**, providing 
 - **City and Interior Overhauls:** JK’s Skyrim series and compatibility patches.
 - **Armor & Weapon Add-ons:** New weapons, armors, and replacers with high-quality models.
 - **NSFW & OStim Integration:** Opt-in adult content for a personalized experience.
-- **Comprehensive NPC Overhauls:** Pandorable’s Big Overhauls, Project Cougar Combined, Ladies of Skyrim, etc.
+- **Comprehensive NPC Overhauls:** ColdSun’s Big Overhauls, Project Cougar Combined, Ladies of Skyrim, etc.
 - **Complete LOD Generation:** TexGen, xLODGen, DynDOLOD 3.x.
 
 ## 💻 Requirements
@@ -66,15 +66,12 @@ This is an overkill build for JOJ, but serves as a benchmark for maximum perform
 
 See how to set up a page file here: [Tom's Hardware Guide](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
 
-⚠️ **Note:** AMD RX 580 and older cards are not supported.
-
 ## 🔥 Installation Instructions
 
 ### ❗ Important
 - **Anniversary Edition (AE) is a hard requirement.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE).
-- **MO2 is included with the Wabbajack download.** There is no need to install it separately.
 
-1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already. Mod Organizer 2 (MO2) is included with the Wabbajack installation.
+1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
 2. **Create a clean installation of Skyrim Anniversary Edition (AE required).**
 3. **Open Wabbajack** and search for **Journals of Jyggalag (JOJ)** in the modlist browser.
 4. **Click on the JOJ modlist** and choose your installation directory.
@@ -82,7 +79,7 @@ See how to set up a page file here: [Tom's Hardware Guide](https://www.tomshardw
 
 ### Post-Installation Steps
 
-1. **Launch Skyrim through MO2.**
+1. **Launch Journals of Jyggalag (SKSE) MO2.**
 2. **Set your desired resolution and graphical settings.**
 3. **Verify plugins and load order within MO2.**
 4. **Start a new game to ensure all mods are functioning correctly.**
@@ -99,13 +96,10 @@ If you encounter issues:
 - Check your install directory for errors.
 - Ensure all prerequisites are installed correctly.
 - Visit the Wabbajack Discord or GitHub Issues page for assistance.
-- Rebuild your DynDOLOD output if visual errors occur.
 
 ## 🤝 Credits & Permissions
 
 - **Biggie Boss:** Creator of NGVO graphics overhauls
-- **Akzar-dev:** Creator of Licentia Next, whose README inspired this format.
-- **ArnoldDP:** Creator of OStim Community Modlist, whose structure inspired parts of this README.
 - **Various mod authors:** For quest mods, overhauls, and graphical enhancements.
 - **Wabbajack Team:** For providing the tools to distribute this list.
 
@@ -119,9 +113,7 @@ If you encounter issues:
 
 - [Wabbajack](https://www.wabbajack.org/)
 - [NGVO Modlist](https://github.com/biggie-boss/NGVO)
-- [Licentia Next Modlist](https://github.com/akzar-dev/licentia)
-- [OStim Community Modlist](https://github.com/ArnoldDP/OStim-Community-Modlist)
-- [Discord](https://discord.gg/YourDiscordLink)
+- [Discord](https://discord.gg/TX3arurmEt)
 
 ## ❓ FAQ
 
