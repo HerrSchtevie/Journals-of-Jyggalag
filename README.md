@@ -40,15 +40,16 @@ RAM: 64GB DDR4 3200MHz
 
 Storage: 4TB SSD (preferably PCIe Gen 4x4)
 
-Recommended Specs:
-
-Processor: Quad-Core CPU (Intel i5 / Ryzen 5 or better)
-
-GPU: NVIDIA RTX 3060 Ti or AMD RX 6700 XT minimum
-
-RAM: 16GB (32GB or higher recommended for heavy modlists)
-
-Storage: SSD with at least 200GB of free space (preferably NVMe for faster load times)
+Component	Recommended for 1080p
+CPU	10th Generation i5 or better/equivalent
+Ram	16GB DDR4 Ram + 40GB Pagefile
+Storage	SATA SSD or higher
+GPU	RTX 3060 or better/equivalent
+Component	Recommended for 1440p
+CPU	12th Generation i7 or better/equivalent
+Ram	32GB DDR4 Ram + 40GB Pagefile
+Storage	M.2 SSD
+GPU	RTX 4070 or better/equivalent
 
 🔥 Installation
 
