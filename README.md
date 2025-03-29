@@ -29,12 +29,11 @@ Journals of Jyggalag (JOJ) is a custom Wabbajack modlist designed to provide a r
 | RAM        | 64GB DDR4 3200MHz                     |
 | Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4)  |
 
-This is an overkill build for JOJ, but serves as a benchmark for maximum performance.
+This is an overkill build for JOJ, but serves as a benchmark for maximum performance. I play at 4K on a 32:9 ultrawide monitor.
 
 
 
-- **Skyrim Special Edition** (Anniversary Edition recommended)
-- **Mod Organizer 2 (MO2)**
+- **Skyrim Special Edition** Anniversary Edition
 - **Wabbajack**
 
 ### 📋 Recommended System Specs
@@ -44,7 +43,7 @@ This is an overkill build for JOJ, but serves as a benchmark for maximum perform
 | CPU        | 10th Generation i5 or better/equivalent | 12th Generation i7 or better/equivalent    |
 | RAM        | 16GB DDR4 RAM + 40GB Pagefile           | 32GB DDR4 RAM + 40GB Pagefile              |
 | Storage    | SATA SSD or higher                      | M.2 SSD                                    |
-| GPU        | RTX 3060 or better/equivalent           | RTX 4070 or better/equivalent             |
+| GPU        | RTX 3060 Ti or better/equivalent          | RTX 4070 or better/equivalent             |
 
 **Space required:** ~150GB Download Size / ~100GB Install Size / ~250GB Total
 
