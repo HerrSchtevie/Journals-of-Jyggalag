@@ -1,6 +1,6 @@
 # Journals of Jyggalag (JOJ)
 
-![Journals of Jyggalag Banner](https://i.imgur.com/example.png)
+![splash](https://github.com/user-attachments/assets/e4cc5755-425a-47ac-9d5d-bfbfcdb61e24)
 
 ---
 
