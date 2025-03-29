@@ -30,27 +30,71 @@ Skyrim Special Edition (Anniversary Edition required)
 
 Wabbajack
 
-My System Specs:
+💻 Requirements
 
-Processor: Intel Core i7-12700F or higher
+📊 My System Specs (Reference Build)
 
-GPU: Radeon RX 7900 XT or higher
+Component
 
-RAM: 64GB DDR4 3200MHz
+Specs
 
-Storage: 4TB SSD (preferably PCIe Gen 4x4)
+CPU
 
-Component	Recommended for 1080p
-CPU	10th Generation i5 or better/equivalent
-Ram	16GB DDR4 Ram + 40GB Pagefile
-Storage	SATA SSD or higher
-GPU	RTX 3060 or better/equivalent
-Component	Recommended for 1440p
-CPU	12th Generation i7 or better/equivalent
-Ram	32GB DDR4 Ram + 40GB Pagefile
-Storage	M.2 SSD
-GPU	RTX 4070 or better/equivalent
+Intel Core i7-12700F
 
+GPU
+
+Radeon RX 7900 XT
+
+RAM
+
+64GB DDR4 3200MHz
+
+Storage
+
+Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4)
+
+This is an overkill build for JOJ, but serves as a benchmark for maximum performance.
+
+
+
+Skyrim Special Edition (Anniversary Edition recommended)
+
+Mod Organizer 2 (MO2)
+
+Wabbajack
+
+📋 Recommended System Specs
+
+Component
+
+Recommended for 1080p
+
+Recommended for 1440p
+
+CPU
+
+10th Generation i5 or better/equivalent
+
+12th Generation i7 or better/equivalent
+
+RAM
+
+16GB DDR4 RAM + 40GB Pagefile
+
+32GB DDR4 RAM + 40GB Pagefile
+
+Storage
+
+SATA SSD or higher
+
+M.2 SSD
+
+GPU
+
+RTX 3060 or better/equivalent
+
+RTX 4070 or better/equivalent
 🔥 Installation
 
 Download the .wabbajack file from [Your Link Here].
