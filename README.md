@@ -26,7 +26,7 @@ Journals of Jyggalag (JOJ) is a Skyrim modlist designed for mature audiences. It
 
 ## 📌 Introduction
 
-Journals of Jyggalag (JOJ) is a comprehensive Skyrim modlist inspired by the visuals of NGVO (by Biggie Boss) and the expansive quest additions of Licentia Next. It offers high-end graphics, deep lore integration, and various custom mods to enhance immersion, gameplay, and overall presentation.
+Journals of Jyggalag (JOJ) is a high-end Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.
 
 The list is designed for **Mod Organizer 2 (MO2)** and **Wabbajack**, providing an all-in-one solution for players seeking a rich and polished Skyrim experience.
 
