@@ -11,6 +11,7 @@
 - [Requirements](#-Requirements)
 - [Installation Instructions](#-Installation-Instructions)
 - [Post-Installation Steps](#-Post-Installation-Steps)
+- [Controller Setup Guide](#-Controller-Setup-Guide)
 - [Modlist](#-Modlist)
 - [Support & Troubleshooting](#-Support--Troubleshooting)
 - [Credits & Permissions](#-Credits--Permissions)
