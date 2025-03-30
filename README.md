@@ -63,6 +63,8 @@ This is an overkill build for JOJ, but serves as a benchmark for maximum perform
 
 **Space required:** ~150GB Download Size / ~100GB Install Size / ~250GB Total
 
+The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
+
 Additionally, the following software must be installed:
 
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
