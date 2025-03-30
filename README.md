@@ -90,6 +90,90 @@ Additionally, the following software must be installed:
 3. **Verify plugins and load order within MO2.**
 4. **Start a new game to ensure all mods are functioning correctly.**
 
+Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 550 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
+
+You must also install:
+
+- [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- [.NET SDK](https://dotnet.microsoft.com/download)
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
+
+## Controller Setup Guide
+
+### Overview
+
+This modlist includes TUCS (The Ultimate Control Scheme) controller support to enhance your Skyrim gaming experience. Follow these specific steps for full setup.
+
+### Controller Compatibility
+
+Recommend Xbox One controller.
+
+### Controller Configuration Steps
+
+**Step 1: Enable Controller Mods**
+
+- Open Mod Organizer 2 (MO2).
+- Activate all mods under the "Controller" section.
+
+**Step 2: Activate Controller in Skyrim**
+
+- Launch Skyrim.
+- Navigate to Settings > Gameplay.
+- Ensure "Controller" option is enabled.
+
+**Step 3: Verify Control Settings**
+
+- Within Skyrim's controls menu, confirm that "Sneak" is assigned to the "B" button.
+
+**Step 4: Configure Combat Gameplay Overhaul (CGO)**
+
+- Open Mod Configuration Menu (MCM).
+- Navigate to CGO settings:
+  - Set "Switch Grip" to "DPad UP."
+  - Set "Dual Wield Blocking" to "DPad DOWN."
+
+**Step 5: Configure The Ultimate Dodge Mod (TUDM)**
+
+- Open MCM and select "The Ultimate Dodge Mod."
+- Adjust settings as follows:
+  - Assign "Sneak Key" to "DPad LEFT."
+  - "Dodge Key" defaults to "B" (based on prior control verification).
+  - Leave "Gamepad/Controller Compatibility" disabled (unchecked).
+
+**Step 6: Configure Serio’s Cycle Hotkeys and True Directional Movement (TDM)**
+
+- For Serio’s Cycle Hotkeys:
+
+  - Open Serio’s Cycle Hotkeys in MCM and set the setter hotkey to "Home."
+  - Press "Home" in-game to configure your hotkeys (further details available on the mod’s Nexus page).
+
+- For True Directional Movement:
+
+  - Verify the "Target Lock" setting in TDM’s MCM matches recommended settings.
+
+### Final Controller Mapping
+
+| Button        | Function                          |
+| ------------- | --------------------------------- |
+| **Start**     | Journal                           |
+| **Back**      | Wait                              |
+| **LT**        | Left Attack                       |
+| **RT**        | Right Attack                      |
+| **LB+Back**   | Quicksave                         |
+| **RB+Start**  | Character Menu                    |
+| **LB+RB**     | Shout                             |
+| **LB**        | Ready/Sheathe Weapon              |
+| **RB**        | Sprint                            |
+| **LS**        | Favorites                         |
+| **RS**        | Toggle POV / Hold for Target Lock |
+| **A**         | Activate                          |
+| **B**         | Dodge                             |
+| **X**         | Ready Weapon                      |
+| **Y**         | Jump                              |
+| **DPad Left** | Sneak                             |
+| **DPad Up**   | Switch Grip (CGO)                 |
+| **DPad Down** | Dual Wield Blocking (CGO)         |
+
 ## 📜 Modlist
 
 This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
