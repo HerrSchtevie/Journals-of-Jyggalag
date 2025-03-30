@@ -63,24 +63,14 @@ This is an overkill build for JOJ, but serves as a benchmark for maximum perform
 
 **Space required:** ~150GB Download Size / ~100GB Install Size / ~250GB Total
 
+Additionally, the following software must be installed:
+
+- [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+- [.NET SDK](https://dotnet.microsoft.com/download)
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
+
+
 ## 🔥 Installation Instructions
-
-| Skyrim & Anniversary Edition Setup | Mandatory | Details & Guidance |
-|------------------------------------|-----------|--------------------|
-| **Clean Skyrim Installation (EN)** | ✅        | Skyrim must be installed in English and placed outside protected folders (avoid "Program Files"). Recommended location: drive root (e.g., `C:\Skyrim`). Follow [Steam's guide](https://help.steampowered.com/en/faqs/view/4BD4-4528-6B2E-8327) to move your game. For language setup, see [Bethesda’s language guide](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F). |
-| **Skyrim AE Upgrade**              | ✅        | The $20 Anniversary Edition upgrade from Steam is mandatory. Standard Special Edition or the free CC content update will not suffice. |
-
-| Required Accounts                  | Mandatory | Account Information |
-|------------------------------------|-----------|---------------------|
-| **Nexus Mods Account**             | ✅        | You must create a basic Nexus Mods account prior to installation. |
-| **Nexus Premium Subscription**     | ❌        | Premium account is highly recommended. Without Premium, installation may take significantly longer, potentially extending installation by many hours or even days. |
-
-| PC Adjustments & System Requirements | Mandatory | Detailed Instructions |
-|--------------------------------------|-----------|------------------------|
-| **Visual Studio (2015–2022)**        | ✅        | Required runtime libraries from Visual Studio 2015, 2017, 2019, and 2022 are essential for Mod Organizer 2 and specific mods to function properly. |
-| **600 GB Free SSD Space**            | ✅        | The full installation (modlist + temporary files) requires approximately 600 GB. Final size is about 450 GB; temporary downloads can be deleted or relocated after installation to recover around 150 GB. |
-| **OneDrive Disabled or Removed**     | ✅        | Fully uninstall or disable OneDrive, as it locks essential Skyrim files and causes errors during gameplay. |
-| **Pagefile Adjusted to 40 GB**       | ✅        | Adjust your system's virtual memory (pagefile) to a fixed size of 40 GB (40,960 MB) to ensure stability and prevent crashes. Instructions for Windows 11 can be found [here](https://www.windowscentral.com/software-apps/windows-11/how-to-change-virtual-memory-size-on-windows-11). Similar methods apply to other Windows versions. |
 
 ### ❗ Important
 - **Anniversary Edition (AE) is a hard requirement.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE).
