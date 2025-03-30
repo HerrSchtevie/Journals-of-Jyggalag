@@ -51,18 +51,20 @@ Journals of Jyggalag (JOJ) is a high-end Skyrim modlist combining stunning visua
 | RAM        | 64GB DDR4 3200MHz                     |
 | Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4)  |
 
-This is an overkill build for JOJ, but serves as a benchmark for maximum performance.
-
 ### 📋 Recommended System Specs
 
-| Component  | Recommended for 1080p                   | Recommended for 1440p                       |
-|------------|-----------------------------------------|--------------------------------------------|
-| CPU        | 10th Generation i5 or better/equivalent | 12th Generation i7 or better/equivalent    |
-| RAM        | 16GB DDR4 RAM + 40GB Pagefile           | 32GB DDR4 RAM + 40GB Pagefile              |
-| Storage    | SATA SSD or higher                      | M.2 SSD                                    |
-| GPU        | RTX 3060 or better/equivalent           | RTX 4070 or better/equivalent             |
+🎮 **System Requirements for Journals of Jyggalag (JOJ)** 🎮
 
-**Space required:** ~150GB Download Size / ~100GB Install Size / ~250GB Total
+| Component     | 🟢 Minimum (Playable)                                   | 🟡 Recommended (Ideal)                               |
+|---------------|---------------------------------------------------------|------------------------------------------------------|
+| **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series)|
+| **RAM**       | 16GB DDR4                                               | 32GB DDR4                                           |
+| **Pagefile**  | 30GB                                                    | 40GB                                                |
+| **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
+| **GPU**       | NVIDIA RTX 3060 / AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
+| **Disk Space**| ~150GB Download / ~250GB Installed                      | ~150GB Download / ~250GB Installed                  |
+
+✨ These specifications will provide a smooth, immersive Skyrim experience tailored specifically to the extensive content and graphical enhancements in JOJ.
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
 
