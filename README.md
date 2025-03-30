@@ -34,7 +34,7 @@ Journals of Jyggalag (JOJ) is a high-end Skyrim modlist combining stunning visua
 
 - **NGVO Graphics Overhauls** (credit to Biggie Boss)
 - **Quest Mods:** LOTD, The Forgotten City, Project AHO, VIGILANT, Wyrmstooth, Helgen Reborn, and more.
-- **City and Interior Overhauls:** JK’s Skyrim series and compatibility patches.
+- **City and Interior Overhauls:** JK’s Skyrim series, Obscure's College, and SO MANY compatibility patches.
 - **Armor & Weapon Add-ons:** New weapons, armors, and replacers with high-quality models.
 - **NSFW & OStim Integration:** Opt-in adult content for a personalized experience.
 - **Comprehensive NPC Overhauls:** ColdSun’s NPC Overhauls, Sons of Nirn, Ladies of Skyrim, etc.
