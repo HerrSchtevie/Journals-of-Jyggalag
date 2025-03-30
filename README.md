@@ -51,6 +51,8 @@ Journals of Jyggalag (JOJ) is a high-end Skyrim modlist combining stunning visua
 | RAM        | 64GB DDR4 3200MHz                     |
 | Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4)  |
 
+For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS.
+
 ### 📋 Recommended System Specs
 
 🎮 **System Requirements for Journals of Jyggalag (JOJ)** 🎮
@@ -63,8 +65,6 @@ Journals of Jyggalag (JOJ) is a high-end Skyrim modlist combining stunning visua
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
 | **GPU**       | NVIDIA RTX 3060 / AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
 | **Disk Space**| ~150GB Download / ~250GB Installed                      | ~150GB Download / ~250GB Installed                  |
-
-✨ These specifications will provide a smooth, immersive Skyrim experience tailored specifically to the extensive content and graphical enhancements in JOJ.
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
 
