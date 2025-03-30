@@ -28,7 +28,6 @@ Journals of Jyggalag (JOJ) is a Skyrim modlist designed for mature audiences. It
 
 Journals of Jyggalag (JOJ) is a high-end Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.
 
-The list is designed for **Mod Organizer 2 (MO2)** and **Wabbajack**, providing an all-in-one solution for players seeking a rich and polished Skyrim experience.
 
 ## 📋 Features
 
@@ -37,7 +36,7 @@ The list is designed for **Mod Organizer 2 (MO2)** and **Wabbajack**, providing 
 - **City and Interior Overhauls:** JK’s Skyrim series and compatibility patches.
 - **Armor & Weapon Add-ons:** New weapons, armors, and replacers with high-quality models.
 - **NSFW & OStim Integration:** Opt-in adult content for a personalized experience.
-- **Comprehensive NPC Overhauls:** ColdSun’s Big Overhauls, Project Cougar Combined, Ladies of Skyrim, etc.
+- **Comprehensive NPC Overhauls:** ColdSun’s NPC Overhauls, Sons of Nirn, Ladies of Skyrim, etc.
 - **Complete LOD Generation:** TexGen, xLODGen, DynDOLOD 3.x.
 
 ## 💻 Requirements
@@ -64,17 +63,15 @@ This is an overkill build for JOJ, but serves as a benchmark for maximum perform
 
 **Space required:** ~150GB Download Size / ~100GB Install Size / ~250GB Total
 
-See how to set up a page file here: [Tom's Hardware Guide](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
-
 ## 🔥 Installation Instructions
 
 ### ❗ Important
 - **Anniversary Edition (AE) is a hard requirement.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE).
 
 1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
-2. **Create a clean installation of Skyrim Anniversary Edition (AE required).**
+2. **Create a clean installation of Skyrim Anniversary Edition (AE required). Plenty of great video tutorials on this (https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)**
 3. **Open Wabbajack** and search for **Journals of Jyggalag (JOJ)** in the modlist browser.
-4. **Click on the JOJ modlist** and choose your installation directory.
+4. **Click on the JOJ modlist** and choose your installation directory. The installtion and downlaods do not have to be on the same drive, but the installtion MUST be on a SSD.
 5. **Click Start** and wait for the installation to complete. Wabbajack will handle the entire process automatically.
 
 ### Post-Installation Steps
@@ -88,14 +85,14 @@ See how to set up a page file here: [Tom's Hardware Guide](https://www.tomshardw
 
 This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
 
-![Modlist Preview](https://i.imgur.com/example2.png)
+![Modlist Preview](upcoming)
 
 ## 📞 Support & Troubleshooting
 
 If you encounter issues:
 - Check your install directory for errors.
 - Ensure all prerequisites are installed correctly.
-- Visit the Wabbajack Discord or GitHub Issues page for assistance.
+- Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
 
 ## 🤝 Credits & Permissions
 
@@ -112,19 +109,15 @@ If you encounter issues:
 ## 🔗 Links
 
 - [Wabbajack](https://www.wabbajack.org/)
-- [NGVO Modlist](https://github.com/biggie-boss/NGVO)
-- [Discord](https://discord.gg/TX3arurmEt)
+- [Discord](https://discord.gg/8ZCa7w8BZQ)
 
 ## ❓ FAQ
 
 - **Q: Is Anniversary Edition really required?**  
   A: Yes, JOJ is built exclusively for AE and will not function correctly with SSE.
 
-- **Q: Can I use other modlists with JOJ?**  
-  A: It's not recommended. Mixing modlists can cause conflicts and crashes.
-
 - **Q: Where do I go for support?**  
-  A: Join the Wabbajack Discord or open an issue on this repository.
+  A: Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
 
 ---
 
