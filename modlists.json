@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Journals of Jyggalag",
+    "description": "Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": true,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/zCYLQKF.png",
+      "readme": "https://github.com/HerrSchtevie/Journals-of-Jyggalag",
+      "download": "",
+      "machineURL": "Journals-of-Jyggalag/modlists.json",
+      "discordURL": "https://discord.gg/8ZCa7w8BZQ"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
+
