@@ -154,28 +154,28 @@ Recommend Xbox One controller.
 
   - Verify the "Target Lock" setting in TDM’s MCM matches recommended settings.
 
-### Final Controller Mapping
+### 🎮 Custom Control Scheme
 
-| Button        | Function                          |
-| ------------- | --------------------------------- |
-| **Start**     | Journal                           |
-| **Back**      | Wait                              |
-| **LT**        | Left Attack                       |
-| **RT**        | Right Attack                      |
-| **LB+Back**   | Quicksave                         |
-| **RB+Start**  | Character Menu                    |
-| **LB+RB**     | Shout                             |
-| **LB**        | Ready/Sheathe Weapon              |
-| **RB**        | Sprint                            |
-| **LS**        | Favorites                         |
-| **RS**        | Toggle POV / Hold for Target Lock |
-| **A**         | Activate                          |
-| **B**         | Dodge                             |
-| **X**         | Ready Weapon                      |
-| **Y**         | Jump                              |
-| **DPad Left** | Sneak                             |
-| **DPad Up**   | Switch Grip (CGO)                 |
-| **DPad Down** | Dual Wield Blocking (CGO)         |
+| 🕹️ **Button**        | 📜 **Function**                         |
+|-----------------------|---------------------------------------|
+| **▶️ Start**          | 📖 Journal                           |
+| **◀️ Back**           | ⏳ Wait                              |
+| **🦾 LT**             | 🔪 Left Attack                       |
+| **🦿 RT**             | ⚔️ Right Attack                      |
+| **🎮 LB+Back**        | 💾 Quicksave                         |
+| **🎮 RB+Start**       | 🧝 Character Menu                   |
+| **🎙️ LB+RB**         | 🌬️ Shout                            |
+| **🎮 LB**             | 🗡️ Ready/Sheathe Weapon             |
+| **🎮 RB**             | 🏃 Sprint                           |
+| **📌 LS**             | ⭐ Favorites                        |
+| **📌 RS**             | 👁️ Toggle POV / 🔒 Hold for Target Lock |
+| **🅰️ A**             | 🗝️ Activate                         |
+| **🅱️ B**             | 💨 Dodge                            |
+| **❎ X**             | 🔪 Ready Weapon                     |
+| **🔼 Y**             | 🦘 Jump                             |
+| **⬅️ DPad Left**      | 🥷 Sneak                            |
+| **⬆️ DPad Up**        | 🔄 Switch Grip (CGO)               |
+| **⬇️ DPad Down**      | 🛡️ Dual Wield Blocking (CGO)      |
 
 ## 📜 Modlist
 
