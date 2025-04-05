@@ -64,7 +64,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 30GB                                                    | 40GB                                                |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
 | **GPU**       | NVIDIA RTX 3060 / AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
-| **Disk Space**| ~200GB Download / ~270GB Installed / ~470GB Total       | ~150GB Download / ~250GB Installed / ~470GB Total                   |
+| **Disk Space**| ~200GB Download / ~270GB Installed / ~470GB Total       | ~200B Download / ~270GB Installed / ~470GB Total                   |
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
 
