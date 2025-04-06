@@ -9,12 +9,7 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "AE",
-      "NSFW",
-      "Beta",
-      "Ordinator",
-      "OStim",
-      "LotD"
+      "DLC Required"
     ],
     "nsfw": true,
     "image_contains_title": false,
@@ -24,7 +19,7 @@
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ_dark_fantasy_splash.png",
       "readme": "https://github.com/HerrSchtevie/Journals-of-Jyggalag",
       "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_3605493c-502b-4d5b-8e8c-34800754bb1a",
-      "machineURL": "JournalsofJyggalag/JournalsofJyggalag",
+      "machineURL": "Journals-of-Jyggalag",
       "discordURL": "https://discord.gg/8ZCa7w8BZQ"
     },
     "download_metadata": {
