@@ -93,7 +93,7 @@ Additionally, the following software must be installed:
 3. **Verify plugins and load order within MO2.**
 4. **Start a new game to ensure all mods are functioning correctly.**
 
-Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 550 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
+Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 480 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
 
 You must also install:
 
