@@ -100,7 +100,7 @@ You must also install:
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
-## Controller Setup Guide
+## The Ultimate Control Scheme Setup Guide
 
 ### Overview
 
