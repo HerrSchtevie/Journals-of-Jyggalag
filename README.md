@@ -88,10 +88,9 @@ Additionally, the following software must be installed:
 
 ### Post-Installation Steps
 
-1. **Launch Journals of Jyggalag (SKSE) MO2.**
-2. **Set your desired resolution and graphical settings.**
-3. **Verify plugins and load order within MO2.**
-4. **Start a new game to ensure all mods are functioning correctly.**
+1. **Open MO2 from your Journals of Jyggalag installation folder.**
+2. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
+3. **Click 'Run' and enjoy!**
 
 Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 480 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
 
