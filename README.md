@@ -61,10 +61,10 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 |---------------|---------------------------------------------------------|------------------------------------------------------|
 | **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series)|
 | **RAM**       | 16GB DDR4                                               | 32GB DDR4                                           |
-| **Pagefile**  | 30GB                                                    | 40GB                                                |
+| **Pagefile**  | 40GB                                                    | 40GB                                                |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
 | **GPU**       | NVIDIA RTX 3060 / AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
-| **Disk Space**| ~200GB Download / ~270GB Installed / ~470GB Total       | ~200B Download / ~270GB Installed / ~470GB Total                   |
+| **Disk Space**| ~206GB Download / ~270GB Installed / ~480GB Total       | ~206B Download / ~270GB Installed / ~480GB Total                   |
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
 
