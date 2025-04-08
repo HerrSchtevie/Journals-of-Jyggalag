@@ -78,7 +78,7 @@ Additionally, the following software must be installed:
 ## 🔥 Installation Instructions
 
 ### ❗ Important
-- **Anniversary Edition (AE) is a hard requirement.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE).
+- **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE).
 
 1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
 2. **Create a clean installation of Skyrim Anniversary Edition (AE required). Plenty of great video tutorials on this (https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)**
