@@ -154,7 +154,7 @@ Make sure to:
 
 ### 🔹 LOD4 Settings
 
-![unnamed (3)](https://github.com/user-attachments/assets/2cc15362-e39f-4631-8e52-8d0ce8a9c381)
+![lod4](https://github.com/user-attachments/assets/0de0bf79-e05f-4459-ab8e-220be43d658b)
 
 - Run xLODGen with the **LOD4** settings shown above
 - Once complete, close xLODGen
