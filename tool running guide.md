@@ -230,7 +230,7 @@ Journals of Jyggalag\mods\JOJ - xLodGen Output
 2. Allow it to load completely
 3. Make sure your settings match the image below:
 
-*(Insert screenshot here)*
+![texgen](https://github.com/user-attachments/assets/58646424-6da3-4242-9a7a-d1d71e41fc93)
 
 4. Click **Start** to begin the process
 
