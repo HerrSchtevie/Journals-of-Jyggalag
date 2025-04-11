@@ -206,6 +206,154 @@ Journals of Jyggalag\mods\JOJ - xLodGen Output
 
 3. If prompted, **replace all existing files**
 4. Back in MO2, click the **Refresh** button so the changes take effect
+5. Disable the "xLODGen Resource - SSE Terrain Tamriel" mod when finished with xLODGen
 
 ✅ That’s it! You’re now ready to move on to TexGen.
 
+## 🎨 Step 4: Run TexGen
+
+> Just like with ParallaxGen, you must **delete previous TexGen outputs** before generating new ones.
+
+---
+
+### 🧹 Clear Old TexGen Files
+
+1. In **MO2**, scroll down to the `Outputs` separator
+2. **Double-click** `JOJ - TexGen Output` and choose **Open in Explorer**
+3. Inside the folder, **delete the `textures` folder** completely
+
+---
+
+### ▶️ Run TexGen
+
+1. Launch **TexGen** from the MO2 dropdown menu
+2. Allow it to load completely
+3. Make sure your settings match the image below:
+
+*(Insert screenshot here)*
+
+4. Click **Start** to begin the process
+
+---
+
+### ✅ Finishing Up
+
+Once TexGen completes, it will display a message and a **button to exit**:
+
+![texgen done](https://github.com/user-attachments/assets/706d79ce-f63a-4d36-930e-95c4b1fec907)
+
+- Click **"Exit TexGen"**  
+- **DO NOT change the output path** — leave it set to the default
+
+---
+
+### 📁 Move the Output to MO2
+
+1. At the top of the TexGen window, you’ll see the output path  
+   *(usually something like `Journals of Jyggalag - Outputs\TexGen_Output`)*
+
+2. Open that folder, and **copy the `textures` folder** from it
+
+3. Paste it into:
+
+Journals of Jyggalag\mods\JOJ - TexGen Output
+
+4. Overwrite any files if prompted
+
+5. Back in MO2, click **Refresh**
+
+✅ TexGen is now complete! You're ready for the final step: DynDOLOD.
+
+
+## 🏰 Step 5: Run DynDOLOD
+
+> Just like with ParallaxGen and TexGen, you must delete the old output before running DynDOLOD.
+
+---
+
+### 🧹 Clear Old DynDOLOD Files
+
+1. In **MO2**, scroll to the `Outputs` separator
+2. **Double-click** `JOJ - DynDOLOD Output` and choose **Open in Explorer**
+3. **Delete all files** inside the folder
+
+Even though it’s empty now, you must still:
+- **Re-enable** the `JOJ - DynDOLOD Output` mod in MO2
+
+---
+
+### ▶️ Run DynDOLOD
+
+1. Launch **DynDOLOD** from the MO2 dropdown menu
+2. Allow it to fully load
+3. In the **top-left checkbox**, make sure **everything is checked** (right-click > **Select All**)
+4. Match your settings to the example below:
+
+![dyndolod](https://github.com/user-attachments/assets/3846a86f-d896-494b-a192-5f2e5b6980aa)
+
+5. Click **OK** to begin generation
+
+> ⏳ Note: This process can take **an hour or more** depending on your PC — be patient!
+
+---
+
+### 📁 Move the Output to MO2
+
+Once DynDOLOD completes, the output files will be located at:
+
+Journals of Jyggalag - Outputs\dyndolod output
+
+
+1. Open that folder and **copy everything inside**
+2. Paste all files into:
+
+Journals of Jyggalag\mods\JOJ - DynDOLOD Output
+
+
+3. Overwrite any files if prompted
+4. Back in MO2, click **Refresh**
+
+---
+
+### 📜 Sort Plugins Correctly
+
+In the **right-side Plugins tab** of MO2:
+
+- Scroll to the bottom
+- Make sure these plugins are **at the very bottom of your load order**:
+  - `DynDOLOD.esp`
+  - `Occlusion.esp`
+
+*(Insert screenshot of final plugin order here)*
+
+✅ You’ve now successfully completed all worldspace-related tool runs!
+
+---
+
+## ✅ Conclusion
+
+You’ve now finished running all 5 major tools for **Journals of Jyggalag**:
+- Synthesis
+- ParallaxGen
+- xLODGen
+- TexGen
+- DynDOLOD
+
+If you’ve followed each step carefully, your modlist is now fully rebuilt with accurate terrain, texture, parallax, LOD, and worldspace data.
+
+---
+
+### ⚠️ Final Reminder
+
+> **DISCLAIMER – RULE 11**
+
+Adding any mods to Journals of Jyggalag falls under **Rule 11**:  
+> You are modifying the list at your own risk.
+
+While we’re happy to try and assist in the [Discord](https://discord.gg/8ZCa7w8BZQ), the team is **not obligated** to troubleshoot problems caused by your personal additions or changes.
+
+You are responsible for **everything you add or modify** after the Wabbajack install is complete.
+
+---
+
+Thank you for using Journals of Jyggalag. May your LODs be crisp and your crashes few. 🧠✨
