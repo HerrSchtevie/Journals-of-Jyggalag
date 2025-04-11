@@ -52,6 +52,9 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 - `JOJ - DynDOLOD Output`
 - `JOJ - TexGen Output`
 
+![step one outputs](https://github.com/user-attachments/assets/5017ebfa-5dc1-4a39-b5cb-f6825d533f9f)
+
+
 ✅ Keep these disabled until you've finished running **all the tools** in this guide.
 
 ---
@@ -76,6 +79,9 @@ Journals of Jyggalag\tools\ParallaxGen\ParallaxGen_Output
 - Open ParallaxGen
 - Click **Start Patching**
 - Let it run until complete
+
+![unnamed](https://github.com/user-attachments/assets/23f91ee8-8fc6-4b10-af63-f642b44e25d1)
+
 
 > 💬 **Note:** You may see warnings — that’s perfectly fine. As long as ParallaxGen finishes without a critical error, you're good to go.
 
@@ -111,6 +117,9 @@ In the **right-side Plugins tab** of MO2:
 - Find and move these plugins **under** `JOJ - Synthesis Patch`:
 - `ParallaxGen.esp`
 - `PG_1.esp`
+
+![unnamed (1)](https://github.com/user-attachments/assets/d04f3775-571a-46c9-8c19-9dcc9ebabe87)
+
 
 You're now ready to move on to the next tool!
 
