@@ -123,4 +123,89 @@ In the **right-side Plugins tab** of MO2:
 
 You're now ready to move on to the next tool!
 
+## 🌄 Step 3: Run xLODGen
+
+> ⚠️ This tool must be run **four times**, once for each LOD level (LOD4, LOD8, LOD16, LOD32).
+
+---
+
+### 🔛 Enable Required Resource
+
+In **Mod Organizer 2**, scroll to the `Outputs` separator and **enable**:
+
+- `xLODGen Resource - SSE Terrain Tamriel`
+
+This resource is required for proper terrain LOD generation.
+
+---
+
+### 🧭 Run xLODGen for Each LOD Level
+
+Each time you open xLODGen, you'll be generating a specific LOD level. After each run:
+
+- You’ll see a message at the bottom that says:  
+  `"LOD generation complete"`
+- **Close and reopen xLODGen** before starting the next level
+
+Make sure to:
+- **Check all worldspaces** in the **right panel** (right-click > **Select All**)
+
+---
+
+### 🔹 LOD4 Settings
+
+![unnamed (3)](https://github.com/user-attachments/assets/2cc15362-e39f-4631-8e52-8d0ce8a9c381)
+
+- Run xLODGen with the **LOD4** settings shown above
+- Once complete, close xLODGen
+
+---
+
+### 🔹 LOD8 Settings
+
+![lod8](https://github.com/user-attachments/assets/f2c752c9-d1cc-4071-8675-0df1677b80de)
+
+- Reopen xLODGen
+- Run with the **LOD8** settings
+- Once complete, close xLODGen
+
+---
+
+### 🔹 LOD16 Settings
+
+![lod16](https://github.com/user-attachments/assets/3a86e744-342a-4b35-a61b-fc6e5bb8df6e)
+
+- Reopen xLODGen
+- Run with the **LOD16** settings
+- Once complete, close xLODGen
+
+---
+
+### 🔹 LOD32 Settings
+
+![lod32](https://github.com/user-attachments/assets/3bed4c6c-df81-43f2-aa66-10128cab4cdf)
+
+- Reopen xLODGen
+- Run with the **LOD32** settings
+- Once complete, close xLODGen
+
+---
+
+### 📁 Move the Output to MO2
+
+After all four LOD levels have been generated, your files will be located in a new folder:
+
+Journals of Jyggalag - Outputs\lodgen outputs\
+
+
+1. Open this folder and locate the `meshes` and `textures` folders
+2. Copy both folders into:
+
+Journals of Jyggalag\mods\JOJ - xLodGen Output
+
+
+3. If prompted, **replace all existing files**
+4. Back in MO2, click the **Refresh** button so the changes take effect
+
+✅ That’s it! You’re now ready to move on to TexGen.
 
