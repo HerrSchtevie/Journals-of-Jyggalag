@@ -327,7 +327,7 @@ Once you’ve copied the generated DynDOLOD files to the correct folder and enab
 - `DynDOLOD.esp`
 - `Occlusion.esp`
 
-![dyndolod plugins](https://github.com/user-attachments/assets/44e5f1f1-5e0f-40d6-bcb5-b8ae5422d607)
+![dyndolod done](https://github.com/user-attachments/assets/f296dee5-0b74-40ae-b3f4-4b0184f924f9)
 
 ---
 
@@ -337,7 +337,7 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 
 - Move `DynDOLOD.esm` into the `Mod Resources` plugin group
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
-- Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order, in this order:
+- Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
 
 ---
 
