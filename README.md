@@ -181,9 +181,9 @@ Recommend Xbox One controller.
 
 This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
 
-[![Modlist Preview](upcoming)](https://loadorderlibrary.com/lists/journals-of-jyggalag)
+[![Load Order Library](upcoming)](https://loadorderlibrary.com/lists/journals-of-jyggalag)
 
-Please note that this Load ORder Library is not 100% accurate/up-to-date. I will get this updated once Load Order Library gets fixed.
+Please note that this Load Order Library is not 100% accurate/up-to-date, but it's close. I will get this updated once Load Order Library gets fixed.
 
 ## 📞 Support & Troubleshooting
 
