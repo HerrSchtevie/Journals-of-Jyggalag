@@ -181,7 +181,9 @@ Recommend Xbox One controller.
 
 This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
 
-![Modlist Preview](upcoming)
+[![Modlist Preview](upcoming)](https://loadorderlibrary.com/lists/journals-of-jyggalag)
+
+Please note that this Load ORder Library is not 100% accurate/up-to-date. I will get this updated once Load Order Library gets fixed.
 
 ## 📞 Support & Troubleshooting
 
@@ -198,9 +200,9 @@ If you encounter issues:
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://i.imgur.com/example3.png)
-![Screenshot 2](https://i.imgur.com/example4.png)
-![Screenshot 3](https://i.imgur.com/example5.png)
+![Screenshot746](https://github.com/user-attachments/assets/24db3828-9f30-45d0-9bd5-7ce3261d65ad)
+<img width="1280" alt="The_Elder_Scrolls_V_Skyrim_Special_Edition_Screenshot_2025 04 08_-_01 37 01 06" src="https://github.com/user-attachments/assets/d3d6a81b-facb-48ad-bb6c-6baf0c001798" />
+![Skyrim_Special_Edition_4_7_2025_9_45_23_PM](https://github.com/user-attachments/assets/50d6f2f3-c886-4087-a2a1-6411b7b9e201)
 
 ## 🔗 Links
 
@@ -209,8 +211,8 @@ If you encounter issues:
 
 ## ❓ FAQ
 
-- **Q: Is Anniversary Edition really required?**  
-  A: Yes, JOJ is built exclusively for AE and will not function correctly with SSE.
+- **Q: What do I need for this list to install properly?**  
+  A: **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 - **Q: Where do I go for support?**  
   A: Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
