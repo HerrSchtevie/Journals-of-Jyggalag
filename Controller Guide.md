@@ -69,7 +69,7 @@ This modlist includes several tools to help you tailor your controller experienc
 
 ---
 
-## 🎮 Button Mapping – Layout 406
+## 🎮 Button Mapping
 
 | 🕹️ **Button**        | 📜 **Function**                                 |
 |----------------------|--------------------------------------------------|
@@ -123,6 +123,10 @@ This modlist includes several tools to help you tailor your controller experienc
 | **B + Start (☰)**          | Favorites Menu                             |
 
 ---
+
+⌨️ Keyboard and Mouse Mapping
+
+![JOJ Keybinds](https://github.com/user-attachments/assets/8c4e6c82-af0a-4d2a-9fc9-51f493fb3cf5)
 
 ## ✅ Summary
 
