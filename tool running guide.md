@@ -295,6 +295,10 @@ Even though it’s empty now, you must still:
 
 > ⏳ Note: This process can take **an hour or more** depending on your PC — be patient!
 
+6. Once DynDOLOD has finished, click **"Save and Exit"**
+
+![dyndolod done](https://github.com/user-attachments/assets/6ff1dbea-d779-403f-b84f-1b64164c2d72)
+
 ---
 
 ### 📁 Move the Output to MO2
@@ -317,16 +321,23 @@ Journals of Jyggalag\mods\JOJ - DynDOLOD Output
 
 ### 📜 Sort Plugins Correctly
 
-In the **right-side Plugins tab** of MO2:
+Once you’ve copied the generated DynDOLOD files to the correct folder and enabled the `JOJ - DynDOLOD Output` mod in MO2, you’ll see **three new plugins** in the **right-side Plugins tab**:
 
-- Scroll to the bottom
-- Make sure these plugins are **at the very bottom of your load order**:
-  - `DynDOLOD.esp`
-  - `Occlusion.esp`
+- `DynDOLOD.esm`
+- `DynDOLOD.esp`
+- `Occlusion.esp`
 
-*(Insert screenshot of final plugin order here)*
+![dyndolod plugins](https://github.com/user-attachments/assets/44e5f1f1-5e0f-40d6-bcb5-b8ae5422d607)
 
-✅ You’ve now successfully completed all worldspace-related tool runs!
+---
+
+### 🔧 Organize the Plugins
+
+Make sure **all three are enabled**, then drag them into the correct plugin groups:
+
+- Move `DynDOLOD.esm` into the `Mod Resources` plugin group
+- Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
+- Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order, in this order:
 
 ---
 
