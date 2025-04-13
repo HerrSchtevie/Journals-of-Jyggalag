@@ -91,6 +91,17 @@ Additionally, the following software must be installed:
 
 1. **Open MO2 from your Journals of Jyggalag installation folder.**
 2. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
+
+### 🧑‍🤝‍🧑 Important: Disable NPC Overhaul Mods Before Playing
+
+**BEFORE launching the game**, open MO2 and scroll down to the section labeled **EasyNPC** (highlighted with a blue separator).
+
+- **Disable every mod in this section** (do **not** delete them—just uncheck the boxes).
+- These mods are included to give you full control over NPC appearances using EasyNPC.
+- If left enabled, they will **conflict with the merged NPC output** and cause visual bugs or missing NPCs.
+
+> 🛠️ If you want to customize or swap NPC appearances, please refer to the [EasyNPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md) for instructions.
+
 3. **Click 'Run' and enjoy!**
 
 Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 480 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
