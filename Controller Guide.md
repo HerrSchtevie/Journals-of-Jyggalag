@@ -126,6 +126,7 @@ This modlist includes several tools to help you tailor your controller experienc
 
 ⌨️ Keyboard and Mouse Mapping
 
+![joj - keybinds](https://github.com/user-attachments/assets/d73281ef-c353-44a3-be86-317f1d5011fa)
 
 ## ✅ Summary
 
