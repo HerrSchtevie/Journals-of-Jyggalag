@@ -9,30 +9,29 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "DLC Required"
     ],
     "nsfw": true,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://i.imgur.com/zCYLQKF.png",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ_dark_fantasy_splash.png",
       "readme": "https://github.com/HerrSchtevie/Journals-of-Jyggalag",
-      "download": "",
-      "machineURL": "Journals-of-Jyggalag/modlists.json",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_df91cec5-7157-4235-8125-1ca07e07657b",
+      "machineURL": "Journals_of_Jyggalag",
       "discordURL": "https://discord.gg/8ZCa7w8BZQ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "9kFYLcBE0po=",
+      "Size": 4870484136,
+      "NumberOfArchives": 2059,
+      "SizeOfArchives": 207103314821,
+      "NumberOfInstalledFiles": 319723,
+      "SizeOfInstalledFiles": 272035605947
     },
-    "version": "1.0"
+    "version": "1.5.0"
   }
 ]
 

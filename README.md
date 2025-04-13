@@ -61,10 +61,10 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 |---------------|---------------------------------------------------------|------------------------------------------------------|
 | **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series)|
 | **RAM**       | 16GB DDR4                                               | 32GB DDR4                                           |
-| **Pagefile**  | 30GB                                                    | 40GB                                                |
+| **Pagefile**  | 40GB                                                    | 40GB                                                |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
-| **GPU**       | NVIDIA RTX 3060 / AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
-| **Disk Space**| ~200GB Download / ~270GB Installed / ~470GB Total       | ~200B Download / ~270GB Installed / ~470GB Total                   |
+| **GPU**       | NVIDIA RTX 3060 Ti/ AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
+| **Disk Space**| ~206GB Download / ~273GB Installed / ~480GB Total       | ~206B Download / ~273GB Installed / ~480GB Total                   |
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
 
@@ -78,6 +78,7 @@ Additionally, the following software must be installed:
 ## 🔥 Installation Instructions
 
 ### ❗ Important
+
 - **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
@@ -88,12 +89,11 @@ Additionally, the following software must be installed:
 
 ### Post-Installation Steps
 
-1. **Launch Journals of Jyggalag (SKSE) MO2.**
-2. **Set your desired resolution and graphical settings.**
-3. **Verify plugins and load order within MO2.**
-4. **Start a new game to ensure all mods are functioning correctly.**
+1. **Open MO2 from your Journals of Jyggalag installation folder.**
+2. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
+3. **Click 'Run' and enjoy!**
 
-Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 550 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
+Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 480 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
 
 You must also install:
 
@@ -101,7 +101,9 @@ You must also install:
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
+
 ## 📚 Additional Guides
+
 
 For more information on controller support, NPC management, and running essential tools, check out the following:
 
