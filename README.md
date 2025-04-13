@@ -100,7 +100,7 @@ Additionally, the following software must be installed:
 - These mods are included to give you full control over NPC appearances using EasyNPC.
 - If left enabled, they will **conflict with the merged NPC output** and cause visual bugs or missing NPCs.
 
-> 🛠️ If you want to customize or swap NPC appearances, please refer to the [EasyNPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md) for instructions.
+> 🛠️ If you want to customize or swap NPC appearances, please refer to the [Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md) for instructions.
 
 3. **Click 'Run' and enjoy!**
 
