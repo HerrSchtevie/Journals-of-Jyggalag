@@ -11,7 +11,7 @@
 - [Requirements](#-Requirements)
 - [Installation Instructions](#-Installation-Instructions)
 - [Post-Installation Steps](#-Post-Installation-Steps)
-- [Controller Setup Guide](#-Controller-Setup-Guide)
+- [Additional Guides](#-Additional-Guides)
 - [Modlist](#-Modlist)
 - [Support & Troubleshooting](#-Support--Troubleshooting)
 - [Credits & Permissions](#-Credits--Permissions)
@@ -78,7 +78,8 @@ Additionally, the following software must be installed:
 ## 🔥 Installation Instructions
 
 ### ❗ Important
-- **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE).
+
+- **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
 2. **Create a clean installation of Skyrim Anniversary Edition (AE required). Plenty of great video tutorials on this (https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)**
@@ -100,87 +101,30 @@ You must also install:
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
-## The Ultimate Control Scheme Setup Guide
 
-### Overview
+## 📚 Additional Guides
 
-This modlist includes TUCS (The Ultimate Control Scheme) controller support to enhance your Skyrim gaming experience. Follow these specific steps for full setup.
 
-### Controller Compatibility
+For more information on controller support, NPC management, and running essential tools, check out the following:
 
-Recommend Xbox One controller.
+- 🎮 [Controller Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Controller%20Guide.md)  
+  Step-by-step instructions for setting up controller support in JOJ.
 
-### Controller Configuration Steps
+- 🧑‍🤝‍🧑 [Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md)  
+  A complete walkthrough on managing and customizing NPC appearances using EasyNPC.
 
-**Step 1: Enable Controller Mods**
+- 🛠️ [Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md)  
+  Learn when and how to run tools like DynDOLOD, TexGen, xLODGen, and more.
 
-- Open Mod Organizer 2 (MO2).
-- Activate all mods under the "Controller" section.
-
-**Step 2: Activate Controller in Skyrim**
-
-- Launch Skyrim.
-- Navigate to Settings > Gameplay.
-- Ensure "Controller" option is enabled.
-
-**Step 3: Verify Control Settings**
-
-- Within Skyrim's controls menu, confirm that "Sneak" is assigned to the "B" button.
-
-**Step 4: Configure Combat Gameplay Overhaul (CGO)**
-
-- Open Mod Configuration Menu (MCM).
-- Navigate to CGO settings:
-  - Set "Switch Grip" to "DPad UP."
-  - Set "Dual Wield Blocking" to "DPad DOWN."
-
-**Step 5: Configure The Ultimate Dodge Mod (TUDM)**
-
-- Open MCM and select "The Ultimate Dodge Mod."
-- Adjust settings as follows:
-  - Assign "Sneak Key" to "DPad LEFT."
-  - "Dodge Key" defaults to "B" (based on prior control verification).
-  - Leave "Gamepad/Controller Compatibility" disabled (unchecked).
-
-**Step 6: Configure Serio’s Cycle Hotkeys and True Directional Movement (TDM)**
-
-- For Serio’s Cycle Hotkeys:
-
-  - Open Serio’s Cycle Hotkeys in MCM and set the setter hotkey to "Home."
-  - Press "Home" in-game to configure your hotkeys (further details available on the mod’s Nexus page).
-
-- For True Directional Movement:
-
-  - Verify the "Target Lock" setting in TDM’s MCM matches recommended settings.
-
-### 🎮 Custom Control Scheme
-
-| 🕹️ **Button**        | 📜 **Function**                         |
-|-----------------------|---------------------------------------|
-| **▶️ Start**          | 📖 Journal                           |
-| **◀️ Back**           | ⏳ Wait                              |
-| **🦾 LT**             | 🔪 Left Attack                       |
-| **🦿 RT**             | ⚔️ Right Attack                      |
-| **🎮 LB+Back**        | 💾 Quicksave                         |
-| **🎮 RB+Start**       | 🧝 Character Menu                   |
-| **🎙️ LB+RB**         | 🌬️ Shout                            |
-| **🎮 LB**             | 🗡️ Ready/Sheathe Weapon             |
-| **🎮 RB**             | 🏃 Sprint                           |
-| **📌 LS**             | ⭐ Favorites                        |
-| **📌 RS**             | 👁️ Toggle POV / 🔒 Hold for Target Lock |
-| **🅰️ A**             | 🗝️ Activate                         |
-| **🅱️ B**             | 💨 Dodge                            |
-| **❎ X**             | 🔪 Ready Weapon                     |
-| **🔼 Y**             | 🦘 Jump                             |
-| **⬅️ DPad Left**      | 🥷 Sneak                            |
-| **⬆️ DPad Up**        | 🔄 Switch Grip (CGO)               |
-| **⬇️ DPad Down**      | 🛡️ Dual Wield Blocking (CGO)      |
+---
 
 ## 📜 Modlist
 
 This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
 
-![Modlist Preview](upcoming)
+[![Load Order Library](upcoming)](https://loadorderlibrary.com/lists/journals-of-jyggalag)
+
+Please note that this Load Order Library is not 100% accurate/up-to-date, but it's close. I will get this updated once Load Order Library gets fixed.
 
 ## 📞 Support & Troubleshooting
 
@@ -197,9 +141,9 @@ If you encounter issues:
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://i.imgur.com/example3.png)
-![Screenshot 2](https://i.imgur.com/example4.png)
-![Screenshot 3](https://i.imgur.com/example5.png)
+![Screenshot746](https://github.com/user-attachments/assets/24db3828-9f30-45d0-9bd5-7ce3261d65ad)
+<img width="1280" alt="The_Elder_Scrolls_V_Skyrim_Special_Edition_Screenshot_2025 04 08_-_01 37 01 06" src="https://github.com/user-attachments/assets/d3d6a81b-facb-48ad-bb6c-6baf0c001798" />
+![Skyrim_Special_Edition_4_7_2025_9_45_23_PM](https://github.com/user-attachments/assets/50d6f2f3-c886-4087-a2a1-6411b7b9e201)
 
 ## 🔗 Links
 
@@ -208,14 +152,13 @@ If you encounter issues:
 
 ## ❓ FAQ
 
-- **Q: Is Anniversary Edition really required?**  
-  A: Yes, JOJ is built exclusively for AE and will not function correctly with SSE.
+- **Q: What do I need for this list to install properly?**  
+  A: **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 - **Q: Where do I go for support?**  
   A: Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
 
 ---
-
 
 
 
