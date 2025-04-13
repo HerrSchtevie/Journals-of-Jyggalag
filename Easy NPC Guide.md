@@ -116,7 +116,7 @@ You can preload my default profile:
 
 - Click the **folder icon** in the top-right
 - Navigate to:  
-  `Journals of Jyggalag\mods\JOJ - NPC Mugshots`
+  `Journals of Jyggalag\tools\Mugshots`
 - Select:  
   `JOJ - NPC Merge profile.txt`
 
