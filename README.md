@@ -35,13 +35,30 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
 
 ## 📋 Features
 
-- **NGVO Graphics Overhauls** (credit to Biggie Boss)
-- **Quest Mods:** LOTD, The Forgotten City, Project AHO, VIGILANT, Wyrmstooth, Helgen Reborn, and more.
-- **City and Interior Overhauls:** JK’s Skyrim series, Obscure's College, and SO MANY compatibility patches.
-- **Armor & Weapon Add-ons:** New weapons, armors, and replacers with high-quality models.
-- **NSFW & OStim Integration:** Opt-in adult content for a personalized experience.
-- **Comprehensive NPC Overhauls:** ColdSun’s NPC Overhauls, Sons of Nirn, Ladies of Skyrim, etc.
-- **Complete LOD Generation:** TexGen, xLODGen, DynDOLOD 3.x.
+## 📋 Features
+
+- **NGVO-Based Visuals:**  
+  Built on top of NGVO (credit to Biggie Boss), this list features full ENB and parallax support, customized weather systems, lighting enhancements, and stability patches for a consistently cinematic experience across all regions.
+
+- **Quest Mods:**  
+  JOJ v2.0 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
+  Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
+
+- **City and World Overhauls:**  
+  Fully integrated combinations of JK’s Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
+
+- **Armor & Weapon Add-ons:**  
+  Includes a wide range of high-quality, lore-friendly armors (as well as NSFW armors/clothing) and weapons curated for visual consistency and seamless distribution across leveled lists.
+
+- **NSFW & OStim Integration:**  
+  JOJ integrates OStim NG, OBody, HIMBO, and 3BA with immersive balance. All adult content is carefully implemented — no defeat mods, no excessive scripts, and no forced interactions.
+
+- **Customizable NPC Overhauls:**  
+  Features visual overhauls from ColdSun’s Visions, Pandorables NPCs,  Sons of Nirn, and others. Users can easily customize NPC appearances using EasyNPC with full mugshot support and modular merging.
+
+- **Complete LOD Generation:**  
+  Ships with fully generated TexGen, xLODGen, and DynDOLOD 3.x outputs — allowing you to explore vast landscapes and overhauled cities without pop-in or performance drops.
+
 
 ## 💻 Requirements
 
