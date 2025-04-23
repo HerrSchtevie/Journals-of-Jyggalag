@@ -12,12 +12,15 @@
 - [Installation Instructions](#-Installation-Instructions)
 - [Post-Installation Steps](#-Post-Installation-Steps)
 - [Additional Guides](#-Additional-Guides)
+- [Gameplay Tips](#-Gameplay-Tips)
 - [Modlist](#-Modlist)
+- [Rule 11 Discalimer](#-Rule-11–Modlist-Modification-Disclaimer)
 - [Support & Troubleshooting](#-Support--Troubleshooting)
 - [Credits & Permissions](#-Credits--Permissions)
 - [Screenshots](#-Screenshots)
 - [Links](#-Links)
 - [FAQ](#-FAQ)
+- [Thank you!](#-Thank-You)
 
 ---
 
