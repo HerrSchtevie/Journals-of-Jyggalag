@@ -80,7 +80,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **RAM**       | 16GB DDR4                                               | 32GB DDR4                                           |
 | **Pagefile**  | 40GB                                                    | 40GB                                                |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
-| **GPU**       | NVIDIA RTX 3060 Ti/ AMD RX 6600 XT                        | NVIDIA RTX 4070 / AMD RX 7800 XT                    |
+| **GPU**       | NVIDIA RTX 3060 Ti/ AMD RX 6600 XT (8 GB VRAM)           | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)                    |
 | **Disk Space**| ~210GB Download / ~300GB Installed / ~510GB Total       | ~210B Download / ~300GB Installed / ~510GB Total                   |
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
