@@ -38,7 +38,7 @@ While we’ll try to help in the [Discord](https://discord.gg/8ZCa7w8BZQ), the t
 1. In **MO2**, scroll to the `EasyNPC` separator in the left panel  
 2. **Enable every mod** listed under this separator
 
-((https://github.com/user-attachments/assets/f6a40445-dbb4-43cf-a870-9062951ffb61)
+![easynpc1](https://github.com/user-attachments/assets/f6a40445-dbb4-43cf-a870-9062951ffb61)
 
 > 💡 These mods are the source data for your merge.
 
