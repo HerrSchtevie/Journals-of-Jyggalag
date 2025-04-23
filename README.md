@@ -87,21 +87,12 @@ Additionally, the following software must be installed:
 4. **Click on the JOJ modlist** and choose your installation directory. The installation and downloads do not have to be on the same drive, but the installtion MUST be on a SSD.
 5. **Click Start** and wait for the installation to complete. Wabbajack will handle the entire process automatically.
 
+- [Biggie's Wabbajack Installtion Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
+
 ### Post-Installation Steps
 
 1. **Open MO2 from your Journals of Jyggalag installation folder.**
 2. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
-
-### 🧑‍🤝‍🧑 Important: Disable NPC Overhaul Mods Before Playing
-
-**BEFORE launching the game**, open MO2 and scroll down to the section labeled **EasyNPC** (highlighted with a blue separator).
-
-- **Disable every mod in this section** (do **not** delete them—just uncheck the boxes).
-- These mods are included to give you full control over NPC appearances using EasyNPC.
-- If left enabled, they will **conflict with the merged NPC output** and cause visual bugs or missing NPCs.
-
-> 🛠️ If you want to customize or swap NPC appearances, please refer to the [Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md) for instructions.
-
 3. **Click 'Run' and enjoy!**
 
 Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 480 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
@@ -129,6 +120,33 @@ For more information on controller support, NPC management, and running essentia
 
 ---
 
+### 🧠 Gameplay Tips
+
+- **Ultrawide Monitors:**  
+  JOJ is configured for 16:9 monitors by default. If you use a 21:9 or 32:9 display (like me — #ultrawidemasterrace), you’ll need to **rerun the FOMOD installers** for the following mods to select the appropriate widescreen options:
+  - `Dear Diary Dark Mode (white text)`
+  - `Untarnished UI 1.1.6`
+  - `The Elder Scrolls Legends - Loading Screens`  
+  These mods are marked with notes inside MO2 reminding you to rerun the FOMOD if needed.
+
+- **Blue Separator Load Order Markers:**  
+  Throughout MO2, you’ll see several sections marked with **blue separators**. These aren’t meant to be tweaked heavily, but rather serve as organized areas where you can safely **add mods**, **adjust settings**, or insert patches without interfering with core list functionality. Examples include NPC visual mods, controller patches, or custom camera tweaks.
+
+- **Disabling 32:9 Patch:**  
+  If you’re not on a 32:9 monitor, make sure to **disable** the mod:
+  - `32x9 Patch for Hotkey Reminder`  
+  Found under the `Controller Support` separator.
+
+- **Keyboard & Mouse Users:**  
+  If you don’t plan to use a controller, you can safely **disable**:
+  - `Gamepad++`
+  - `Complete Controller Setup`  
+  These are also found under the `Controller Support` separator.
+
+These small tweaks help tailor the list to your exact setup — especially for widescreen users or those who prefer a traditional keyboard + mouse experience.
+
+---
+
 ## 📜 Modlist
 
 This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
@@ -136,6 +154,26 @@ This list includes a variety of quest mods, graphical overhauls, NSFW content, a
 [![Load Order Library](upcoming)](https://loadorderlibrary.com/lists/journals-of-jyggalag)
 
 Please note that this Load Order Library is not 100% accurate/up-to-date, but it's close. I will get this updated once Load Order Library gets fixed.
+
+---
+
+## ⚖️ Rule 11 – Modlist Modification Disclaimer
+
+By choosing to modify or tweak **Journals of Jyggalag (JOJ)** in any way — whether by adding mods, changing load order, editing settings, or rebuilding components — you are doing so at your own risk.
+
+> 🛠️ **You have effectively voided your warranty.**
+
+While we absolutely encourage learning and modding, please understand that:
+
+- **Myself and the admin team are not obligated to help troubleshoot issues** caused by personal edits or changes to the list.
+- We cannot guarantee support for lists that differ from the officially published Wabbajack version.
+- If something breaks because of your changes, it’s your responsibility to fix it.
+
+That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the `🛡️ Grey Aegis – Rule 11 Support` channel on our [Discord server](https://discord.gg/8ZCa7w8BZQ). Help is not guaranteed — but if we can (and want to), we may offer guidance.
+
+Thank you for respecting the work that went into JOJ, and for being part of the community!
+
+---
 
 ## 📞 Support & Troubleshooting
 
@@ -168,6 +206,20 @@ If you encounter issues:
 
 - **Q: Where do I go for support?**  
   A: Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
+
+---
+
+## 💬 Thank You
+
+Thank you for taking the time to install and experience **Journals of Jyggalag**. This project is a passion-driven labor of love built on the shoulders of an incredible modding community.
+
+Whether you're here for the lore, the visuals, the chaos, or the adult content — I truly appreciate you choosing JOJ as your journey through Skyrim.
+
+If you enjoyed the list, consider joining the [Discord](https://discord.gg/8ZCa7w8BZQ), sharing your screenshots, and helping others in the community. Your feedback, bug reports, and kind words help keep this project alive and growing.
+
+May Order guide you, Champion.
+
+— **(Herr Schtevie)** 
 
 ---
 
