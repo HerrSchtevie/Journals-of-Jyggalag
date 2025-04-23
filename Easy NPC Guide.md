@@ -2,26 +2,28 @@
 
 Welcome, Champion of Order.
 
-This guide walks you through how to **rebuild or customize your NPC appearance merge** using [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/56095). This tool allows you to visually select which NPC overhauls you prefer — giving you full control over how characters look in your game.
+This guide walks you through how to **rebuild or customize your NPC appearance merge** using [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/56095). This tool gives you full visual control over how characters appear in your game.
 
 ---
 
 ## 🧠 What is EasyNPC?
 
 EasyNPC is a GUI-based tool that lets you:
-- Compare different NPC overhauls side-by-side
-- Resolve conflicts between overhaul mods
-- Generate your own merged plugin and FaceGen data
-- Eliminate blackface bugs and reduce plugin count
+
+- Compare NPC overhauls side-by-side  
+- Resolve mod conflicts easily  
+- Generate your own merged plugin and FaceGen data  
+- Eliminate blackface bugs and reduce plugin count  
 
 ---
 
 ## ✨ Why It’s Included
 
-After repeated requests from v1.0.0 users, the latest version of **Journals of Jyggalag** includes **all of the NPC overhaul mods** used in my original merge. This gives you the freedom to:
-- Use the default setup
-- Make your own aesthetic choices
-- Rebuild the entire merge with your preferred overhauls
+After repeated requests from v1.0.0 users, the latest version of **Journals of Jyggalag** includes **all the NPC overhauls** used in the original merge. This gives you the freedom to:
+
+- Use the default setup  
+- Customize your aesthetics  
+- Build your own merge safely  
 
 ---
 
@@ -29,167 +31,151 @@ After repeated requests from v1.0.0 users, the latest version of **Journals of J
 
 > **You are modifying the modlist at your own risk.**
 
-While we’ll try to help in the [Discord](https://discord.gg/8ZCa7w8BZQ), the team is not obligated to troubleshoot issues caused by your personal edits or merges.
+While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), we are not obligated to help troubleshoot issues resulting from custom edits.
 
 ---
 
 ## 🛠️ Step 1: Enable NPC Overhaul Mods
 
-1. In **MO2**, scroll to the `EasyNPC` separator in the left panel  
-2. **Enable every mod** listed under this separator
+1. In **MO2**, scroll to the `EasyNPC` separator in the left panel.  
+2. **Enable each mod one at a time, in order**, from top to bottom. Enabling mods one-by-one ensures the plugin order in the right panel mirrors the order of mods in the left panel, which helps preserve a clean and consistent plugin load order during the merge process.
 
-![EasyNPC Overhaul List](https://github.com/user-attachments/assets/b4549da1-a975-4df4-9a92-f0df986b8642)
+![easynpc1](https://github.com/user-attachments/assets/18eeb5b2-fddb-4d52-9845-6b928c692d75)
 
+3. Do the same in the right panel (Plugins):  
+   - Click the first EasyNPC plugin, hold **Shift**, and click the last  
+   - Right-click > **Create Group** > Name it `EasyNPC`  
+   - Move this group just above the “Outputs” group for clarity  
 
-> 💡 These mods are the source data for your merge.
-
-3. This will enable all of the plugins as well, to ensure there are no issues with this:
-
-**Recommended:**
-- Click the first mod in the plugins panel at the bottom
-- Hold **Shift**, click the last mod to select all
-- Right-click > **Create Group** > I always name it Easy NPC for organiztional purposes
-- Move this group just above the “Outputs” plugin group
-
-![easynpc3](https://github.com/user-attachments/assets/a7277e3d-09bf-4dd1-936f-a63a7b97b820)
-
-![easynpc4](https://github.com/user-attachments/assets/a1458d88-b78e-49a6-975c-c55beac12bd3)
+![easynpc2](https://github.com/user-attachments/assets/2bfb065f-46e7-49d1-a9a3-f56358e0b17c)
 
 ---
 
-### 🔄 Step 1.5 (Optional): Remove or Change NPC Replacers
+## 🛹 Step 2: Clean Previous Merge
 
-If you want to remove or swap out any NPC mods under `NPC Replacers and Add-Ons`:
+1. In the **right panel**, disable:  
+   - `JOJ - Synthesis Patch.esp, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp` *(temporarily)*
 
-1. Disable all mods in that section
-2. Rerun Synthesis after all the steps below are completed.
+2. In the **left panel**, locate `JOJ - NPC Merge` under the `Outputs` separator  
+   - Right-click > **Open in Explorer**  
+   - Delete **everything inside the folder**  
 
-This will unmerge those NPCs and remove dependencies cleanly.
-
----
-
-## 🧹 Step 2: Disable Synthesis & Clear Previous Merge
-
-1. In the **right panel**, disable:
-   - `JOJ - Synthesis Patch.esp`
-
-2. In the **left panel**, find `JOJ - NPC Merge` under the `Outputs` separator  
-   - Right-click > **Open in Explorer**
-   - Delete **everything inside the folder**
-
-3. Click the **Refresh** button in MO2
+3. Close and Reopen MO2 to fully refresh
 
 ---
 
 ## ▶️ Step 3: Run EasyNPC
 
-1. Launch **EasyNPC** from the MO2 executables dropdown
-2. Let it load fully
-3. Ensure **all plugins are checked**, then click **OK**
+1. Launch **EasyNPC** from the MO2 dropdown  
+2. Let it load fully  
+3. **Deselect all plugins** (easiest way to do this is click the box next to "Load?" which will highlight everything, then press spacebar to deselect everything), then manually select only the following:
+   - `Skyrim.esm`, `Update.esm`, `Dawnguard.esm`, `HearthFires.esm`, `Dragonborn.esm`  
+   - All **Creation Club plugins** (Plugins 1–80)  
+   - `_ResourcePack.esl`, `Unofficial Skyrim Special Edition Patch.esp`, and `Unofficial Skyrim Creation Club Content Patch.esl` (Plugins 87–88)  
+   - Any additional **NPC overhaul mods** that you intend to merge (they will be towards the bottom if you included put your NPC mods in the Easy NPC plugin group that we created in Step 1)  
 
-![easynpc5](https://github.com/user-attachments/assets/a38ae50c-710c-4dad-8451-fbf3606087f6)
+![easynpc3](https://github.com/user-attachments/assets/93e3ed5c-8104-4232-bec5-fd7315a16d21)
+![easynpc4](https://github.com/user-attachments/assets/ba5eacbf-7f7f-47e1-8331-34726f336a12)
 
 ---
 
 ## 🎨 Step 4: Build Your Profile
 
 1. Go to the **Profiles** tab  
-2. This is where you select the faces you want to appear in-game
+2. Select NPCs and choose the visual appearance you'd like for each  
 
-You can preload my default profile:
-
-- Click the **folder icon** in the top-right
-- Navigate to:  
-  `Journals of Jyggalag\tools\Mugshots`
-- Select:  
-  `JOJ - NPC Merge profile.txt`
+> You are free to mix and match faces from any available overhaul.
 
 ---
 
 ### 🧠 How This Works
 
-- **Blue Box** = Default Source (loads textures)  
-- **Green Crown** = Face Source (selects face appearance)
+- **Blue Box** = Default Source (determines FaceGen assets)  
+- **Green Crown** = Face Source (determines face appearance)
 
-> Do **not** change the Default Source — only the Face Source.
+✅ **Only change the Face Source**  
+🚫 Do **not** change the Default Source
 
-> Ignore plugins marked **“Plugin not loaded”** in yellow. Only assign NPCs that have mugshots loaded.
+> Ignore “Plugin not loaded” warnings unless it’s for an NPC you’re actively editing. These are safe to skip if mugshots don’t load.
 
-![easynpc6](https://github.com/user-attachments/assets/05f12def-d0f8-4f8e-bb75-33bf0058b726)
+![easynpc5](https://github.com/user-attachments/assets/17932b3a-1a40-452f-b5c0-b49ba6e2b82b)
 
 ---
 
-## 🧱 Step 5: Build the Merge File
+## 🛡️ Step 5: Build the Merge File
 
-1. Click the **Build** tab next to the Profile tab
-2. Review the **Alerts** tab — “suspicious masters” can be safely ignored
+1. Go to the **Build** tab  
+2. Review the **Alerts** tab:
+   - Warnings about "suspicious masters" can typically be ignored unless you're encountering build errors  
+   - If any required NPC records are missing or unresolved, resolve those before continuing  
 
-Under **Output Settings**:
-- Rename the Mod Name to:
+3. Under **Output Settings**:
+   - **Mod Name**: `JOJ - NPC Merge`  
+   - ✅ **Pack files into archives** (recommended)  
+   - ✅ **Attempt conversion of wigs to head parts**  
 
-JOJ - NPC Merge
+4. **DO NOT** select a base plugin. Let EasyNPC generate a fresh output plugin to avoid baked conflicts with AI Overhaul, 3DNPC, or Sons of Nirn.  
+5. When ready, click **Build Anyway** in the upper right corner  
 
-- Check both:
-- ✅ Pack files into archives (recommended)
-- ✅ Attempt conversion of wigs to head parts
-
-Click **Build Anyway** in the top right.
-
-![easynpc8](https://github.com/user-attachments/assets/1c217a88-f191-4fde-99db-6ba39e6db040)
+![easynpc6](https://github.com/user-attachments/assets/cb4d4a18-e2b0-4d68-8ba6-51e4e715688c)
 
 ---
 
 ## ✅ Step 6: Finalize and Organize
 
-Once the build completes successfully, you’ll see a confirmation screen:
+After the build completes, you'll get a success message:
 
 > “Your NPC Merge is ready at:  
-> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge`”
+> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge`” Please note that my picture output path is slightly different, as this was just an example.
 
-> ⚠️ The example path in the screenshot may look different — yours should show the correct location above.
-
-![easynpc9](https://github.com/user-attachments/assets/39b34b29-7fa3-4f46-a821-8d7dfd2a805e)
+![easynpc7](https://github.com/user-attachments/assets/eadea260-d5bd-4977-8750-1d5fc4abef78)
 
 ---
 
-### 📦 Post-Build Steps
+### 📦 Post-Build Steps in MO2
 
-1. Close EasyNPC
-2. Enable the `JOJ - NPC Merge` mod in MO2
-3. Refresh MO2
+1. Close EasyNPC  
+2. Enable `JOJ - NPC Merge` in MO2  
+3. Refresh your MO2 panels  
 
-You will now see **5 new plugins** at the bottom of your plugin panel.
+You’ll now see **4–5 new plugins** appear at the bottom of your plugin list.
 
-- Move them **above `JOJ - Synthesis Patch.esp`**, but keep them within the `Outputs` group
-- Enable all of them
+- Select all of them, then right-click > **Create Group** > Name it `EasyNPC Merge`  
+- Move this new group just **above** the `Outputs` plugin group  
+- Enable all the plugins inside the new `EasyNPC Merge` group  
 
-![easynpc10](https://github.com/user-attachments/assets/6e9878f9-68e0-4b08-a0e3-0bfa32aa4e7d)
-
----
-
-### 🚫 Final Cleanup (IMPORTANT)
-
-Now that your new merge is live:
-
-- **Disable ALL mods** under the `EasyNPC` separator in MO2  
-These were only needed to generate the merge — leaving them active will cause plugin conflicts, FaceGen issues, and NPC bugs.
+![easynpc8](https://github.com/user-attachments/assets/8abc82e4-aa91-4fa8-a31f-9b96dd027322)
 
 ---
 
-## 🧾 Conclusion
+### ❌ Final Cleanup (IMPORTANT)
+
+Once the new merge is active:
+
+- **Disable ALL mods under the EasyNPC separator**  
+  These were only needed for the merge. Leaving them enabled will cause plugin duplication, blackface bugs, and instability.
+
+![easynpc9](https://github.com/user-attachments/assets/5b2898a1-c307-47e9-bced-a934df69c591)
+
+---
+
+## 🗞️ Conclusion
 
 You're done!
 
-Your NPCs are now fully customized and merged into a clean, blackface-free plugin set. If you experience any NPC bugs in game, rerun all steps in this guide.
+Your NPCs are now fully customized with FaceGen data, clean plugin architecture, and no blackface bugs.
 
 ### 🔥 REMINDER – RULE 11
 
-You chose to modify the modlist. That means:
+You chose to modify the modlist:
 
-- You are responsible for any issues this causes
-- If something is broken, **re-read this guide carefully**
-- I am not responsible for fixing problems introduced by your changes
+- You are responsible for any issues this causes  
+- Re-read this guide carefully if something breaks  
+- Support is not guaranteed
 
 ---
 
 Thanks for taking the time to customize your experience — that’s the spirit of modding. Enjoy your tailored adventure in the Journals of Jyggalag. 👑
+
+-Herr Schtevie
+![Jyggalag red](https://github.com/user-attachments/assets/16abb99e-2b78-45b9-8896-4969ebd1e38d)
