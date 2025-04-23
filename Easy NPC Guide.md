@@ -114,8 +114,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
    - ✅ **Pack files into archives** (recommended)  
    - ✅ **Attempt conversion of wigs to head parts**  
 
-4. **DO NOT** select a base plugin. Let EasyNPC generate a fresh output plugin to avoid baked conflicts with AI Overhaul, 3DNPC, or Sons of Nirn.  
-5. When ready, click **Build Anyway** in the upper right corner  
+4. When ready, click **Build Anyway** in the upper right corner  
 
 ![easynpc6](https://github.com/user-attachments/assets/cb4d4a18-e2b0-4d68-8ba6-51e4e715688c)
 
