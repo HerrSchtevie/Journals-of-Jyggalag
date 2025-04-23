@@ -4,7 +4,8 @@ This modlist comes preconfigured with a complete controller setup using a curate
 
 > ✅ **These mods are enabled by default in Journals of Jyggalag.**
 
-[image](https://github.com/user-attachments/assets/6c838d7c-3493-4b82-8b86-432f4bfd6070)
+![Controller Support Features](https://github.com/user-attachments/assets/53714da2-d0f5-4c6a-b87f-581aa516f0e4)
+
 
 
 ---
