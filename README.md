@@ -99,7 +99,7 @@ Additionally, the following software must be installed:
 - **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
-2. **Create a clean installation of Skyrim Anniversary Edition (AE required). Plenty of great video tutorials on this [Gamer Poet's Tutorial](https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)**
+2. **Create a clean installation of Skyrim Anniversary Edition (AE required). Plenty of great video tutorials on this: [GamerPoets Tutorial](https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)**
 3. **Open Wabbajack** and search for **Journals of Jyggalag (JOJ)** in the modlist browser.
 4. **Click on the JOJ modlist** and choose your installation directory. The installation and downloads do not have to be on the same drive, but the installtion MUST be on a SSD.
 5. **Click Start** and wait for the installation to complete. Wabbajack will handle the entire process automatically.
