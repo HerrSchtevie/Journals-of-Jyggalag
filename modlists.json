@@ -18,18 +18,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ_dark_fantasy_splash.png",
       "readme": "https://github.com/HerrSchtevie/Journals-of-Jyggalag",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_e22969a4-d671-4bc1-a005-f5e8d49c5e0f",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_a34110c0-48c7-463b-8978-ce82443ead7f",
       "machineURL": "Journals_of_Jyggalag",
       "discordURL": "https://discord.gg/8ZCa7w8BZQ"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "NQMA09AZoT0=",
-      "Size": 7130245522,
+      "Hash": "RBcTzJkYSMM=",
+      "Size": 3696414315,
       "NumberOfArchives": 2487,
-      "SizeOfArchives": 244782430467,
-      "NumberOfInstalledFiles": 427685,
-      "SizeOfInstalledFiles": 384156077438
+      "SizeOfArchives": 238432459417,
+      "NumberOfInstalledFiles": 423970,
+      "SizeOfInstalledFiles": 380722367249
     },
     "version": "2.5.0"
   }
