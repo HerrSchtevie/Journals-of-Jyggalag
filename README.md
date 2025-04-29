@@ -122,6 +122,7 @@ Additionally, the following software must be installed:
 
 3. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
 4. **Click 'Run' and enjoy!**
+5. Alternate Perspective game start: **IMPORTANT:** Option 13 ("Guild Master of Explorer’s Guild") is redundant — do **NOT** select it. Select Option 14 ("Relic Hunter") instead if you want the LOTD start.  
 
 Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 568 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
 
