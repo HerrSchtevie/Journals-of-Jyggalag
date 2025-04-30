@@ -191,6 +191,9 @@ Once the new merge is active:
 
 ![easynpc17](https://github.com/user-attachments/assets/2243cc84-ec15-4b49-b7ef-167689d00e56)
 
+Be sure to reable to Output plugins that we disabled in step 2!
+`JOJ - Synthesis Patch.esp, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp`
+
 ---
 
 ## 🗞️ Conclusion
