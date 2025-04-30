@@ -38,17 +38,13 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 ## 📸 Step 0: Install Mugshots for EasyNPC
 
 1. Before opening **EasyNPC**, go to my Nexus page:  
-   [Journals of Jyggalag](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files)  
-   and download the file **"JOJ - NPC Mugshots"**  
-2. Unzip this file and place the **`Mugshots`** folder (the entire folder) into:  
-   `Journals of Jyggalag > tools > EasyNPC`  
+   [Journals of Jyggalag](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files) and download the file **"JOJ - NPC Mugshots"**  
+2. Unzip this file and place the **`Mugshots`** folder (the entire folder) into: `Journals of Jyggalag > tools > EasyNPC`  
 3. This download also includes a file called **`JOJ - NPC Merge profile 2.0.txt`**.  
    You will use this in **Step 4** below, and it can remain in the same `EasyNPC` folder along with the Mugshots  
 4. This will allow you to see the faces of the NPCs you are trying to select, making the selection process much easier  
-5. Note: This pack only includes mugshots for NPC overhauls already included in Journals of Jyggalag.  
-   If you're adding your own NPC overhauls, you'll need to find mugshots for those separately.  
-   You can find a community-made mugshot collection here:  
-   [Natural Lighting Mugshots (for EasyNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/97595)  
+5. Note: This pack only includes mugshots for NPC overhauls already included in Journals of Jyggalag. If you're adding your own NPC overhauls, you'll need to find mugshots for those separately.  
+   You can find a community-made mugshot collection here: [Natural Lighting Mugshots (for EasyNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/97595)  
 
 ---
 
