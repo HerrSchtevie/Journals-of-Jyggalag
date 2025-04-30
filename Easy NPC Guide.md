@@ -35,6 +35,21 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 
 ---
 
+## 📸 Step 0: Install Mugshots for EasyNPC
+
+1. Before opening **EasyNPC**, go to my Nexus page:  
+   [https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files)  
+   and download the file **"JOJ - NPC Mugshots"**  
+2. Unzip this file and place the **`Mugshots`** folder (the entire folder) into:  
+   `Journals of Jyggalag > tools > EasyNPC`  
+3. This will allow you to see the faces of the NPCs you are trying to select, making the selection process much easier  
+4. Note: This pack only includes mugshots for NPC overhauls already included in Journals of Jyggalag.  
+   If you are adding your own NPC overhauls, you'll need to find mugshots for those separately.  
+   You can find a community-made mugshot collection here:  
+   [https://www.nexusmods.com/skyrimspecialedition/mods/97595](https://www.nexusmods.com/skyrimspecialedition/mods/97595)  
+
+---
+
 ## 🛠️ Step 1: Enable NPC Overhaul Mods
 
 1. In **MO2**, scroll to the `EasyNPC` separator in the left panel.  
