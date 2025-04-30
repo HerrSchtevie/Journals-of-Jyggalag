@@ -174,9 +174,9 @@ After the build completes, you'll get a success message:
 
 You’ll now see **4–5 new plugins** appear at the bottom of your plugin list.
 
-- Select all of them, then right-click > **Create Group** > Name it `EasyNPC Merge`  
+- Select all of them, then right-click > **Create Group** > Name it `Easy NPC Merge`  
 - Move this new group just **above** the `Alternate Perspective` plugin group  
-- Enable all the plugins inside the new `EasyNPC Merge` group  
+- Enable all the plugins inside the new `Easy NPC Merge` group  
 
 ![easynpc8](https://github.com/user-attachments/assets/8abc82e4-aa91-4fa8-a31f-9b96dd027322)
 
