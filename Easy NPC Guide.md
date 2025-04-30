@@ -159,9 +159,9 @@ You can either tweak my choices or search for specific NPCs by name using the **
 After the build completes, you'll get a success message:
 
 > “Your NPC Merge is ready at:  
-> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge`” Please note that my picture output path is slightly different, as this was just an example.
+> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge`”
 
-![easynpc7](https://github.com/user-attachments/assets/eadea260-d5bd-4977-8750-1d5fc4abef78)
+![easynpc16](https://github.com/user-attachments/assets/e713d5c8-ab43-4682-b85a-17a3c2343a18)
 
 ---
 
