@@ -117,7 +117,18 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 - **Green Crown** = Face Source (determines face appearance)
 
 ✅ **Only change the Face Source**  
-🚫 Do **not** change the Default Source
+🚫 Do **not** change the Default Source  
+
+> **IMPORTANT:** None of your NPCs should have `AI Overhaul.esm` selected as their **Default Source** (Blue Box).  
+> If you downloaded the `JOJ - NPC Mugshots` pack from [Step 0](#-step-0-install-mugshots-for-easynpc), this is already configured correctly in the included profile:  
+> **`JOJ - NPC Merge profile 2.0.txt`**
+
+To load the profile:  
+- Click the **folder icon** in the top-right of the **Profile** tab  
+- Navigate to Journals of Jyggalag > tools > EasyNPC > Mugshots > Select the `JOJ - NPC Merged profile 2.0.txt`
+
+This will load up my pre-made profile, which mirrors the in-game build exactly.  
+You can either tweak my choices or search for specific NPCs by name using the **\"Name\"** search bar and apply changes to your personal overhauls.
 
 > Ignore “Plugin not loaded” warnings unless it’s for an NPC you’re actively editing. These are safe to skip if mugshots don’t load.
 
