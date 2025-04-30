@@ -60,7 +60,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
    - Right-click > **Create Group** > Name it `EasyNPC`  
    - Move this group just above the “Outputs” group for clarity  
 
-![easynpc2](https://github.com/user-attachments/assets/2bfb065f-46e7-49d1-a9a3-f56358e0b17c)
+![image](https://github.com/user-attachments/assets/c83e2863-e755-445c-8945-88cb5c1cbc44)
 
 ---
 
