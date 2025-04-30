@@ -178,7 +178,7 @@ You’ll now see **4–5 new plugins** appear at the bottom of your plugin list.
 - Move this new group just **above** the `Alternate Perspective` plugin group  
 - Enable all the plugins inside the new `Easy NPC Merge` group  
 
-![easynpc8](https://github.com/user-attachments/assets/8abc82e4-aa91-4fa8-a31f-9b96dd027322)
+![image](https://github.com/user-attachments/assets/362162f1-aa13-4851-98c2-f8267190bf96)
 
 ---
 
