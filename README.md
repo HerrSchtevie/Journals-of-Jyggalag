@@ -118,7 +118,7 @@ Additionally, the following software must be installed:
 - These mods are included to give you full control over NPC appearances using EasyNPC.
 - If left enabled, they will **conflict with the merged NPC output** and cause visual bugs or missing NPCs.
 
-![easynpc1](https://github.com/user-attachments/assets/8329b4d0-4813-4d94-a0a4-5d32941b8f59)
+![easynpc17](https://github.com/user-attachments/assets/09ae1469-1943-4ca4-9caf-5dd1f173116e)
 
 3. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
 4. **Click 'Run' and enjoy!**
