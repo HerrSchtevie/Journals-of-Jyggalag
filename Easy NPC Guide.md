@@ -175,7 +175,7 @@ After the build completes, you'll get a success message:
 You’ll now see **4–5 new plugins** appear at the bottom of your plugin list.
 
 - Select all of them, then right-click > **Create Group** > Name it `EasyNPC Merge`  
-- Move this new group just **above** the `Outputs` plugin group  
+- Move this new group just **above** the `Alternate Perspective` plugin group  
 - Enable all the plugins inside the new `EasyNPC Merge` group  
 
 ![easynpc8](https://github.com/user-attachments/assets/8abc82e4-aa91-4fa8-a31f-9b96dd027322)
@@ -189,7 +189,7 @@ Once the new merge is active:
 - **Disable ALL mods under the EasyNPC separator**  
   These were only needed for the merge. Leaving them enabled will cause plugin duplication, blackface bugs, and instability.
 
-![easynpc9](https://github.com/user-attachments/assets/5b2898a1-c307-47e9-bced-a934df69c591)
+![easynpc17](https://github.com/user-attachments/assets/2243cc84-ec15-4b49-b7ef-167689d00e56)
 
 ---
 
