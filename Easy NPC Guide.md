@@ -87,7 +87,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
    - `_ResourcePack.esl`, `Unofficial Skyrim Special Edition Patch.esp`, and `Unofficial Skyrim Creation Club Content Patch.esl` (Plugins 87–88)  
    - `Wyrmstooth.esm`, `CS_Visions.esm`, and `AI Overhaul.esm`  
    - Any additional **NPC overhaul mods** that you intend to merge (they will be towards the bottom if you included your NPC mods in the EasyNPC plugin group that we created in Step 1)  
-   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually. If you're using the provided `JOJ - NPC Merge profile 2.0.txt`, this has already been set up correctly—but it's still a 
+   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually. If you're using the provided `JOJ - NPC Merge profile 2.5.2.txt`, this has already been set up correctly—but it's still a 
      good idea to double check. It should only be enabled to ensure compatibility with Sons of Nirn during the merge process.  
  
 
