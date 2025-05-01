@@ -81,7 +81,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 | **Pagefile**  | 40GB                                                    | 40GB                                                |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)                    |
-| **Disk Space**| ~223GB Download / ~350GB Installed / ~573GB Total       | ~223GB Download / ~350GB Installed / ~573GB Total                   |
+| **Disk Space**| ~220GB Download / ~350GB Installed / ~570GB Total       | ~220GB Download / ~350GB Installed / ~570GB Total                   |
 
 The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
 
@@ -118,12 +118,12 @@ Additionally, the following software must be installed:
 - These mods are included to give you full control over NPC appearances using EasyNPC.
 - If left enabled, they will **conflict with the merged NPC output** and cause visual bugs or missing NPCs.
 
-![easynpc17](https://github.com/user-attachments/assets/6ab82a3d-e90c-40e3-9fdc-905d7fd5e027)
+![7](https://github.com/user-attachments/assets/21cc34e0-fa4e-41b1-a094-f6e867f23961)
 
 3. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
 4. **Click 'Run' and enjoy!**
 
-Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 573 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
+Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 570 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
 
 You must also install:
 
