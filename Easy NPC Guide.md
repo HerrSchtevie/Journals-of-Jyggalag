@@ -40,7 +40,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 1. Before opening **EasyNPC**, go to my Nexus page:  
    [Journals of Jyggalag](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files) and download the file **"JOJ - NPC Mugshots"**  
 2. Unzip this file and place the **`Mugshots`** folder (the entire folder) into: `Journals of Jyggalag > tools > EasyNPC`  
-3. This download also includes a file called **`JOJ - NPC Merge profile 2.0.txt`**.  
+3. This download also includes a file called **`JOJ - NPC Merge profile 2.5.2.txt`**.  
    You will use this in **Step 4** below, and it can remain in the same `EasyNPC` folder along with the Mugshots  
 4. This will allow you to see the faces of the NPCs you are trying to select, making the selection process much easier  
 5. Note: This pack only includes mugshots for NPC overhauls already included in Journals of Jyggalag. If you're adding your own NPC overhauls, you'll need to find mugshots for those separately.  
@@ -53,14 +53,14 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 1. In **MO2**, scroll to the `EasyNPC` separator in the left panel.  
 2. **Enable each mod one at a time, in order**, from top to bottom. Enabling mods one-by-one ensures the plugin order in the right panel mirrors the order of mods in the left panel, which helps preserve a clean and consistent plugin load order during the merge process.
 
-![easynpc1](https://github.com/user-attachments/assets/405ba829-8a56-4411-8446-34b9465408d3)
+![5](https://github.com/user-attachments/assets/4a5bbe3a-3a14-4d87-b1b9-45884aede9ad)
 
 3. Do the same in the right panel (Plugins):  
    - Click the first EasyNPC plugin, hold **Shift**, and click the last  
    - Right-click > **Create Group** > Name it `EasyNPC`  
    - Move this group just above the “Outputs” group for clarity  
 
-![image](https://github.com/user-attachments/assets/c83e2863-e755-445c-8945-88cb5c1cbc44)
+![1](https://github.com/user-attachments/assets/12adf39a-f856-42d2-9beb-2189de12fd30)
 
 ---
 
@@ -89,7 +89,6 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
    - Any additional **NPC overhaul mods** that you intend to merge (they will be towards the bottom if you included your NPC mods in the EasyNPC plugin group that we created in Step 1)  
    - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually. If you're using the provided `JOJ - NPC Merge profile 2.0.txt`, this has already been set up correctly—but it's still a 
      good idea to double check. It should only be enabled to ensure compatibility with Sons of Nirn during the merge process.  
-   - When enabling `Project ja-Khajay`, `Children of the Pariah`, and `Argonian Overhaul`, **do not** select their patch plugins—only enable the **masters**.  
  
 
 ![easynpc3](https://github.com/user-attachments/assets/93e3ed5c-8104-4232-bec5-fd7315a16d21)
@@ -97,8 +96,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 ![easynpc10](https://github.com/user-attachments/assets/cfb2120d-e89a-49cf-9fa6-a87b4f9d151b)
 ![easynpc11](https://github.com/user-attachments/assets/7f256593-ff6c-4ba6-ac99-a03a5b41da01)
 ![easynpc12](https://github.com/user-attachments/assets/f4cf6af2-c722-49b1-9fc8-f30128856237)
-![easynpc12 5](https://github.com/user-attachments/assets/49278c33-46ed-457a-9723-ba3ed5a117a9)
-![easynpc13](https://github.com/user-attachments/assets/798d6939-a0e6-4765-84b3-966650f6f03a)
+![2](https://github.com/user-attachments/assets/34e5897d-72c6-4959-973b-a5aae67a72f3)
 
 ---
 
@@ -121,7 +119,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 
 > **IMPORTANT:** None of your NPCs should have `AI Overhaul.esm` selected as their **Default Source** (Blue Box).  
 > If you downloaded the `JOJ - NPC Mugshots` pack from [Step 0](#-step-0-install-mugshots-for-easynpc), this is already configured correctly in the included profile:  
-> **`JOJ - NPC Merge profile 2.0.txt`**
+> **`JOJ - NPC Merge profile 2.5.2.txt`**
 
 To load the profile:  
 - Click the **folder icon** in the top-right of the **Profile** tab  
@@ -132,7 +130,7 @@ You can either tweak my choices or search for specific NPCs by name using the **
 
 > Ignore “Plugin not loaded” warnings unless it’s for an NPC you’re actively editing. These are safe to skip if mugshots don’t load.
 
-![easynpc5](https://github.com/user-attachments/assets/17932b3a-1a40-452f-b5c0-b49ba6e2b82b)
+![3](https://github.com/user-attachments/assets/21f08565-e7d3-4c00-8d22-f851c935ea2c)
 
 ---
 
@@ -151,7 +149,7 @@ You can either tweak my choices or search for specific NPCs by name using the **
 
 4. When ready, click **Build** in the upper right corner  
 
-![easynpc15](https://github.com/user-attachments/assets/6b097431-d73a-42b7-8b51-264b30a539b3)
+![4](https://github.com/user-attachments/assets/77796dae-0096-46d7-910c-92f4d7b89920)
 
 ---
 
@@ -172,13 +170,13 @@ After the build completes, you'll get a success message:
 2. Enable `JOJ - NPC Merge` in MO2  
 3. Refresh your MO2 panels  
 
-You’ll now see **4–5 new plugins** appear at the bottom of your plugin list.
+You’ll now see **4 new plugins** appear at the bottom of your plugin list.
 
 - Select all of them, then right-click > **Create Group** > Name it `Easy NPC Merge`  
 - Move this new group just **above** the `Alternate Perspective` plugin group  
 - Enable all the plugins inside the new `Easy NPC Merge` group  
 
-![image](https://github.com/user-attachments/assets/362162f1-aa13-4851-98c2-f8267190bf96)
+![6](https://github.com/user-attachments/assets/a012f00b-db1b-4fa5-b17b-68eef1887db4)
 
 ---
 
@@ -189,7 +187,7 @@ Once the new merge is active:
 - **Disable ALL mods under the EasyNPC separator**  
   These were only needed for the merge. Leaving them enabled will cause plugin duplication, blackface bugs, and instability.
 
-![easynpc17](https://github.com/user-attachments/assets/2243cc84-ec15-4b49-b7ef-167689d00e56)
+![7](https://github.com/user-attachments/assets/709fc68a-c204-4b2b-bb36-43c6f6bd13fd)
 
 Be sure to reable to Output plugins that we disabled in step 2!
 `JOJ - Synthesis Patch.esp, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp`
