@@ -207,8 +207,11 @@ If you encounter issues:
 ## 📸 Screenshots
 
 ![Screenshot746](https://github.com/user-attachments/assets/24db3828-9f30-45d0-9bd5-7ce3261d65ad)
-<img width="1280" alt="The_Elder_Scrolls_V_Skyrim_Special_Edition_Screenshot_2025 04 08_-_01 37 01 06" src="https://github.com/user-attachments/assets/d3d6a81b-facb-48ad-bb6c-6baf0c001798" />
-![Skyrim_Special_Edition_4_7_2025_9_45_23_PM](https://github.com/user-attachments/assets/50d6f2f3-c886-4087-a2a1-6411b7b9e201)
+![Screenshot746](https://github.com/user-attachments/assets/4a3131ff-cb3b-42fd-9441-7920610ad885)
+![SkyrimSE_2025-05-05_18-13-53](https://github.com/user-attachments/assets/9497cd29-0583-47ee-8844-59e180adce40)
+![SkyrimSE_2025-05-05_18-13-53](https://github.com/user-attachments/assets/b2cc5cd9-f87d-432c-ab7e-5d9ba2e1060f)
+![image](https://github.com/user-attachments/assets/43647165-2094-4c42-a9c8-8cff2ada0c4a)
+
 
 ## 🔗 Links
 
