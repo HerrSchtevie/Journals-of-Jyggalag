@@ -13,7 +13,6 @@
 - [Post-Installation Steps](#-Post-Installation-Steps)
 - [Additional Guides](#-Additional-Guides)
 - [Gameplay Tips](#-Gameplay-Tips)
-- [Modlist](#-Modlist)
 - [Rule 11 Discalimer](#-Rule-11–Modlist-Modification-Disclaimer)
 - [Support & Troubleshooting](#-Support--Troubleshooting)
 - [Credits & Permissions](#-Credits--Permissions)
@@ -153,7 +152,6 @@ For more information on controller support, NPC management, and running essentia
 - **Ultrawide Monitors:**  
   JOJ is configured for 16:9 monitors by default. If you use a 21:9 or 32:9 display (like me — #ultrawidemasterrace), you’ll need to **rerun the FOMOD installers** for the following mods to select the appropriate widescreen options:
   - `Dear Diary Dark Mode (white text)`
-  - `Untarnished UI 1.1.6`
   - `The Elder Scrolls Legends - Loading Screens`  
   These mods are marked with notes inside MO2 reminding you to rerun the FOMOD if needed.
 
@@ -166,22 +164,12 @@ For more information on controller support, NPC management, and running essentia
   Found under the `Controller Support` separator.
 
 - **Keyboard & Mouse Users:**  
-  If you don’t plan to use a controller, you can safely **disable**:
+  If you don’t plan to use a controller, you must **disable**:
   - `Gamepad++`
   - `Complete Controller Setup`  
   These are also found under the `Controller Support` separator.
 
 These small tweaks help tailor the list to your exact setup — especially for widescreen users or those who prefer a traditional keyboard + mouse experience.
-
----
-
-## 📜 Modlist
-
-This list includes a variety of quest mods, graphical overhauls, NSFW content, armor mods, and more.
-
-[![Load Order Library](upcoming)](https://loadorderlibrary.com/lists/journals-of-jyggalag)
-
-Please note that this Load Order Library is not 100% accurate/up-to-date, but it's close. I will get this updated once Load Order Library gets fixed.
 
 ---
 
