@@ -13,7 +13,7 @@
 - [Post-Installation Steps](#-Post-Installation-Steps)
 - [Additional Guides](#-Additional-Guides)
 - [Gameplay Tips](#-Gameplay-Tips)
-- [Rule 11 Discalimer](#-Rule-11–Modlist-Modification-Disclaimer)
+- [Rule 11 Disclaimer](#-Rule-11–Modlist-Modification-Disclaimer)
 - [Support & Troubleshooting](#-Support--Troubleshooting)
 - [Credits & Permissions](#-Credits--Permissions)
 - [Screenshots](#-Screenshots)
