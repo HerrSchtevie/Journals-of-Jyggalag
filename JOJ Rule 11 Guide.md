@@ -1,7 +1,8 @@
 
 # 📘 Journals of Jyggalag
 ## 🛠 A Prepper’s Guide to Rule-11
-**Written by Aaronavich – 05/18/25**
+**Written by Crusader of Order - Aaronavich**
+**Edits by Arbiter of Order - Rauty79**
 
 ---
 
@@ -20,7 +21,7 @@ Follow these steps to protect JOJ and ensure all changes are reversible!
 - Click the profile dropdown menu in MO2.
 - Select **Manage**.
 - In the popup:
-  - Choose your base profile (e.g., `Journals of Jyggalag`).
+  - Choose your base profile (e.g., `Journals of Jyggalag - Lord's Vision`).
   - Click **Copy**.
   - Name it something like `JOJ - Custom`.
   - Click **Select**, then close the Profiles window.
