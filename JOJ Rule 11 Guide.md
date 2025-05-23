@@ -284,7 +284,7 @@ Where possible, always use MCM settings to disable mods instead of removing /dis
 [A TLDR on Immersive Equipment Displays](https://wiki.wildlandermod.com/11Deep-Dives/Immersive-Equipment-Display/)
 
 
-
+---
 
 Happy Rule 11 Modding,
 
