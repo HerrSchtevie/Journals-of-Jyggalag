@@ -195,14 +195,13 @@ You can ask in Rule 11 chat and maybe a kind Crusader or Arbiter will give you a
 
 # Plugin Placement
 
-Some may disagree with this, but I strongly recommend that you Do Not Run Loot to sort your added plugins! Hand place your mod additions yourself instead!
+Some may disagree with this, but I strongly recommend that you **Do Not Run Loot** to sort your added plugins! Hand place your mod additions yourself instead!
 
-There are really no shortcuts here, if you want to be sure where your added plugins should go then you’ll need to learn to view conflicts in xEdit, but if you aren’t inclined to put the time in then use common sense and position the plugin similarly to where you’ve positioned the mod folder in the left pane.
+[Learn to use xEdit](https://www.youtube.com/watch?v=cKU_R1Hqa4o&ab_channel=Swissenergy). There are really no shortcuts here, if you want to be sure where your added plugins should go then you’ll need to learn to view conflicts in xEdit, but if you aren’t inclined to put the time in then use common sense and position the plugin similarly to where you’ve positioned the mod folder in the left pane.
 
 #### There is so much more to cover here but the scope of this guide is limited so I’ll leave it there. To learn more, consult your friend- the interwebs.
 
-
-
+---
 
 # What tools should I re-run when installing new mods?
 
@@ -210,6 +209,7 @@ There are really no shortcuts here, if you want to be sure where your added plug
 
 #### Official JOJ GitHub Guide on re-running Tools:
 
+[JOJ Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md)
 
 #### Bodyslide
 Armour / Clothing / equipment / hair / ‘attachment’ mods
@@ -221,9 +221,8 @@ Anything that adds or changes animations. (OAR / DAR animations usually don’t 
 Anytime you add/remove/replace a mod that contains a plugin
 
 #### EasyNPC
-
 Anytime you add/remove/replace or make changes to NPC replacer mods
-
+[Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md) 
 
 #### XLODGen / TexGen / DynDOLOD
 Mods that add or remove stuff to the exterior world space (Check in Xedit)
@@ -245,9 +244,7 @@ Before re-running a tool it is best practice to deactivate the output mod folder
 #### Caution:
 When you reactivate DynDOLOD output, the plugins will be in reverse order. Ensure Occlusion.esp is below DynDOLOD.esp at the bottom of your load order.
 
-
-
-
+---
 
 # A Warning about disabling Mods
 
@@ -257,45 +254,34 @@ In general, just don’t disable mods, if there is something you want to remove 
 Where possible, always use MCM settings to disable mods instead of removing /disabling in MO2!
 
 
-
 #### That concludes this guide, much of the above falls under ‘best practice’ not all of it is strictly necessary but it takes experience to know when it is safe to ignore something so do yourself a favour while you gain experience and follow the rules!
 
-
-
-
+---
 
 # Appendix
 
-### The Following are links to useful tutorials and guides to advance your modding prowess
-
-Reading Crash Logs
+[Reading Crash Logs](https://www.reddit.com/r/skyrimmods/comments/1d0r0f0/reading_crash_logs/)
 
 
-#### xEdit - How to check for conflicts between mods
+[xEdit - How to check for conflicts between mods](https://www.youtube.com/watch?v=cKU_R1Hqa4o)
 
 
-xEdit - Simple Conflict Resolution
+[xEdit - Simple Conflict Resolution](https://www.youtube.com/watch?v=WSZviB4jqE8)
 
 
-Walkthrough of Conflict Resolution and 3D Space Patching
+[Walkthrough of Conflict Resolution and 3D Space Patching](https://www.nexusmods.com/skyrimspecialedition/mods/37651)
 
 
-Bodyslide Quick Start Guide
+[Bodyslide Quick Start Guide](https://youtu.be/zil1RwoW3OE)
 
 
-Outfit Studio Tutorial Series
+[Outfit Studio Tutorial Series](https://youtube.com/playlist?list=PLrGqMZcWJgElCxyW6GnIlt9HAeeSFlkDI&si=ilug2phlIs7LF1rk)
 
 
-Creation Kit Basics
+[Creation Kit Basics](https://www.youtube.com/playlist?list=PLD5AA9F15CAA68B07)
 
 
-A TLDR on Immersive Equipment Displays
-
-
-
-
-
-
+[A TLDR on Immersive Equipment Displays](https://wiki.wildlandermod.com/11Deep-Dives/Immersive-Equipment-Display/)
 
 
 
