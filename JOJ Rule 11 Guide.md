@@ -253,8 +253,6 @@ In general, just don’t disable mods, if there is something you want to remove 
 
 Where possible, always use MCM settings to disable mods instead of removing/disabling in MO2!
 
-Where possible, always use MCM settings to disable mods instead of removing/disabling in MO2!
-
 ### Warning - Removing a mod entirely removes it for ALL PROFILES and will invalidate your original install. There is never a good reason to remove a mod!
 
 #### That concludes this guide, much of the above falls under ‘best practice’ not all of it is strictly necessary but it takes experience to know when it is safe to ignore something so do yourself a favour while you gain experience and follow the rules!
