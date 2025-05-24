@@ -1,6 +1,10 @@
 # 🧑‍🎨 EasyNPC Customization Guide – Journals of Jyggalag
 
+---
+
 ### ⚠️ DISCLAIMER: This guide has not yet been updated to match Jorunals of Jygalag v3.0.0.
+
+---
 
 Welcome, Champion of Order.
 
