@@ -1,5 +1,7 @@
 # 🧑‍🎨 EasyNPC Customization Guide – Journals of Jyggalag
 
+### ⚠️ DISCLAIMER: This guide has not yet been updated to match Jorunals of Jygalag v3.0.0.
+
 Welcome, Champion of Order.
 
 This guide walks you through how to **rebuild or customize your NPC appearance merge** using [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/56095). This tool gives you full visual control over how characters appear in your game.
