@@ -2,7 +2,7 @@
 
 ---
 
-### ⚠️ DISCLAIMER: This guide has not yet been updated to match Jorunals of Jygalag v3.0.0.
+### ⚠️ DISCLAIMER: This guide has not yet been updated to match Journals of Jygalag v3.0.0.
 
 ---
 
