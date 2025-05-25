@@ -398,20 +398,19 @@ Once TexGen completes, it will display a message and a **button to exit**:
 ### 📁 Move the Output to MO2
 
 1. At the top of the TexGen window, you’ll see the output path  
-   *(usually something like `Journals of Jyggalag - Outputs\TexGen_Output`)*
+   *(`Journals of Jyggalag - Outputs\TexGen_Output`)*
 
 2. Open that folder, and **copy the `textures` folder** from it
 
 3. Paste it into:
 
-Journals of Jyggalag\mods\JOJ - TexGen Output
+`Journals of Jyggalag\mods\JOJ - TexGen Output (Your Profile)`
 
-4. Overwrite any files if prompted
-
-5. Back in MO2, click **Refresh**
+4. Back in MO2, click **Refresh**
 
 ✅ TexGen is now complete! You're ready for the final step: DynDOLOD.
 
+---
 
 ## 🏰 Step 5: Run DynDOLOD
 
@@ -425,27 +424,56 @@ Journals of Jyggalag\mods\JOJ - TexGen Output
 2. **Double-click** `JOJ - DynDOLOD Output` and choose **Open in Explorer**
 3. **Delete all files** inside the folder
 
-Even though it’s empty now, you must still:
-- **Re-enable** the `JOJ - DynDOLOD Output` mod in MO2
+---
+
+### ▶️ Step 5: Run DynDOLOD
+
+> 📁 **Output Location Notice:**  
+> The output path for DynDOLOD is set **inside the DynDOLOD window**, near the bottom of the interface.  
+> By default, it should point to:  
+> `Journals of Jyggalag - Outputs\dyndolod outputs\`  
+> You may change this path if needed **before starting generation**.
 
 ---
 
-### ▶️ Run DynDOLOD
+> ⚠️ **Before launching DynDOLOD, you must disable two specific plugins.**  
+> These will cause generation failures if left enabled.
 
-1. Launch **DynDOLOD** from the MO2 dropdown menu
+**Disable the following plugins in MO2:**
+- From the **Embers XD** plugin group:  
+  `JKs Castle Volkihar - Embers XD patch.esp`
+
+![image](https://github.com/user-attachments/assets/8d7262b8-50ae-47ae-abe9-2d1bce8cb626)
+
+- From the **World Map** plugin group:  
+  `OCW_AMM-SE_FEPatch.esp`
+
+![image](https://github.com/user-attachments/assets/4c7d7344-6266-469a-8691-3e28a334d39f)
+
+---
+
+Once the plugins are disabled:
+
+1. Launch **DynDOLOD** from the MO2 dropdown menu  
 2. Allow it to fully load
-3. In the **top-left checkbox**, make sure **everything is checked** (right-click > **Select All**)
-4. Match your settings to the example below:
+    > 🛑 **Pop-Up Warnings Notice:**  
+    > You’ll likely receive **two warning popups** like the one below. These are safe to ignore.  
+    >  
+    > ![image](https://github.com/user-attachments/assets/32aafa5a-68f2-489d-88b4-0e4db0e4a584)
+    >  
+    > These errors are caused by conflicting record types (e.g., a `BOOK` being overwritten by a `CELL`), which are irrelevant to LOD generation.  
+    > Just click **Ignore** and allow DynDOLOD to continue loading normally.  
+3. In the **top-left checkbox**, make sure **everything is checked**  
+   (Right-click > **Select All**)  
+4. Set your **Output Path** to the `dyndolod outputs` folder if it isn’t already  
+5. In the **top-right corner**, select your quality preset based on your profile:
 
-![dyndolod](https://github.com/user-attachments/assets/3846a86f-d896-494b-a192-5f2e5b6980aa)
+    - **Lord’s Vision / Reserved Vision** → Click **High**  
+    - **Performance / Reserved Performance** → Click **Medium**
 
-5. Click **OK** to begin generation
+7. Match your other settings to the example provided below
 
-> ⏳ Note: This process can take **an hour or more** depending on your PC — be patient!
-
-6. Once DynDOLOD has finished, click **"Save and Exit"**
-
-![dyndolod done](https://github.com/user-attachments/assets/6ff1dbea-d779-403f-b84f-1b64164c2d72)
+![image](https://github.com/user-attachments/assets/5171072b-1a41-4f51-8387-92b3dc492f09)
 
 ---
 
@@ -453,17 +481,16 @@ Even though it’s empty now, you must still:
 
 Once DynDOLOD completes, the output files will be located at:
 
-Journals of Jyggalag - Outputs\dyndolod output
+`Journals of Jyggalag - Outputs\dyndolod output`
 
 
 1. Open that folder and **copy everything inside**
 2. Paste all files into:
 
-Journals of Jyggalag\mods\JOJ - DynDOLOD Output
+`Journals of Jyggalag\mods\JOJ - DynDOLOD Output (Your Profile)`
 
 
-3. Overwrite any files if prompted
-4. Back in MO2, click **Refresh**
+5. Back in MO2, click **Refresh**
 
 ---
 
@@ -471,11 +498,14 @@ Journals of Jyggalag\mods\JOJ - DynDOLOD Output
 
 Once you’ve copied the generated DynDOLOD files to the correct folder and enabled the `JOJ - DynDOLOD Output` mod in MO2, you’ll see **three new plugins** in the **right-side Plugins tab**:
 
-- `DynDOLOD.esm`
+- `DynDOLOD.esm` (near the top under Master Plugins)
+
+![image](https://github.com/user-attachments/assets/c53e5bcb-231f-4ce5-a205-a3cc2109747c)
+
 - `DynDOLOD.esp`
 - `Occlusion.esp`
 
-![dyndolod done](https://github.com/user-attachments/assets/f296dee5-0b74-40ae-b3f4-4b0184f924f9)
+![image](https://github.com/user-attachments/assets/b15c29b9-1d58-42ff-b0e8-f6ee24a806e7)
 
 ---
 
@@ -483,7 +513,7 @@ Once you’ve copied the generated DynDOLOD files to the correct folder and enab
 
 Make sure **all three are enabled**, then drag them into the correct plugin groups:
 
-- Move `DynDOLOD.esm` into the `Mod Resources` plugin group
+- Move `DynDOLOD.esm` into the `Master Plugins` plugin group
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
 - Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
 
