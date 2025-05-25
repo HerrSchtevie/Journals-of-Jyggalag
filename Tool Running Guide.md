@@ -164,7 +164,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 (![image](https://github.com/user-attachments/assets/44a9d589-48a2-4d14-9cca-f628f986f52d)
 
 
-✅ Keep these disabled for noe, even after the ParallaxGen step is complete.
+✅ Keep these disabled for now, even after the ParallaxGen step is complete.
 
 ---
 
