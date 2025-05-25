@@ -129,6 +129,7 @@ Once your patchers are correctly named and the output path is set, click the **R
 You can now safely close Synthesis.
 
 Return to MO2 and re-enable the plugins in the Outputs plugin group that you disabled in Step 1.
+
 ![image](https://github.com/user-attachments/assets/d2688dc9-31c2-4beb-a654-c84e9fb5ea0e)
 
 ---
@@ -160,7 +161,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 - `JOJ - DynDOLOD Output`
 - `JOJ - TexGen Output`
 
-![step one outputs](![image](https://github.com/user-attachments/assets/44a9d589-48a2-4d14-9cca-f628f986f52d)
+(![image](https://github.com/user-attachments/assets/44a9d589-48a2-4d14-9cca-f628f986f52d)
 
 
 ✅ Keep these disabled until you've finished running **all the tools** in this guide.
