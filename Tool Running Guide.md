@@ -516,6 +516,13 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 - Move `DynDOLOD.esm` into the `Master Plugins` plugin group
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
 - Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
+  
+- Don't forget to **re-enable** the following plugins in MO2:**
+- From the **Embers XD** plugin group:  
+  `JKs Castle Volkihar - Embers XD patch.esp`
+
+- From the **World Map** plugin group:  
+  `OCW_AMM-SE_FEPatch.esp`
 
 > ⚠️ **Important for Performance Users:**  
 > If you are using the **Performance** or **Reserved Performance** profiles, you must **re-enable** the `JOJ - VRAMr (Your Profile)` mod** that we previously disabled.
