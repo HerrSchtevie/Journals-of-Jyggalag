@@ -240,7 +240,21 @@ You're now ready to move on to the next tool!
 
 ## 🌄 Step 3: Run xLODGen
 
-> ⚠️ This tool must be run **four times**, once for each LOD level (LOD4, LOD8, LOD16, LOD32).
+> ⚠️ This tool must be configured correctly for each LOD level (LOD4, LOD8, LOD16, LOD32).
+
+---
+
+### 📁 Output Location
+
+By default, xLODGen will save its output to:
+
+```
+YourDrive:\Journals of Jyggalag - Outputs
+```
+
+This is already pre-configured in **MO2 > Modify Executables**, but you can change it if needed.  
+
+![image](https://github.com/user-attachments/assets/5faac650-ccbe-443d-97e4-974aedf2e12f)
 
 ---
 
@@ -250,67 +264,63 @@ In **Mod Organizer 2**, scroll to the `Outputs` separator and **enable**:
 
 - `xLODGen Resource - SSE Terrain Tamriel`
 
-This resource is required for proper terrain LOD generation.
+This is required for proper terrain LOD generation.
 
 ---
 
-### 🧭 Run xLODGen for Each LOD Level
-
-Each time you open xLODGen, you'll be generating a specific LOD level. After each run:
-
-- You’ll see a message at the bottom that says:  
-  `"LOD generation complete"`
-- **Close and reopen xLODGen** before starting the next level
-
-Make sure to:
-- **Check all worldspaces** in the **right panel** (right-click > **Select All**)
+### 🧭 Configure Each LOD Level  
+Check all worldspaces in the right panel (right-click > **Select All**)
 
 ---
 
 ### 🔹 LOD4 Settings
+- **Lord's Vision / Reserved Vision**
 
-![lod4](https://github.com/user-attachments/assets/0de0bf79-e05f-4459-ab8e-220be43d658b)
+![image](https://github.com/user-attachments/assets/f8342944-4aac-4e44-9070-a5de883a74f3)
 
-- Run xLODGen with the **LOD4** settings shown above
-- Once complete, close xLODGen
+- **Performance / Reserved Performance**  
+
+![image](https://github.com/user-attachments/assets/e685caab-5760-4554-a173-2c631ccc13df)
 
 ---
 
 ### 🔹 LOD8 Settings
+- **Lord's Vision / Reserved Vision**  
 
-![lod8](https://github.com/user-attachments/assets/f2c752c9-d1cc-4071-8675-0df1677b80de)
+![image](https://github.com/user-attachments/assets/a96541f1-18bb-4d64-901f-3db691ae8fb7)
 
-- Reopen xLODGen
-- Run with the **LOD8** settings
-- Once complete, close xLODGen
+- **Performance / Reserved Performance**  
+
+![image](https://github.com/user-attachments/assets/3eaf00e7-8400-4012-bc2e-22581909ea13)
 
 ---
 
 ### 🔹 LOD16 Settings
+- **Lord's Vision / Reserved Vision**  
 
-![lod16](https://github.com/user-attachments/assets/3a86e744-342a-4b35-a61b-fc6e5bb8df6e)
+![image](https://github.com/user-attachments/assets/00738425-81a7-47b2-9e81-1f23054499a8)
 
-- Reopen xLODGen
-- Run with the **LOD16** settings
-- Once complete, close xLODGen
+- **Performance / Reserved Performance**  
+
+![image](https://github.com/user-attachments/assets/2aa518a3-978d-459e-8ac4-13940d14410b)
 
 ---
 
 ### 🔹 LOD32 Settings
+- **Lord's Vision / Reserved Vision**  
 
-![lod32](https://github.com/user-attachments/assets/3bed4c6c-df81-43f2-aa66-10128cab4cdf)
+![image](https://github.com/user-attachments/assets/0b617d8f-053a-46f1-84fa-5bc6b2d9067f)
 
-- Reopen xLODGen
-- Run with the **LOD32** settings
-- Once complete, close xLODGen
+- **Performance / Reserved Performance**  
 
----
+![image](https://github.com/user-attachments/assets/4b3e75b9-5e44-44a2-a611-3ecd8a82e082)
+
 
 ### 📁 Move the Output to MO2
 
-After all four LOD levels have been generated, your files will be located in a new folder:
+After the LOD levels have been generated, your files will be located in a new folder:
 
-Journals of Jyggalag - Outputs\lodgen outputs\
+`Journals of Jyggalag - Outputs\lodgen outputs\`
 
 
 1. Open this folder and locate the `meshes` and `textures` folders
