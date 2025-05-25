@@ -160,7 +160,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 - `JOJ - DynDOLOD Output`
 - `JOJ - TexGen Output`
 
-![step one outputs](https://github.com/user-attachments/assets/5017ebfa-5dc1-4a39-b5cb-f6825d533f9f)
+![step one outputs](![image](https://github.com/user-attachments/assets/44a9d589-48a2-4d14-9cca-f628f986f52d)
 
 
 ✅ Keep these disabled until you've finished running **all the tools** in this guide.
@@ -169,14 +169,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 
 ### 🧹 Clear Old Output Files
 
-You must fully clear out any existing ParallaxGen data before generating new output.
-
-1. **Delete the existing output `.zip` file**:
-
-Journals of Jyggalag\tools\ParallaxGen\ParallaxGen_Output
-
-
-2. **Delete the contents** of the existing output mod folder:
+1. **Delete the contents** of the existing output mod folder:
 - In MO2, right-click on `JOJ - ParallaxGen Output` and choose **Open in Explorer**
 - Delete **all files inside** this folder
 
@@ -184,11 +177,21 @@ Journals of Jyggalag\tools\ParallaxGen\ParallaxGen_Output
 
 ### ▶️ Run ParallaxGen
 
-- Open ParallaxGen
-- Click **Start Patching**
-- Let it run until complete
+1. Open **ParallaxGen**.
+2. In the **Profile** dropdown, make sure the profile you're currently using is selected.
+3. Depending on your profile:
+   - For `Lord's Vision` and `Reserved Vision` (ENB-enabled):  
+     ✅ **Check** the box **"Fix Mesh Lighting (ENB ONLY)"** in the top right.
+   - For `Performance` and `Reserved Performance` (no ENB):  
+     ❌ **Leave this box unchecked**.
+4. In the **Output** field, choose a destination folder.  
+   > 📁 It’s recommended to create a folder like `Journals of Jyggalag - Outputs` on the same drive as your installation to keep things organized.
+5. ⚠️ **Do not check** the box for **"Zip Output"**.  
+   While it won’t break anything, it will make it more difficult to manually copy the generated files later.
+6. Click **Start Patching**.
+7. Let the process run until **complete**.
 
-![unnamed](https://github.com/user-attachments/assets/23f91ee8-8fc6-4b10-af63-f642b44e25d1)
+![image](https://github.com/user-attachments/assets/803686b7-3c67-484e-a905-aefd99a37285)
 
 
 > 💬 **Note:** You may see warnings — that’s perfectly fine. As long as ParallaxGen finishes without a critical error, you're good to go.
@@ -199,21 +202,23 @@ Journals of Jyggalag\tools\ParallaxGen\ParallaxGen_Output
 
 Once ParallaxGen finishes, you must manually move the generated files into the correct mod folder.
 
-1. Navigate to:
+1. Navigate to wherever you told ParallaxGen to Output the data:
 
-Journals of Jyggalag\tools\ParallaxGen\ParallaxGen_Output
+Your Drive:\Journals of Jyggalag - Outputs if you're following along exactly
 
 
-2. Inside, you’ll see a `.zip` file:
-- Either **unzip it directly** into:
+2. Inside, you’ll these files
+
+![image](https://github.com/user-attachments/assets/1d68a23d-766e-4bd4-b8af-9160fe550e98)
+   
+- Cut and paste the contents of the zip file into the folder below:
   ```
-  Journals of Jyggalag\mods\JOJ - ParallaxGen Output
+  Journals of Jyggalag\mods\JOJ - ParallaxGen Output (Your Profile)
   ```
-- **OR** cut and paste the contents of the zip file into the folder above
 
 3. Back in MO2, click the **Refresh** button so it detects the new files
 
-4. **Enable** the `JOJ - ParallaxGen Output` mod in the left panel
+4. **Enable** the `JOJ - ParallaxGen Output (Your Profile)` mod in the left panel
 
 ---
 
@@ -222,14 +227,15 @@ Journals of Jyggalag\tools\ParallaxGen\ParallaxGen_Output
 In the **right-side Plugins tab** of MO2:
 
 - Scroll to the bottom under the `Outputs` section
-- Find and move these plugins **under** `JOJ - Synthesis Patch`:
+- Find and move these plugins **under** `Your Profile - Synthesis Patchers`:
 - `ParallaxGen.esp`
 - `PG_1.esp`
 
-![unnamed (1)](https://github.com/user-attachments/assets/d04f3775-571a-46c9-8c19-9dcc9ebabe87)
-
+![image](https://github.com/user-attachments/assets/325d5f58-aec4-410c-8ec1-a4d5682a9a4e)
 
 You're now ready to move on to the next tool!
+
+---
 
 ## 🌄 Step 3: Run xLODGen
 
