@@ -87,7 +87,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
-| **Disk Space**| ~220GB Download / ~350GB Installed / ~570GB Total       | ~220GB Download / ~350GB Installed / ~570GB Total   |
+| **Disk Space**| ~245GB Download / ~462GB Installed / ~707GB Total        | ~245GB Download / ~462GB Installed / ~707GB Total   |
 
 ---
 
@@ -102,7 +102,7 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | SATA SSD                                             | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
-| **Disk Space**| ~220GB Download / ~350GB Installed / ~570GB Total   | ~220GB Download / ~350GB Installed / ~570GB Total   |
+| **Disk Space**| ~245GB Download / ~462GB Installed / ~707GB Total   | ~245GB Download / ~462GB Installed / ~707GB Total   |
 
 ---
 
@@ -171,10 +171,10 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Journals of Jyggalag**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
-           📦 Requires approximately **242 GB of free space**.
+           📦 Requires approximately **245 GB of free space**.
 
      - An **Installation Location** – where the modlist will be fully installed and run from.  
-           💾 Requires approximately **464 GB of free space**.  
+           💾 Requires approximately **462 GB of free space**.  
            ⚠️ **This must be on an SSD** for performance and stability.
 
 5. **Start Installation**
