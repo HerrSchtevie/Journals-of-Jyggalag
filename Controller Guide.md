@@ -2,9 +2,9 @@
 
 This modlist comes preconfigured with a complete controller setup using a curated selection of mods — including **Layout 406**, **Wheeler**, **Gamepad++**, and others — to deliver a modern, responsive Skyrim controller experience.
 
-> ✅ **These mods are enabled by default in Journals of Jyggalag.**
+> ✅ **These mods are disabled by default in Journals of Jyggalag.**
 
-![Controller Support Features](https://github.com/user-attachments/assets/53714da2-d0f5-4c6a-b87f-581aa516f0e4)
+![image](https://github.com/user-attachments/assets/6c14e1bf-cf4c-45a2-9378-6dccc1681f0b)
 
 
 
