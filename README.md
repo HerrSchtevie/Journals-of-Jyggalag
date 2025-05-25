@@ -5,21 +5,21 @@
 ---
 
 ## 📖 Table of Contents
-- [Disclaimer](#-Disclaimer)
-- [Introduction](#-Introduction)
-- [Features](#-Features)
-- [Requirements](#-Requirements)
-- [Installation Instructions](#-Installation-Instructions)
-- [Post-Installation Steps](#-Post-Installation-Steps)
-- [Additional Guides](#-Additional-Guides)
-- [Gameplay Tips](#-Gameplay-Tips)
-- [Rule 11 Disclaimer](#-Rule-11–Modlist-Modification-Disclaimer)
-- [Support & Troubleshooting](#-Support--Troubleshooting)
-- [Credits & Permissions](#-Credits--Permissions)
-- [Screenshots](#-Screenshots)
-- [Links](#-Links)
-- [FAQ](#-FAQ)
-- [Thank you!](#-Thank-You)
+- [⚠️ Disclaimer](#️-disclaimer)
+- [📌 Introduction](#-introduction)
+- [📋 Features](#-features)
+- [💻 Requirements](#-requirements)
+- [🔥 Installation Instructions](#-installation-instructions)
+- [✅ Post-Installation Steps](#-post-installation-steps)
+- [📚 Additional Guides](#-additional-guides)
+- [🧠 Getting Started Guide](#-getting-started-guide)
+- [⚖️ Rule 11 – Modlist Modification Disclaimer](#️-rule-11–modlist-modification-disclaimer)
+- [📞 Support & Troubleshooting](#-support--troubleshooting)
+- [🤝 Credits & Permissions](#-credits--permissions)
+- [📸 Screenshots](#-screenshots)
+- [🔗 Links](#-links)
+- [❓ FAQ](#-faq)
+- [💬 Thank You](#-thank-you)
 
 ---
 
@@ -33,12 +33,19 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
 
 ## 📋 Features
 
-- **NGVO-Based Visuals:**  
-  Built on top of NGVO (credit to Biggie Boss), this list features full ENB and parallax support, customized weather systems, lighting enhancements, and stability patches for a consistently cinematic experience across all regions.
+- **Four Unique Profiles Included:**  
+  JOJ v3.0 offers four distinct profiles tailored to your preferred experience:  
+  - **Lord's Vision** – Full graphics and NSFW content  
+  - **Performance** – Same content as Lord’s Vision with optimized graphics for lower-end PCs  
+  - **Reserved Vision** – High graphics with more immersive followers, armors, and clothing (immersion focused)  
+  - **Reserved Performance** – Combines immersive content with performance-friendly settings
 
 - **Quest Mods:**  
-  JOJ v2.0 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
+  JOJ v3.0 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
   Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
+
+- **Combat:**  
+  Features custom stances inspired by WoLong, For Honor, and Elden Ring movesets, full BFCO integration, and a suite of enemy balance and difficulty tweaks. The combat system supports a challenging but fair experience where any playstyle is viable—battlemage, stealth archer, heavy melee, dual wield, and more. 
 
 - **City and World Overhauls:**  
   Fully integrated combinations of JK’s Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
@@ -47,13 +54,11 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
   Includes a wide range of high-quality, lore-friendly armors (as well as NSFW armors/clothing) and weapons curated for visual consistency and seamless distribution across leveled lists.
 
 - **NSFW & OStim Integration:**  
-  JOJ integrates OStim NG, OBody, HIMBO, and 3BA with immersive balance. All adult content is carefully implemented — no defeat mods, no excessive scripts, and no forced interactions.
+  JOJ integrates OStim Standalone, OBody, HIMBO, and 3BA with immersive balance. All adult content is carefully implemented — no defeat mods, no excessive scripts, and no forced interactions.
 
-- **Customizable NPC Overhauls:**  
-  Features visual overhauls from ColdSun’s Visions, Pandorables NPCs,  Sons of Nirn, and others. Users can easily customize NPC appearances using EasyNPC with full mugshot support and modular merging.
+- **Comprehensive NPC Overhauls:**  
+  Nearly every NPC in Skyrim has been visually enhanced using a curated blend of ColdSun’s Visions, Pandorables NPCs, Sons of Nirn, and other top-quality overhaul mods — all seamlessly integrated through a custom EasyNPC merge for maximum compatibility and consistency.
 
-- **Complete LOD Generation:**  
-  Ships with fully generated TexGen, xLODGen, and DynDOLOD 3.x outputs — allowing you to explore vast landscapes and overhauled cities without pop-in or performance drops.
 
 
 ## 💻 Requirements
@@ -67,72 +72,186 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
 | RAM        | 64GB DDR4 3200MHz                     |
 | Storage    | Samsung 990 EVO PLUS 4TB SSD (PCIe Gen 4x4)  |
 
-For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS.
+For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with smooth, consistent FPS on the Lord's Vision profile.
 
 ### 📋 Recommended System Specs
 
-🎮 **System Requirements for Journals of Jyggalag (JOJ)** 🎮
+🎮 **System Requirements for Journals of Jyggalag - 🛡️ Lord’s Vision / Reserved Vision Profiles** 🎮
+
+High Graphics | Full Feature Set | Maximum Visuals
 
 | Component     | 🟡 Minimum (Playable)                                   | 🟢 Recommended (Ideal)                               |
 |---------------|---------------------------------------------------------|------------------------------------------------------|
 | **CPU**       | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)    | Intel Core i7 (12th Gen) / AMD Ryzen 7 (5000 series)|
-| **RAM**       | 16GB DDR4                                               | 32GB DDR4                                           |
-| **Pagefile**  | 40GB                                                    | 40GB                                                |
-| **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                        |
-| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)                    |
-| **Disk Space**| ~220GB Download / ~350GB Installed / ~570GB Total       | ~220GB Download / ~350GB Installed / ~570GB Total                   |
+| **RAM**       | 16GB DDR4                                               | 32GB DDR4                                            |
+| **Pagefile**  | 40GB                                                    | 40GB                                                 |
+| **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                         |
+| **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
+| **Disk Space**| ~220GB Download / ~350GB Installed / ~570GB Total       | ~220GB Download / ~350GB Installed / ~570GB Total   |
 
-The downloads can be removed after successful installtion. NOT RECOMMENDED. But if you're short on space, it won't casue issues.
+---
 
-Additionally, the following software must be installed:
+🎮 **System Requirements for Journals of Jyggalag - 🛡️ Reserved Vision / Reserved Performance Profiles** 🎮
 
-- [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- [.NET SDK](https://dotnet.microsoft.com/download)
-- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
+Optimized for Lower-End Hardware | Reduced Visual Load
 
+| Component     | 🟡 Minimum (Playable)                                | 🟢 Recommended (Ideal)                               |
+|---------------|------------------------------------------------------|------------------------------------------------------|
+| **CPU**       | Intel Core i5-6500 / AMD Ryzen 5 (1st or 2nd Gen)    | Intel Core i5 (10th Gen) / AMD Ryzen 5 (3000 series)|
+| **RAM**       | 16GB DDR4                                            | 16–32GB DDR4                                         |
+| **Pagefile**  | 40GB                                                 | 40GB                                                 |
+| **Storage**   | SATA SSD                                             | NVMe M.2 SSD                                         |
+| **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
+| **Disk Space**| ~220GB Download / ~350GB Installed / ~570GB Total   | ~220GB Download / ~350GB Installed / ~570GB Total   |
+
+---
+
+The downloads can be removed after successful installation. NOT RECOMMENDED. But if you're short on space, it won't cause issues.
+
+---
 
 ## 🔥 Installation Instructions
 
-### ❗ Important
+### 🧱 System Dependencies
 
-- **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
-
-1. **Download Wabbajack** from [Wabbajack.org](https://www.wabbajack.org/) if you have not already.
-2. **Create a clean installation of Skyrim Anniversary Edition (AE required). Plenty of great video tutorials on this: [GamerPoets Tutorial](https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)**
-3. **Open Wabbajack** and search for **Journals of Jyggalag (JOJ)** in the modlist browser.
-4. **Click on the JOJ modlist** and choose your installation directory. The installation and downloads do not have to be on the same drive, but the installtion MUST be on a SSD.
-5. **Click Start** and wait for the installation to complete. Wabbajack will handle the entire process automatically.
-
-- [Biggie's Wabbajack Installtion Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
-
-### Post-Installation Steps
-
-1. **Open MO2 from your Journals of Jyggalag installation folder.**
-
-### 🧑‍🤝‍🧑 Important: Disable NPC Overhaul Mods Before Playing
-
-**BEFORE launching the game**, open MO2 and scroll down to the section labeled **EasyNPC** (highlighted with a blue separator).
-
-- **Disable every mod in this section** (do **not** delete them—just uncheck the boxes).
-- These mods are included to give you full control over NPC appearances using EasyNPC.
-- If left enabled, they will **conflict with the merged NPC output** and cause visual bugs or missing NPCs.
-
-![7](https://github.com/user-attachments/assets/21cc34e0-fa4e-41b1-a094-f6e867f23961)
-
-3. **Select Journals of Jyggalag from the dropdown in the top right (it should be default be selected).**
-4. **Click 'Run' and enjoy!**
-
-Please ensure your Skyrim installation is set to [English](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F) and confirm at least 570 GB of available storage on your drive. After installation completes, you can delete the downloads folder to free additional space.
-
-You must also install:
+Before continuing, make sure these system components are installed — they are required for Wabbajack and Skyrim to function correctly:
 
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
+If you're unsure whether these are already installed, it's safe to install them again — they will update or repair as needed.
+
+---
+
+### ❗ Prerequisites
+
+Before you begin, make sure you meet the following **hard requirements**:
+
+- **You must own and install Skyrim Anniversary Edition (AE).**  
+  The Standard Special Edition (SSE) will not work — this modlist requires the full AE version with all Creation Club content.
+
+- **You must have the Creation Kit installed via Steam.**  
+  It is required for the modlist to compile and **must be installed on the same drive** as your Skyrim AE installation.  
+  > Example: If Skyrim AE is installed on `D:\`, the Creation Kit must also be installed on `D:\`.
+
+- **Installation must be on an SSD.**  
+  Installing to an HDD will result in long load times, freezing, and crashes.
+
+---
+
+### 🧰 Installation Steps
+
+1. **Download Wabbajack**  
+   Get the latest version of Wabbajack from [https://www.wabbajack.org/](https://www.wabbajack.org/)
+
+2. **Prepare a Clean Skyrim AE Installation**  
+   🎥 *All of the steps below are shown in this video:*  
+   [GamerPoets – Clean Skyrim Setup Guide](https://www.youtube.com/watch?v=B1QyAj4c564&ab_channel=GamerPoets)
+
+   - Uninstall any existing Skyrim installation via Steam.
+   - Navigate to `Documents\My Games\Skyrim Special Edition` and delete all contents (back up if desired).
+   - Reinstall **Skyrim Anniversary Edition** via Steam.
+   - **Launch Skyrim AE once through Steam** to allow all Creation Club content to download.  
+     Do **not** change any settings or start a game — just reach the main menu, download the Creation Kit content via the popup, then close it.
+   - - Install the **Skyrim Special Edition Creation Kit** from the *Tools* section in your Steam Library.  
+        ✅ Make sure it’s installed on the **same drive** as Skyrim AE.  
+        ⚠️ **Do not install the regular Skyrim Creation Kit** — it is not compatible and will not work with this modlist.
+   - **Launch the Creation Kit once** to initialize its content, allow it to complete downloading, then close it.  
+
+3. **Launch Wabbajack**
+   - Open Wabbajack.
+   - Click the **Modlists Browser** tab.
+   - In the **upper-left corner**, enable both:
+     - ✅ **Show Unofficial Lists**
+     - ✅ **Show NSFW Lists**
+   - Use the search bar to find **Journals of Jyggalag (JOJ)**.
+
+4. **Select the Modlist**
+   - Click on **Journals of Jyggalag**.
+   - Choose:
+     - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
+           📦 Requires approximately **242 GB of free space**.
+
+     - An **Installation Location** – where the modlist will be fully installed and run from.  
+           💾 Requires approximately **464 GB of free space**.  
+           ⚠️ **This must be on an SSD** for performance and stability.
+
+5. **Start Installation**
+   - Click **Start** to begin the automated installation.
+   - Wabbajack will handle the process automatically. If any files fail to download (e.g., Nexus permissions), Wabbajack will prompt you to log in or download manually.
+
+> 📺 Optional: [Watch Biggie’s Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
+
+---
+
+6. **Having Issues? Run Through This Checklist First**  
+If Wabbajack is refusing to download or install the modlist, double-check the following **before requesting support**:
+
+- ❓ Did you completely clean your system of all traces of Skyrim before beginning?
+- ✅ Are you using a **fresh install** of **Skyrim Anniversary Edition**?
+- 🔓 Did you **launch Skyrim once through Steam** to allow all Creation Club content to download?
+- 🧰 Did you install the **Skyrim Special Edition Creation Kit** via Steam on the **same drive** as your Skyrim install?
+- 🟢 Did you **launch the Skyrim Special Edition Creation Kit once** to initialize its required files?
+- 💾 Do you have enough **free space** on your installation drive?
+- 🌐 Are you **logged into NexusMods** with a **Premium membership**?
+- 🔁 Have you retried the download at least **3 times**? Sometimes Wabbajack errors are temporary and resolve on their own.
+
+> If you’ve gone through the full checklist and are still stuck, feel free to ask for help in the [Journals of Jyggalag Discord](https://discord.gg/WuJe7CXpCZ)
+
+
+## ✅ Post-Installation Steps
+
+Once Wabbajack finishes, you're not quite ready to jump in yet — follow these steps carefully to finalize your setup.
+
+---
+
+### 1. **Open MO2**
+
+- Navigate to your **Journals of Jyggalag installation folder**.
+- Launch **ModOrganizer.exe** (MO2) from that directory.
+
+---
+
+### 2. **Select Your Profile (and Stick With It)**
+
+Journals of Jyggalag includes **four distinct profiles**, each preconfigured with its own settings, tool outputs, and game experience.  
+You can select your profile from the **dropdown in the upper-left corner of MO2** (just above the mod pane).
+
+| Profile Name                | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| **Lord’s Vision**           | Full graphical fidelity + full NSFW content                                 |
+| **Performance**             | Same content as Lord’s Vision, with reduced graphical settings              |
+| **Reserved Vision**         | High graphics + immersive/SFW clothing, followers, and armor                |
+| **Reserved Performance**    | Same as Reserved Vision but optimized for lower-end PCs                     |
+
+> ⚠️ **IMPORTANT:** Once you choose a profile, **stick with it**.  
+> Do **not** switch between profiles mid-playthrough. Each profile uses its own:
+> - Mod configurations  
+> - MCM settings  
+> - Tool outputs (DynDOLOD, TexGen, BodySlide, etc.)  
+> - Save file directories  
+>
+> **Save files are not cross-compatible.** Switching profiles mid-playthrough can break your game or result in corrupted saves.
+
+---
+
+### 3. **Set the Executable and Launch the Game**
+
+- Ensure **`Journals of Jyggalag`** is selected as the modlist in the **top-right executable dropdown** in MO2.
+- Click **Run** to start the game.
+
+---
+
+### 🛠️ Additional Notes
+
+- 🗣️ **Language:** Your Skyrim installation **must be set to English**  
+  → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
+- 💾 **Storage:** The full installation requires approximately **715 GB of space**
+
+---
 
 ## 📚 Additional Guides
-
 
 For more information on controller support, NPC management, and running essential tools, check out the following:
 
@@ -145,31 +264,59 @@ For more information on controller support, NPC management, and running essentia
 - 🛠️ [Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md)  
   Learn when and how to run tools like DynDOLOD, TexGen, xLODGen, and more.
 
+- ⚠️ [Rule 11 Modding Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Rule%2011%20Guide.md)  
+  A detailed breakdown of how to add your own mods. This falls under **Rule 11** — support is not guaranteed and you’re on your own.
+
+
 ---
 
-### 🧠 Gameplay Tips
+## 🧠 Getting Started Guide
 
-- **Ultrawide Monitors:**  
-  JOJ is configured for 16:9 monitors by default. If you use a 21:9 or 32:9 display (like me — #ultrawidemasterrace), you’ll need to **rerun the FOMOD installers** for the following mods to select the appropriate widescreen options:
-  - `Dear Diary Dark Mode (white text)`
-  - `The Elder Scrolls Legends - Loading Screens`  
-  These mods are marked with notes inside MO2 reminding you to rerun the FOMOD if needed.
+Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag v3.0 is built to adapt — but it expects you to pick your setup and stick with it.
 
-- **Blue Separator Load Order Markers:**  
-  Throughout MO2, you’ll see several sections marked with **blue separators**. These aren’t meant to be tweaked heavily, but rather serve as organized areas where you can safely **add mods**, **adjust settings**, or insert patches without interfering with core list functionality. Examples include NPC visual mods, controller patches, or custom camera tweaks.
+---
 
-- **Disabling 32:9 Patch:**  
-  If you’re not on a 32:9 monitor, make sure to **disable** the mod:
-  - `32x9 Patch for Hotkey Reminder`  
-  Found under the `Controller Support` separator.
+### 🖥️ Widescreen & Resolution Support
 
-- **Keyboard & Mouse Users:**  
-  If you don’t plan to use a controller, you must **disable**:
-  - `Gamepad++`
-  - `Complete Controller Setup`  
-  These are also found under the `Controller Support` separator.
+Journals of Jyggalag v3.0 includes full widescreen support with UI presets for all major aspect ratios. These options are found near the **bottom of MO2** under the **`Resolution Presets`** separator (highlighted in blue).
 
-These small tweaks help tailor the list to your exact setup — especially for widescreen users or those who prefer a traditional keyboard + mouse experience.
+- **✅ Always enabled:**
+  - `JOJ - Core UI`
+
+- **Choose one (and only one) based on your monitor:**
+  - `JOJ - 21x9 UI Patch` → for ultrawide (21:9)
+  - `JOJ - 32x9 UI Patch` → for super ultrawide (32:9)
+
+ ![image](https://github.com/user-attachments/assets/e7f5649a-6ba4-4567-9f4a-2fbdb0bc26f1)
+
+
+> Do not enable multiple resolution patches. Choose the one that fits your monitor setup.
+
+---
+
+### 🎮 Controller Support (Optional)
+
+Controller support is fully integrated into JOJ — but all related mods are **disabled by default** so players can opt in manually. To enable controller support:
+
+1. Scroll to the **`Controller Support`** separator in MO2 (highlighted in blue).
+2. **Enable all of the following mods**:
+   - `Gamepad++`
+   - `JOJ - Custom Stances - Controller`
+   - `Wheeler - Quick Action Wheel Of Skyrim`
+   - `Wheeler CTD-Fix`
+   - `Dragonborn - Wheeler Reskin`
+   - `Dragonborn - Wheeler Reskin Edge UI Colors`
+   - `Complete Controller Setup`
+  
+  ![image](https://github.com/user-attachments/assets/8f058580-3922-4d30-8c0f-1fa9ad8cfaa6)
+
+3. In the **right-side plugin pane**, locate the following plugins and drag them into the correct plugin groups:
+   - `Gamepad++` → move to the **User Interface** group
+   - `Complete Controller Setup` → move to the **Master Plugins** group
+
+> ⚠️ Incorrect plugin group assignment can cause controller-related bugs or interface issues.
+
+Once enabled and properly sorted, you’ll have full access to enhanced controller features including radial wheels, custom stances, and a gamepad-friendly UI.
 
 ---
 
@@ -185,9 +332,11 @@ While we absolutely encourage learning and modding, please understand that:
 - We cannot guarantee support for lists that differ from the officially published Wabbajack version.
 - If something breaks because of your changes, it’s your responsibility to fix it.
 
-That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the `🛡️ Grey Aegis – Rule 11 Support` channel on our [Discord server](https://discord.gg/8ZCa7w8BZQ). Help is not guaranteed — but if we can (and want to), we may offer guidance.
+That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the `🛡️ Grey Aegis` channel on our [Discord server](https://discord.gg/8ZCa7w8BZQ). Help is not guaranteed — but if we can (and want to), we may offer guidance.
 
 Thank you for respecting the work that went into JOJ, and for being part of the community!
+
+➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Rule%2011%20Guide.md)
 
 ---
 
@@ -238,10 +387,7 @@ If you enjoyed the list, consider joining the [Discord](https://discord.gg/8ZCa7
 
 May Order guide you, Champion.
 
-— **Herr Schtevie** 
 ![Jyggalag_red_resized](https://github.com/user-attachments/assets/8af6f27c-fb04-41af-b6e8-7704127730ee)
 
----
-
-
+— **Herr Schtevie** 
 
