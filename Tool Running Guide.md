@@ -8,23 +8,38 @@ This guide walks you through **how to run all tools**, but not all of them need 
 
 ---
 
+### ⚠️ DISCLAIMER – READ THIS FIRST
+
+Adding any mods to **Journals of Jyggalag** falls under **Rule 11**:  
+You are modifying the list **at your own risk**.
+
+While we’re happy to try and assist in the Discord, the team is **not obligated** to troubleshoot issues caused by your additions or changes.
+
+Journals of Jyggalag is a **complete modlist**.  
+By making alterations, you accept that:
+
+- Everything this guide explains is **not recommended** unless you have prior modding experience or are willing to experiment and learn on your own.
+- **You are solely responsible** for anything you break while making modifications.
+- If you choose to alter the list, you accept that **you may break your install**, and it's up to **you** to fix it or re-install and start from scratch.
+
+Proceed with caution. You have been warned.
+
+---
+
 ### ⚙️ Synthesis
   - **When to run:** After adding gameplay mods, appearance overhauls, perk overhauls, combat mods, or other systems that use Synthesis patchers.  
   - **What it does:** Automatically generates compatibility patches for things like perks, spells, leveled lists, appearance, high-poly head, terrain, and more, depending on the patchers active for your profile.
 
----
 
 ### 🧱 ParallaxGen
   - **When to run:** After adding or removing **parallax-enabled textures** or **meshes** (terrain, architecture, armor, clutter, etc.).  
   - **What it does:** Generates height data files used by parallax shaders to create a 3D illusion of depth on **nearby surfaces** like stone walls, roads, cliffs, or ground textures.
 
----
 
 ### 🌄 xLODGen
   - **When to run:** After adding or removing worldspace-affecting mods (like new landmasses or city overhauls) or landscape textures.  
   - **What it does:** Generates the terrain LOD meshes and textures for worldspaces (LOD4, 8, 16, 32), allowing you to see distant terrain.
 
----
 
 ### 🧵 TexGen
   - **When to run:** After adding or removing any mod that affects landscape textures, tree models, lighting, weather, or object appearances **that you want represented in LODs**.  
@@ -43,24 +58,6 @@ You’ll find detailed, step-by-step instructions for each tool below — includ
 These tools **build off one another in a specific sequence**, and must be run in the **order listed above** for everything to function correctly.
   
 If you’re unsure, just follow the guide **step-by-step, top to bottom** — it’s written in the exact order you should run each tool.
-
----
-
-### ⚠️ DISCLAIMER – READ THIS FIRST
-
-Adding any mods to **Journals of Jyggalag** falls under **Rule 11**:  
-You are modifying the list **at your own risk**.
-
-While we’re happy to try and assist in the Discord, the team is **not obligated** to troubleshoot issues caused by your additions or changes.
-
-Journals of Jyggalag is a **complete modlist**.  
-By making alterations, you accept that:
-
-- Everything this guide explains is **not recommended** unless you have prior modding experience or are willing to experiment and learn on your own.
-- **You are solely responsible** for anything you break while making modifications.
-- If you choose to alter the list, you accept that **you may break your install**, and it's up to **you** to fix it or re-install and start from scratch.
-
-Proceed with caution. You have been warned.
 
 ---
 
