@@ -2,6 +2,21 @@
 
 ---
 
+## 📚 Table of Contents
+
+1. [🧰 Introduction](#-introduction)
+2. [⚠️ Disclaimer](#️-disclaimer)
+3. [🛠️ Tool Overview](#-tool-overview)
+4. [🧬 Step 1: Run Synthesis](#-step-1-run-synthesis)
+5. [🧼 Step 2: Run ParallaxGen](#-step-2-run-parallaxgen)
+6. [🌄 Step 3: Run xLODGen](#-step-3-run-xlodgen)
+7. [🎨 Step 4: Run TexGen](#-step-4-run-texgen)
+8. [▶️ Step 5: Run DynDOLOD](#-step-5-run-dyndolod)
+9. [📦 Conclusion](#-conclusion)
+10. [📌 Final Disclaimer](#-final-disclaimer)
+
+---
+
 This is the **complete guide** to running your tools on **Journals of Jyggalag**.
 
 This guide walks you through **how to run all tools**, but not all of them need to be run **every time** you make changes. Below is a summary of when and why each tool should be run:
