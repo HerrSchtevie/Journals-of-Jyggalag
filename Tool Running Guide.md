@@ -7,12 +7,19 @@ Please note: you **only need to run these tools** if you add mods that make **ma
 
 ### ⚠️ DISCLAIMER – READ THIS FIRST
 
-Adding any mods to Journals of Jyggalag falls under **Rule 11**:  
-> You are modifying the list at your own risk.
+Adding any mods to **Journals of Jyggalag** falls under **Rule 11**:  
+You are modifying the list **at your own risk**.
 
-While we’re happy to try and assist in the [Discord](https://discord.gg/8ZCa7w8BZQ), the team is **not obligated** to help troubleshoot issues caused by your additions or changes.
+While we’re happy to try and assist in the Discord, the team is **not obligated** to troubleshoot issues caused by your additions or changes.
 
-You are responsible for **everything you add or change** after the Wabbajack installation is complete.
+Journals of Jyggalag is a **complete modlist**.  
+By making alterations, you accept that:
+
+- Everything this guide explains is **not recommended** unless you have prior modding experience or are willing to experiment and learn on your own.
+- **You are solely responsible** for anything you break while making modifications.
+- If you choose to alter the list, you accept that **you may break your install**, and it's up to **you** to fix it or re-install and start from scratch.
+
+Proceed with caution. You have been warned.
 
 ---
 
