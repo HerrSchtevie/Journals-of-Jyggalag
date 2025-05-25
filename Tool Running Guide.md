@@ -320,33 +320,54 @@ Check all worldspaces in the right panel (right-click > **Select All**)
 
 ### 📁 Move the Output to MO2
 
-After the LOD levels have been generated, your files will be located in a new folder:
+After the LOD levels have been generated, your files will be located in:
 
 `Journals of Jyggalag - Outputs\lodgen outputs\`
 
 
-1. Open this folder and locate the `meshes` and `textures` folders
-2. Copy both folders into:
+1. Navigate to the following folder:
 
-Journals of Jyggalag\mods\JOJ - xLodGen Output
+    ```
+    Journals of Jyggalag\mods\JOJ - xLODGen Output (Your Profile)
+    ```
 
+2. **Delete everything inside this folder** to ensure no remnant files remain  
+3. Now open:
 
-3. If prompted, **replace all existing files**
-4. Back in MO2, click the **Refresh** button so the changes take effect
-5. Disable the "xLODGen Resource - SSE Terrain Tamriel" mod when finished with xLODGen
+    ```
+    Journals of Jyggalag - Outputs\lodgen outputs\
+    ```
 
-✅ That’s it! You’re now ready to move on to TexGen.
+4. Locate the `meshes` and `textures` folders (these should be the only files present)  
+5. Copy both folders into the `JOJ - xLODGen Output (Your Profile)` mod folder  
+6. Back in MO2, click the **Refresh** button so the changes take effect  
+
+### ⚠️ Step 7: Disable Resource Mod
+
+> **You MUST disable** the `xLODGen Resource - SSE Terrain Tamriel` mod after generating your LODs.  
+> Leaving it enabled will cause broken or ugly terrain in-game.
+
+✅ That’s it! You’re now ready to move on to **TexGen**.
+
+---
 
 ## 🎨 Step 4: Run TexGen
 
-> Just like with ParallaxGen, you must **delete previous TexGen outputs** before generating new ones.
+> ⚠️ **Important for Performance Users:**  
+> If you are using the **Performance** or **Reserved Performance** profiles, you must **disable the `JOJ - VRAMr (Your Profile)` mod** before running TexGen.  
+> Keep it disabled until **after DynDOLOD** has finished running (the next step).
+
+![image](https://github.com/user-attachments/assets/f7809c0c-5746-4b54-81ec-45899dcf4d16)
+
+> 🧹 **Clean Slate Reminder:**  
+> Just like with ParallaxGen, you must **delete your previous TexGen outputs** before generating new ones.
 
 ---
 
 ### 🧹 Clear Old TexGen Files
 
 1. In **MO2**, scroll down to the `Outputs` separator
-2. **Double-click** `JOJ - TexGen Output` and choose **Open in Explorer**
+2. **Double-click** `JOJ - TexGen Output (Your Profile)` and choose **Open in Explorer**
 3. Inside the folder, **delete the `textures` folder** completely
 
 ---
