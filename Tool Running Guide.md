@@ -77,15 +77,15 @@ Each **Journals of Jyggalag** profile uses a unique Synthesis patcher setup. You
    
    ![image](https://github.com/user-attachments/assets/ccd5d094-58eb-45e9-8c80-ffd88a0f3934)
 
-3. In the top-right MO2 dropdown menu, click **Edit...**
-4. 
+2. In the top-right MO2 dropdown menu, click **Edit...**
+   
    ![image](https://github.com/user-attachments/assets/30e34f8f-21e9-47db-a350-55ef82d0da3e)
 
-5. In the left-hand list, select **Synthesis**.
-6. 
+3. In the left-hand list, select **Synthesis**.
+   
    ![image](https://github.com/user-attachments/assets/13202921-5c58-456f-8e45-461c99e2f396)
  
-7. In the field labeled `Create files in mod instead of overwrite (*)`, select the correct output folder for your active profile:
+4. In the field labeled `Create files in mod instead of overwrite (*)`, select the correct output folder for your active profile:
 
 ```
 JOJ - Synthesis Output (Lord's Vision)  
