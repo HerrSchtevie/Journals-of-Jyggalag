@@ -354,7 +354,7 @@ After the LOD levels have been generated, your files will be located in:
 ## 🎨 Step 4: Run TexGen
 
 > ⚠️ **Important for Performance Users:**  
-> If you are using the **Performance** or **Reserved Performance** profiles, you must **disable the `JOJ - VRAMr (Your Profile)` mod** before running TexGen.  
+> If you are using the **Performance** or **Reserved Performance** profiles, you must **disable** the `JOJ - VRAMr (Your Profile)` mod** before running TexGen.  
 > Keep it disabled until **after DynDOLOD** has finished running (the next step).
 
 ![image](https://github.com/user-attachments/assets/f7809c0c-5746-4b54-81ec-45899dcf4d16)
@@ -516,6 +516,9 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 - Move `DynDOLOD.esm` into the `Master Plugins` plugin group
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
 - Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
+
+> ⚠️ **Important for Performance Users:**  
+> If you are using the **Performance** or **Reserved Performance** profiles, you must **re-enable** the `JOJ - VRAMr (Your Profile)` mod** that we previously disabled.
 
 ---
 
