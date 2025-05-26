@@ -247,7 +247,7 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 
 - 🗣️ **Language:** Your Skyrim installation **must be set to English**  
   → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
-- 💾 **Storage:** The full installation requires approximately **715 GB of space**
+- 💾 **Storage:** The full installation requires approximately **707 GB of space**
 
 ---
 
