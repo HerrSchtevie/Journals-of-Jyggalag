@@ -345,7 +345,7 @@ Thank you for respecting the work that went into JOJ, and for being part of the 
 If you encounter issues:
 - Check your install directory for errors.
 - Ensure all prerequisites are installed correctly.
-- Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
+- Visit the Wabbajack Discord or Scrolls of Schtevie Discord for assistance.
 
 ## 🤝 Credits & Permissions
 
