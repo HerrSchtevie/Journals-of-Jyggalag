@@ -233,6 +233,7 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 >
 > **Save files are not cross-compatible.** Switching profiles mid-playthrough can break your game or result in corrupted saves.
 
+---
 
 ### 3. **Configure JOJ to you preferences**
 
