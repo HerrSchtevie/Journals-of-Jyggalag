@@ -12,7 +12,6 @@
 - [🔥 Installation Instructions](#-installation-instructions)
 - [✅ Post-Installation Steps](#-post-installation-steps)
 - [📚 Additional Guides](#-additional-guides)
-- [🧠 Getting Started Guide](#-getting-started-guide)
 - [⚖️ Rule 11 – Modlist Modification Disclaimer](#️-rule-11–modlist-modification-disclaimer)
 - [📞 Support & Troubleshooting](#-support--troubleshooting)
 - [🤝 Credits & Permissions](#-credits--permissions)
@@ -234,43 +233,8 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 >
 > **Save files are not cross-compatible.** Switching profiles mid-playthrough can break your game or result in corrupted saves.
 
----
 
-### 3. **Set the Executable and Launch the Game**
-
-- Ensure **`Journals of Jyggalag`** is selected as the modlist in the **top-right executable dropdown** in MO2.
-- Click **Run** to start the game.
-
----
-
-### 🛠️ Additional Notes
-
-- 🗣️ **Language:** Your Skyrim installation **must be set to English**  
-  → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
-- 💾 **Storage:** The full installation requires approximately **707 GB of space**
-
----
-
-## 📚 Additional Guides
-
-For more information on controller support, NPC management, and running essential tools, check out the following:
-
-- 🎮 [Controller Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Controller%20Guide.md)  
-  Step-by-step instructions for setting up controller support in JOJ.
-
-- 🧑‍🤝‍🧑 [Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md)  
-  A complete walkthrough on managing and customizing NPC appearances using EasyNPC.
-
-- 🛠️ [Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md)  
-  Learn when and how to run tools like DynDOLOD, TexGen, xLODGen, and more.
-
-- ⚠️ [Rule 11 Modding Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Rule%2011%20Guide.md)  
-  A detailed breakdown of how to add your own mods. This falls under **Rule 11** — support is not guaranteed and you’re on your own.
-
-
----
-
-## 🧠 Getting Started Guide
+### 3. **Configure JOJ to you preferences**
 
 Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag v3.0 is built to adapt — but it expects you to pick your setup and stick with it.
 
@@ -317,6 +281,45 @@ Controller support is fully integrated into JOJ — but all related mods are **d
 > ⚠️ Incorrect plugin group assignment can cause controller-related bugs or interface issues.
 
 Once enabled and properly sorted, you’ll have full access to enhanced controller features including radial wheels, custom stances, and a gamepad-friendly UI.
+
+### 3. **Set the Executable and Launch the Game**
+
+- Ensure **`Journals of Jyggalag`** is selected as the modlist in the **top-right executable dropdown** in MO2.
+- Click **Run** to start the game.
+
+> ⚠️ **Important Warning: Never Click "Unlock" in MO2**
+>
+> Do **not** click **"Unlock"** in Mod Organizer 2 while Journals of Jyggalag is launching or running.
+>
+> MO2 will automatically unlock when the game has fully closed.  
+> Manually clicking "Unlock" can break the virtual file system, sever mod links, or corrupt your entire install.
+
+---
+
+### 🛠️ Additional Notes
+
+- 🗣️ **Language:** Your Skyrim installation **must be set to English**  
+  → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
+- 💾 **Storage:** The full installation requires approximately **707 GB of space**
+
+---
+
+## 📚 Additional Guides
+
+For more information on controller support, NPC management, and running essential tools, check out the following:
+
+- 🎮 [Controller Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Controller%20Guide.md)  
+  Step-by-step instructions for setting up controller support in JOJ.
+
+- 🧑‍🤝‍🧑 [Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md)  
+  A complete walkthrough on managing and customizing NPC appearances using EasyNPC.
+
+- 🛠️ [Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md)  
+  Learn when and how to run tools like DynDOLOD, TexGen, xLODGen, and more.
+
+- ⚠️ [Rule 11 Modding Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Rule%2011%20Guide.md)  
+  A detailed breakdown of how to add your own mods. This falls under **Rule 11** — support is not guaranteed and you’re on your own.
+
 
 ---
 
