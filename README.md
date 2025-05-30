@@ -292,6 +292,9 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 >
 > Do **not** click **"Unlock"** in Mod Organizer 2 while Journals of Jyggalag is launching or running.
 >
+> **The game may take several minutes to launch depending on your system specs.**  
+> That’s normal. Be patient. If it’s taking forever, your PC might just be a potato in disguise. Don’t take it out on MO2.
+> 
 > MO2 will automatically unlock when the game has fully closed.  
 > Manually clicking "Unlock" can break the virtual file system, sever mod links, or corrupt your entire install.
 
