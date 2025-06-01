@@ -109,6 +109,8 @@ Together they feature **8,000+ lines** and a fully integrated quest experience.
 
 ![image](https://github.com/user-attachments/assets/3deee803-8d95-417a-920d-badbd8663243)
 
+![image](https://github.com/user-attachments/assets/1a0227bb-3493-4812-ad85-8127b83499cc)
+
 ---
 
 ### 🕯️ Taliesin – Thalmor in Shadow
