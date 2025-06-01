@@ -98,7 +98,7 @@ Let the path of Order guide you.
 
 ---
 
-### 💎 Skyshards and Destiny Points
+### Skyshards and Destiny Points
 
 - **Boss chests** may contain **Skyshards**:  
   - Use them from your inventory to **gain extra XP**.
