@@ -168,7 +168,7 @@ Astara is a top-level mage stationed at the Arcanaeum. She's formal, calculating
 
 ### Astrid – Heart of Ice
 [Astrid - Heart of Ice](https://www.nexusmods.com/skyrimspecialedition/mods/132350)  
-Daughter of Eivor, Astrid hails from the harsh, frozen isle of Roscrea. She’s a battle-hardened warrior with **2,350 voiced lines**, a unique **marriage quest**, and a guarded but emotional storyline. Voiced by Chole Elmore.
+Daughter of Eivor, Astrid hails from the harsh, frozen isle of Roscrea. She’s a battle-hardened warrior with **2,350 voiced lines**, a unique **marriage quest**, and a guarded but emotional storyline. Voiced by Chloe Elmore.
 
 **Location:** Bluewater Cave near Rorikstead
 
