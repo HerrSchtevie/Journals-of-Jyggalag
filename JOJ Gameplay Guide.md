@@ -60,11 +60,13 @@ Let the path of Order guide you.
 ---
 
 ### Starting Room Behavior
+
 - Once you enter the game:
   - Your character will load into a small setup room.
+  - A **JOJ Welcome message** will pop up immediately — this explains that the list is performing initial setup in the background and that **you must wait**.
   - Do **not** move or interact with anything while configuration messages appear.
-  - Wait for the popup that says **“Museum is done setting up.”**
-  - Then you are free to proceed.
+  - Walk away from your keyboard, let everything initialize, and wait for the final confirmation message.
+  - Once you see the popup that says **“Museum is done setting up,”** it’s safe to proceed.
 
 ---
 
@@ -96,12 +98,17 @@ Let the path of Order guide you.
 
 ---
 
-### Skyshards and Destiny Points
-- **Boss chests** may contain **Skyshards**:
-  - Use from your inventory to gain extra perk points.
-- **Destiny Points**:
-  - Gained at character creation and milestone levels.
-  - Use the “Destiny” power in your powers menu to access a unique skill tree.
+### 💎 Skyshards and Destiny Points
+
+- **Boss chests** may contain **Skyshards**:  
+  - Use them from your inventory to **gain extra XP**.
+
+- You can also encounter **glowing Skyshards** while exploring the world:  
+  - Touching **three** of these will grant you **one perk point**.
+
+- **Destiny Points**:  
+  - Awarded at **character creation** and **milestone levels**  
+  - Activate the **“Destiny” power** in your powers menu to access a unique progression tree
 
 ---
 
