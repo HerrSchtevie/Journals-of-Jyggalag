@@ -124,34 +124,42 @@ Once a Thalmor soldier, Taliesin turned rogue after a crisis of conscience. Now 
 ## 🔮 Magical Companions
 
 ### 🧠 Lyssia – The Whispering Mage
-[Lyssia – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/92898)  
+[Lyssia](https://www.nexusmods.com/skyrimspecialedition/mods/92898)  
 A scholar from the elusive College of Whispers in Cyrodiil. Lyssia is powerful, sarcastic, and occasionally fond of mead. Her commentary reflects a sharp mind and a complex moral view, making her an immersive choice for mages and thinkers.
 
 **Location:** Ruined house near the Western Watchtower, Whiterun
 
+![image](https://github.com/user-attachments/assets/3fd2b40f-d81f-437e-9eae-65c8128e67e9)
+
 ---
 
 ### 🪄 Hot Ildari – Ash Witch Follower
-[Hot Ildari – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/19274)  
+[Hot Ildari](https://www.nexusmods.com/skyrimspecialedition/mods/19274)  
 A reworked version of Ildari Sarothril from the *Dragonborn* DLC. This mod allows you to recruit her after the questline, complete with **custom dialogue** and deeper personality. One of the darker and more powerful companions available.
 
 **Location:** Complete the Tel Mithryn questline in Solstheim
 
+![image](https://github.com/user-attachments/assets/b4003e3e-dfc8-44a5-8b42-740a9f1b9f8b)
+
 ---
 
 ### 🌲 Coralyn – The Bosmer Shaman *NFF Compatible*
-[Coldsun’s Coralyn – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/112014)  
+[Coldsun’s Coralyn](https://www.nexusmods.com/skyrimspecialedition/mods/112014)  
 Voiced by Pixie Willow with over **550 unique lines**, Coralyn is a forest shaman who left Valenwood’s rigid culture behind. Deeply attuned to nature, she's quick and elusive, with a mystical vibe and a strong will.
 
 **Location:** Wandering the roads near Honningbrew Meadery, Whiterun Hold
 
+![image](https://github.com/user-attachments/assets/9067ed1f-7f82-49fe-8b78-a5a6a53892c4)
+
 ---
 
 ### 📖 Astara Cosma – Imperial Librarian *NFF Compatible*
-[Coldsun’s Visions – Astara Cosma – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/93354)  
+[Coldsun’s Astara Cosma](https://www.nexusmods.com/skyrimspecialedition/mods/93354)  
 Astara is a top-level mage stationed at the Arcanaeum. She's formal, calculating, and incredibly potent in magic, voiced by KiaraRedVA. Her dialogue reflects her scholarly pride and no-nonsense demeanor.
 
 **Location:** Arcanaeum, College of Winterhold
+
+![image](https://github.com/user-attachments/assets/53d4edb1-57cb-4db4-801d-e4a3e55ec8d7)
 
 ---
 
