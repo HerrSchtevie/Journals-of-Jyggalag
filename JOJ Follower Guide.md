@@ -11,34 +11,34 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 ## 📚 Table of Contents
 
 ### 🎭 Story & Custom Followers
-- [Remiel](#️-remiel)
-- [Auri](#️-auri--song-of-the-green)
-- [Caesia](#️-caesia--borne-of-magic)
-- [Lucien](#️-lucien--the-scholar-companion)
-- [Xelzaz](#️-xelzaz--telvanni-argonian-follower)
-- [Katana, Megara & Shale](#️-katana-megara--shale)
-- [Taliesin](#️-taliesin--thalmor-in-shadow)
+- [Remiel](#remiel)
+- [Auri – Song of the Green](#auri--song-of-the-green)
+- [Caesia – Borne of Magic](#caesia--borne-of-magic)
+- [Lucien – The Scholar Companion](#lucien--the-scholar-companion)
+- [Xelzaz – Telvanni Argonian Follower](#xelzaz--telvanni-argonian-follower)
+- [Katana, Megara & Shale](#katana-megara--shale)
+- [Taliesin – Thalmor in Shadow](#taliesin--thalmor-in-shadow)
 
 ### 🔮 Magical Companions
-- [Lyssia](#️-lyssia--the-whispering-mage)
-- [Hot Ildari](#️-hot-ildari--ash-witch-follower)
-- [Coralyn *NFF Compatible*](#️-coralyn--the-bosmer-shaman-nff-compatible)
-- [Astara Cosma *NFF Compatible*](#️-astara-cosma--imperial-librarian-nff-compatible)
+- [Lyssia – The Whispering Mage](#lyssia--the-whispering-mage)
+- [Hot Ildari – Ash Witch Follower](#hot-ildari--ash-witch-follower)
+- [Coralyn – The Bosmer Shaman *NFF Compatible*](#coralyn--the-bosmer-shaman-nff-compatible)
+- [Astara Cosma – Imperial Librarian *NFF Compatible*](#astara-cosma--imperial-librarian-nff-compatible)
 
 ### ⚔️ Warriors & Combat Allies
-- [Astrid](#️-astrid--heart-of-ice)
-- [Hoth](#️-hoth--bounty-hunter-of-the-north)
-- [Inigo](#️-inigo--the-loyal-khajiit)
-- [Gore](#️-gore--soldier-of-sorrow)
-- [Jesper](#️-jesper-the-guard)
-- [Vayne *NFF Compatible*](#️-vayne--the-dunmer-spy-nff-compatible)
+- [Astrid – Heart of Ice](#astrid--heart-of-ice)
+- [Hoth – Bounty Hunter of the North](#hoth--bounty-hunter-of-the-north)
+- [Inigo – The Loyal Khajiit](#inigo--the-loyal-khajiit)
+- [Gore – Soldier of Sorrow](#gore--soldier-of-sorrow)
+- [Jesper the Guard](#jesper-the-guard)
+- [Vayne – The Dunmer Spy *NFF Compatible*](#vayne--the-dunmer-spy-nff-compatible)
 
 ### 🏰 Vanilla Expansion Mods
-- [Serana Dialogue Add-On *NFF Compatible*](#️-serana-dialogue-add-on-nff-compatible)
-- [Improved Follower Dialogue – Lydia *NFF Compatible*](#️-improved-follower-dialogue--lydia-nff-compatible)
+- [Serana Dialogue Add-On *NFF Compatible*](#serana-dialogue-add-on-nff-compatible)
+- [Improved Follower Dialogue – Lydia *NFF Compatible*](#improved-follower-dialogue--lydia-nff-compatible)
 
-### 🧾 Conclusion
-- [Conclusion](#️-conclusion)
+### Conclusion
+- [Conclusion](#conclusion)
 
 ---
 
