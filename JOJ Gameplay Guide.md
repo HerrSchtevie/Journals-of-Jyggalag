@@ -317,13 +317,13 @@ If you received the **Vanity Mirror** in the starting room:
 
 If you **did not** get the Vanity Mirror:
 
-1. Press the **`~` key** (tilde, left of `1`) to open the console
-2. Type: `showracemenu` and press Enter
-3. Press `~` again to close the console
-4. Press `R` to finalize your appearance
+1. Press the **`~` key** (tilde, left of `1`) to open the console  
+2. Type: `showlimitedracemenu` and press **Enter**  
+3. Press `~` again to close the console  
+4. Press `R` to finalize your appearance  
 5. Hit **Enter** to confirm and exit
 
-This forces RaceMenu to reapply facegen data and should fix any visual glitches.
+Using `showlimitedracemenu` ensures your character’s appearance is refreshed without resetting your race or other critical values. This should correct black face bugs or visual glitches.
 
 ---
 
