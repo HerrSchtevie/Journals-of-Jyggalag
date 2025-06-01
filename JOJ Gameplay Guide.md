@@ -26,11 +26,10 @@ Let the path of Order guide you.
 8. 🧾 [NPC Names](#-npc-names)
 9. 🐻 [Skinning Mechanics](#-skinning-mechanics)
 10. 🏃 [Change Dodge Key](#-change-dodge-key)
-11. 📜 [VICN Quest Requirements](#-vicn-quest-requirements)
-12. 🏠 [Player Homes](#-player-homes)
-13. 🚫 [Fast Travel Disabled](#-fast-travel-disabled)
-14. 💀 [Death Alternatives](#-death-alternatives)
-15. ✅ [Conclusion](#-conclusion)
+11. 🏠 [Player Homes](#-player-homes)
+12. 🚫 [Fast Travel Disabled](#-fast-travel-disabled)
+13. 💀 [Death Alternatives](#-death-alternatives)
+14. ✅ [Conclusion](#-conclusion)
 
 
 ## 🧙 Character Creation and Progression
@@ -396,20 +395,6 @@ Inside the file, change the following lines:
 Make sure to replace `[your desired key's scancode]` with the actual scancode of the key you want to assign. Note that the scancode link provided in the `.ini` file is outdated. For an accurate list, refer to: https://ck.uesp.net/wiki/Input_Script
 
 **Important:** Do not enable `StepDodge`. It is not compatible with the combat systems used in this modlist and will break functionality.
-
----
-
-## 📜 VICN Quest Requirements
-
-To commence the Vicn questline, you must:
-
-- Begin the main quest and learn all three words of **Unrelenting Force**,  
-- Become the **Archmage of Winterhold**, complete all of **Arniel's Endeavors**, and find the **Tools of Kagrenac**,  
-- Acquire the **Oghma Infinium** and the **Wabbajack**,  
-- Claim the **Helm of Yngol** from his barrow,  
-- Obtain the **Staff of Worms** from **Gallows Hall**.
-
-With all that complete, you will soon discover strange matters afoot near **Solitude**, and be able to begin **Dac0da**. Completing that quest will lead in turn to **Vigilant**, **Glenmoril**, and **Unslaad**.
 
 ---
 
