@@ -11,34 +11,34 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 ## 📚 Table of Contents
 
 ### 🎭 Story & Custom Followers
-- [Remiel](#remiel)
-- [Auri](#auri)
-- [Caesia](#caesia)
-- [Lucien](#lucien)
-- [Xelzaz](#xelzaz)
-- [Katana, Megara & Shale](#katana-megara--shale)
-- [Taliesin](#taliesin)
+- [Remiel](#️-remiel)
+- [Auri](#️-auri--song-of-the-green)
+- [Caesia](#️-caesia--borne-of-magic)
+- [Lucien](#️-lucien--the-scholar-companion)
+- [Xelzaz](#️-xelzaz--telvanni-argonian-follower)
+- [Katana, Megara & Shale](#️-katana-megara--shale)
+- [Taliesin](#️-taliesin--thalmor-in-shadow)
 
 ### 🔮 Magical Companions
-- [Lyssia](#lyssia)
-- [Hot Ildari](#hot-ildari)
-- [Coralyn *NFF Compatible*](#coralyn)
-- [Astara Cosma *NFF Compatible*](#astara-cosma)
+- [Lyssia](#️-lyssia--the-whispering-mage)
+- [Hot Ildari](#️-hot-ildari--ash-witch-follower)
+- [Coralyn *NFF Compatible*](#️-coralyn--the-bosmer-shaman-nff-compatible)
+- [Astara Cosma *NFF Compatible*](#️-astara-cosma--imperial-librarian-nff-compatible)
 
 ### ⚔️ Warriors & Combat Allies
-- [Astrid](#astrid)
-- [Hoth](#hoth)
-- [Inigo](#inigo)
-- [Gore](#gore)
-- [Jesper](#jesper)
-- [Vayne *NFF Compatible*](#vayne)
+- [Astrid](#️-astrid--heart-of-ice)
+- [Hoth](#️-hoth--bounty-hunter-of-the-north)
+- [Inigo](#️-inigo--the-loyal-khajiit)
+- [Gore](#️-gore--soldier-of-sorrow)
+- [Jesper](#️-jesper-the-guard)
+- [Vayne *NFF Compatible*](#️-vayne--the-dunmer-spy-nff-compatible)
 
 ### 🏰 Vanilla Expansion Mods
-- [Serana Dialogue Add-On *NFF Compatible*](#serana-dialogue-add-on)
-- [Improved Follower Dialogue – Lydia *NFF Compatible*](#improved-lydia)
+- [Serana Dialogue Add-On *NFF Compatible*](#️-serana-dialogue-add-on-nff-compatible)
+- [Improved Follower Dialogue – Lydia *NFF Compatible*](#️-improved-follower-dialogue--lydia-nff-compatible)
 
 ### 🧾 Conclusion
-- [Conclusion](#conclusion)
+- [Conclusion](#️-conclusion)
 
 ---
 
