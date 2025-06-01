@@ -227,6 +227,28 @@ A seductive and dangerous Dunmer voiced by Alexia Renaldis (Lily from *Subverse*
 
 ---
 
+## 🏰 Vanilla Expansion Mods
+
+### 🧛 Serana Dialogue Add-On *NFF Compatible*  
+[Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)  
+This mod transforms Serana into a deeply interactive companion with over **8,000 new voiced lines** by Kerstyn Unger. It adds new questlines, personality traits, relationship options, and intelligent reactive dialogue. A must-have for vampire or Dawnguard playthroughs.
+
+**Location:** Serana is found during the *Dawnguard* DLC questline
+
+![image](https://github.com/user-attachments/assets/455faf9c-9e32-420c-926f-3b992e4f1874)
+
+---
+
+### 🛡️ Improved Follower Dialogue – Lydia *NFF Compatible*  
+[Improved Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473)  
+Lydia finally gets the attention she deserves with **1,400+ fully voiced lines** by LMG Wilson. This mod expands her personality, giving her greater depth, more situational awareness, and actual conversations beyond “I am sworn to carry your burdens.”
+
+**Location:** Dragonsreach, Whiterun
+
+![image](https://github.com/user-attachments/assets/f8d23112-dd2e-4837-9a0e-5779b298f8f0)
+
+---
+
 ## 🧾 Conclusion
 
 With this wide selection of custom followers, **Journals of Jyggalag** transforms Skyrim into a world alive with voices, stories, and personalities. Whether you're drawn to brooding warriors, whimsical mages, or snarky scholars, there's a companion perfectly suited to your journey.
