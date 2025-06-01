@@ -166,50 +166,62 @@ Astara is a top-level mage stationed at the Arcanaeum. She's formal, calculating
 ## ⚔️ Warriors & Combat Allies
 
 ### ❄️ Astrid – Heart of Ice
-[Heart of Ice – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/132350)  
+[Astrid - Heart of Ice](https://www.nexusmods.com/skyrimspecialedition/mods/132350)  
 Daughter of Eivor, Astrid hails from the harsh, frozen isle of Roscrea. She’s a battle-hardened warrior with **2,350 voiced lines**, a unique **marriage quest**, and a guarded but emotional storyline. Voiced by Chole Elmore.
 
 **Location:** Bluewater Cave near Rorikstead
 
+![image](https://github.com/user-attachments/assets/48b8a798-d180-42ab-aeae-6ea832c49d8f)
+
 ---
 
 ### 💀 Hoth – Bounty Hunter of the North
-[Hoth – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/16137)  
+[Hoth](https://www.nexusmods.com/skyrimspecialedition/mods/16137)  
 A grizzled veteran covered in trophies from his kills. Hoth delivers brutal strength and dark humor. He's voiced and fully equipped with his own combat gear and bounty system.
 
 **Location:** Moonside Inn, Morthal
 
+![image](https://github.com/user-attachments/assets/5b03484f-31b5-4d0c-86ec-d115b31e15cf)
+
 ---
 
 ### 🐾 Inigo – The Loyal Khajiit
-[Inigo – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/1461)  
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461)  
 One of the most beloved companions ever made. Inigo is a fully voiced Khajiit with **7,000+ unique lines**, complete with stealth skills, dynamic reactions, unique gear, and player-synced interactions.
 
 **Location:** Riften Jail
 
+![image](https://github.com/user-attachments/assets/5f546db6-97b4-409f-ba86-79290bb3ce95)
+
 ---
 
 ### 🗡️ Gore – Soldier of Sorrow
-[Gore – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/85298)  
+[Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298)  
 Raised a child soldier, Gore is now a bold and heavily armored warrior. Loud, opinionated, and deeply wounded, his journey adds depth and pain to any campaign. Ideal for emotionally resonant storytelling.
 
 **Location:** Peak’s Shade Tower, near Falkreath
 
+![image](https://github.com/user-attachments/assets/53b9977e-7183-497c-b491-460781efc0ae)
+
 ---
 
 ### 🎻 Jesper the Guard
-[Jesper – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/132362)  
+[Jesper](https://www.nexusmods.com/skyrimspecialedition/mods/132362)  
 From *Skyrim Guard Tales*, Jesper is a bard-like Whiterun guard with custom voice lines and the occasional song. He’s loyal, humorous, and a light-hearted addition to your travels.
 
 **Location:** The Bannered Mare, Whiterun
 
+![image](https://github.com/user-attachments/assets/ac054bee-f5e0-4f8e-8d7e-1ce42b20b648)
+
 ---
 
 ### 🕶️ Vayne – The Dunmer Spy *NFF Compatible*
-[Coldsun’s Vayne – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/111833)  
+[Coldsun’s Vayne](https://www.nexusmods.com/skyrimspecialedition/mods/111833)  
 A seductive and dangerous Dunmer voiced by Alexia Renaldis (Lily from *Subverse*). Vayne is mature, mysterious, and not afraid to get her hands dirty. Contains adult themes and hidden depth.
 
 **Location:** Mistveil Keep, Riften
+
+![image](https://github.com/user-attachments/assets/12197371-15d3-4c4b-9f12-dbbaa82460fd)
 
 ---
 
