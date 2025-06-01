@@ -36,6 +36,7 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 ### 🏰 Vanilla Expansion Mods
 - [Serana Dialogue Add-On *NFF Compatible*](#serana-dialogue-add-on-nff-compatible)
 - [Improved Follower Dialogue – Lydia *NFF Compatible*](#improved-follower-dialogue--lydia-nff-compatible)
+- [Follower Dialogue Expansion](#follower-dialogue-expansion)
 
 ### Conclusion
 - [Conclusion](#conclusion)
@@ -105,9 +106,7 @@ Together they feature **8,000+ lines** and a fully integrated quest experience.
 
 **Location:** Winking Skeever, Solitude (Katana is upstairs)
 
-![image](https://github.com/user-attachments/assets/be3f598a-09ef-416b-8a1c-a43485f80a42)
-
-![image](https://github.com/user-attachments/assets/3deee803-8d95-417a-920d-badbd8663243)
+![image](https://github.com/user-attachments/assets/61328fdf-8ec7-4cb4-97b0-5e4db8d23979)
 
 ![image](https://github.com/user-attachments/assets/1a0227bb-3493-4812-ad85-8127b83499cc)
 
@@ -246,6 +245,33 @@ Lydia finally gets the attention she deserves with **1,400+ fully voiced lines**
 **Location:** Dragonsreach, Whiterun
 
 ![image](https://github.com/user-attachments/assets/f8d23112-dd2e-4837-9a0e-5779b298f8f0)
+
+---
+
+### Follower Dialogue Expansion
+
+This modlist includes nearly the **entire suite of [Follower Dialogue Expansion (FDE)](https://next.nexusmods.com/profile/anbeegod/mods?gameId=1704)** content by prolific author *anbeegod*. These dialogue overhauls dramatically improve personality, immersion, and reactivity for many of Skyrim’s core companions.
+
+The following vanilla followers are fully supported by FDE:
+
+- Aela the Huntress  
+- Mjoll the Lioness  
+- Jenassa  
+- Brelyna Maryon  
+- Erik the Slayer  
+- Jordis the Sword-Maiden  
+- Uthgerd the Unbroken  
+- Faendal  
+- Ysolda  
+- Camilla Valerius  
+- Borgakh the Steel Heart  
+- Illia  
+- Roggi Knot-Beard  
+- Aranea Ienith  
+- Rayya  
+- Sapphire  
+
+> These expansions give new life to Skyrim’s original companions, making them more expressive, responsive, and integrated into your adventures.
 
 ---
 
