@@ -45,42 +45,52 @@ This guide was written by **Tidal**, a true **Crusader of Order**. A massive tha
 ## 🎭 Story & Custom Followers
 
 ### 🔧 Remiel
-[Remiel – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/51874)  
+[Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874)  
 A Breton engineer from Wayrest with over **5,000 lines** of dialogue. Remiel isn’t a warrior but offers charm, curiosity, and Dwemer tech. She can even **reprogram a Dwemer spider** to assist you in battle.
 
 **Location:** Markarth, Silverblood Inn
 
+![image](https://github.com/user-attachments/assets/1669ee81-2097-45b4-b5b3-66a584a86f6f)
+
 ---
 
 ### 🌿 Auri – Song of the Green
-[Auri – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/11278)  
+[Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278)  
 A traditionalist Bosmer archer with over **1,000 voiced lines**, deeply rooted in the Green Pact. Auri provides rich cultural commentary, snarky wit, and a unique take on the world of Skyrim.
 
 **Location:** Falkreath Hold – Look for Auri’s Pod on the map
 
+![image](https://github.com/user-attachments/assets/f483049e-981d-446b-b065-d199d4a7c23f)
+
 ---
 
 ### ✨ Caesia – Borne of Magic
-[Caesia – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/13389)  
+[Caesia](https://www.nexusmods.com/skyrimspecialedition/mods/13389)  
 A confident and mysterious mage companion with **730+ lines**. Caesia offers biting sarcasm, evolving relationship dialogue, and is one of the most reactive magical followers in Skyrim.
 
 **Location:** Moonside Inn, Morthal
 
+![image](https://github.com/user-attachments/assets/8e790ad1-16c3-452e-a659-7d1b71f0df53)
+
 ---
 
 ### 📚 Lucien – The Scholar Companion
-[Lucien – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/20035)  
+[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)  
 An Imperial academic with **5,000+ lines** of fully voiced dialogue. Lucien starts out timid and untrained but grows braver and more capable through your shared journey. Offers optional training and commentary.
 
 **Location:** Dead Man’s Drink, Falkreath
 
+![image](https://github.com/user-attachments/assets/94a9c48c-0552-49b8-bd96-161e866c86bc)
+
 ---
 
 ### 🐍 Xelzaz – Telvanni Argonian Follower
-[Xelzaz – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/62893)  
+[Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893)  
 A fully voiced **Argonian Telvanni enforcer** with over **8,300 lines**. Offers potions, Telvanni history, meals, and deep lore interactions. A great companion for mages and Dunmer roleplay.
 
 **Location:** East of Dayspring Canyon, near the Southern Morrowind Gate
+
+![image](https://github.com/user-attachments/assets/49b8e9fc-71fd-4521-b82f-e37a44066003)
 
 ---
 
@@ -95,13 +105,19 @@ Together they feature **8,000+ lines** and a fully integrated quest experience.
 
 **Location:** Winking Skeever, Solitude (Katana is upstairs)
 
+![image](https://github.com/user-attachments/assets/be3f598a-09ef-416b-8a1c-a43485f80a42)
+
+![image](https://github.com/user-attachments/assets/3deee803-8d95-417a-920d-badbd8663243)
+
 ---
 
 ### 🕯️ Taliesin – Thalmor in Shadow
-[Taliesin – Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/93413)  
+[Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413)  
 Once a Thalmor soldier, Taliesin turned rogue after a crisis of conscience. Now haunted by regret, he travels Skyrim cloaked in riddles, philosophy, and melancholy. An ideal companion for morally complex playthroughs.
 
 **Location:** Shrine of Talos, south of Lake Ilinalta
+
+![image](https://github.com/user-attachments/assets/44ffc9b0-cc7a-4794-ba4a-84e0f385d1f4)
 
 ---
 
