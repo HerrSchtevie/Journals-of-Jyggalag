@@ -41,8 +41,8 @@ Let the path of Order guide you.
   - Available deities for worship
   - Standing Stone bonuses
 - Recommended reading before character creation:
-  - [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/60786)
-  - [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/69230)
+  - [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219)
+  - [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043)
   - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506)
 - **Do not** use console commands to change your race after creation.
 
@@ -410,12 +410,13 @@ With all that complete, you will soon discover strange matters afoot near **Soli
 
 In addition to the Vanilla and AE homes included in the base game, this list adds the following custom housing locations:
 
-- **LOTD Safehouse**  
-- **Aemer's Refuge**  
-- **Mirele Bismath**  
-- **BBLS**  
-- **The Interdimensional Chambers**  
-- **Leveler's Tower**  
+- [LOTD Safehouse](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+- [Aemer's Refuge](https://www.nexusmods.com/skyrimspecialedition/mods/4751)
+- [Mirele Bismath](https://www.nexusmods.com/skyrimspecialedition/mods/93817) 
+- [BBLS](https://www.nexusmods.com/skyrimspecialedition/mods/95197)
+- [The Interdimensional Chambers](https://www.nexusmods.com/skyrimspecialedition/mods/47778)  
+- [Leveler's Tower](https://www.nexusmods.com/skyrimspecialedition/mods/2692)
+    
 - **Breaking Dawn**, **New Moon**, and **Eclipse Cottages** from **Cities of the North**
 
 These homes vary in style and function, from immersive lore-friendly dwellings to utility-packed player bases. All are fully compatible with the modlist and available once discovered in-game.
