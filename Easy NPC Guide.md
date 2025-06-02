@@ -46,7 +46,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 1. Before opening **EasyNPC**, go to my Nexus page:  
    [Journals of Jyggalag](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files) and download the file **"JOJ - NPC Mugshots"**  
 2. Unzip this file and place the **`Mugshots`** folder (the entire folder) into: `Journals of Jyggalag > tools > EasyNPC`  
-3. This download also includes a file called **`JOJ - NPC Merge profile 2.5.2.txt`**.  
+3. This download also includes files called **`JOJ - NPC Merge Profile (Lord's Vision).txt` and `JOJ - NPC Merge Profile (Reserved Vision).txt`**.  
    You will use this in **Step 4** below, and it can remain in the same `EasyNPC` folder along with the Mugshots  
 4. This will allow you to see the faces of the NPCs you are trying to select, making the selection process much easier  
 5. Note: This pack only includes mugshots for NPC overhauls already included in Journals of Jyggalag. If you're adding your own NPC overhauls, you'll need to find mugshots for those separately.  
