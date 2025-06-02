@@ -63,7 +63,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 
 3. In the right panel (Plugins), the plugins can just stay at the very bottom below `Outputs`:  
 
-![image](https://github.com/user-attachments/assets/6ab20340-d3c1-4bb8-a77a-e27330448782)
+![image](https://github.com/user-attachments/assets/e71da6fc-1df4-40c0-a768-c09f74fad2b2)
 
 ---
 
