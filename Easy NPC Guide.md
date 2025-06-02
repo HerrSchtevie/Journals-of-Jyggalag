@@ -69,6 +69,11 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 > The **Lord's Vision** and **Performance** profiles share the `JOJ - NPC Merge (Lord's Vision)` mod file.  
 > The **Reserved Vision** and **Reserved Performance** profiles share the `JOJ - NPC Merge (Reserved Vision)` mod file.
 
+> ⚠️ **Disclaimer:**  
+> This guide was created using the **Journals of Jyggalag - Lord's Vision** profile.  
+> Some **plugin numbers, filenames, or output folders** may differ slightly in the other profiles.
+> Adjust accordingly based on your selected profile.
+
 1. In the **right panel**, disable:  
    - `All Synthesis Patches, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp` *(temporarily)*
 
