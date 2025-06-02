@@ -56,7 +56,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 
 ## 🛠️ Step 1: Enable NPC Overhaul Mods
 
-1. In **MO2**, scroll to the `EasyNPC` separator in the left panel.  
+1. In **MO2**, scroll to the `Easy NPC` separator in the left panel.  
 2. **Enable each mod one at a time, in order**, from top to bottom. Enabling mods one-by-one ensures the plugin order in the right panel mirrors the order of mods in the left panel, which helps preserve a clean and consistent plugin load order during the merge process.
 
 ![easynpc1](https://github.com/user-attachments/assets/4088ef1b-a394-41cd-932d-2312781d33b7)
@@ -70,9 +70,9 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 ## 🛹 Step 2: Clean Previous Merge
 
 1. In the **right panel**, disable:  
-   - `JOJ - Synthesis Patch.esp, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp` *(temporarily)*
+   - `All Synthesis Patches, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp` *(temporarily)*
 
-2. In the **left panel**, locate `JOJ - NPC Merge` under the `Outputs` separator  
+2. In the **left panel**, locate `JOJ - NPC Merge (Your Profile)` under the `Outputs` separator  
    - Right-click > **Open in Explorer**  
    - Delete **everything inside the folder**  
 
