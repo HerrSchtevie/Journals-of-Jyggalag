@@ -2,10 +2,6 @@
 
 ---
 
-### ⚠️ DISCLAIMER: This guide has not yet been updated to match Journals of Jygalag v3.0.0.
-
----
-
 Welcome, Champion of Order.
 
 This guide walks you through how to **rebuild or customize your NPC appearance merge** using [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/56095). This tool gives you full visual control over how characters appear in your game.
@@ -68,6 +64,10 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 ---
 
 ## 🛹 Step 2: Clean Previous Merge
+
+> 💡 **Note:**  
+> The **Lord's Vision** and **Performance** profiles share the `JOJ - NPC Merge (Lord's Vision)` mod file.  
+> The **Reserved Vision** and **Reserved Performance** profiles share the `JOJ - NPC Merge (Reserved Vision)` mod file.
 
 1. In the **right panel**, disable:  
    - `All Synthesis Patches, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp` *(temporarily)*
