@@ -101,8 +101,8 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 ![easynpc4](https://github.com/user-attachments/assets/ba5eacbf-7f7f-47e1-8331-34726f336a12)
 ![easynpc3](https://github.com/user-attachments/assets/c2459a4a-5758-420f-b331-19662ce79fd3)
 ![easynpc11](https://github.com/user-attachments/assets/7f256593-ff6c-4ba6-ac99-a03a5b41da01)
-![easynpc12](https://github.com/user-attachments/assets/f4cf6af2-c722-49b1-9fc8-f30128856237)
-![2](https://github.com/user-attachments/assets/34e5897d-72c6-4959-973b-a5aae67a72f3)
+![image](https://github.com/user-attachments/assets/6943c11a-90a6-4a8c-8faf-fda18e92eb53)
+![image](https://github.com/user-attachments/assets/15b8189e-379f-4c03-99d2-324776d0a3fb)
 
 ---
 
