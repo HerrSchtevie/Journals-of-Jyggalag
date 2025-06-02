@@ -99,6 +99,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 ![easynpc3](https://github.com/user-attachments/assets/c2459a4a-5758-420f-b331-19662ce79fd3)
 ![easynpc11](https://github.com/user-attachments/assets/7f256593-ff6c-4ba6-ac99-a03a5b41da01)
 ![image](https://github.com/user-attachments/assets/6943c11a-90a6-4a8c-8faf-fda18e92eb53)
+![image](https://github.com/user-attachments/assets/e50bf6c5-8190-4909-8846-bab0156df703)
 ![image](https://github.com/user-attachments/assets/15b8189e-379f-4c03-99d2-324776d0a3fb)
 
 ---
