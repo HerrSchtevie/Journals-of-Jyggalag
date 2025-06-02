@@ -61,10 +61,7 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 
 ![easynpc1](https://github.com/user-attachments/assets/4088ef1b-a394-41cd-932d-2312781d33b7)
 
-3. Do the same in the right panel (Plugins):  
-   - Click the first EasyNPC plugin, hold **Shift**, and click the last  
-   - Right-click > **Create Group** > Name it `EasyNPC`  
-   - Move this group just above the “Outputs” group for clarity  
+3. In the right panel (Plugins), the plugins can just stay at the very bottom below `Outputs`:  
 
 ![image](https://github.com/user-attachments/assets/6ab20340-d3c1-4bb8-a77a-e27330448782)
 
