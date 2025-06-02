@@ -121,12 +121,12 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 🚫 Do **not** change the Default Source  
 
 > **IMPORTANT:** None of your NPCs should have `AI Overhaul.esm` selected as their **Default Source** (Blue Box).  
-> If you downloaded the `JOJ - NPC Mugshots` pack from [Step 0](#-step-0-install-mugshots-for-easynpc), this is already configured correctly in the included profile:  
-> **`JOJ - NPC Merge profile 2.5.2.txt`**
+> If you downloaded the `JOJ - NPC Mugshots` pack from [Step 0](#-step-0-install-mugshots-for-easynpc), this is already configured correctly in the included profiles:  
+> **`JOJ - NPC Merge Profile (Lord's Vision).txt` and `JOJ - NPC Merge Profile (Reserved Vision).txt`**
 
 To load the profile:  
 - Click the **folder icon** in the top-right of the **Profile** tab  
-- Navigate to Journals of Jyggalag > tools > EasyNPC > Mugshots > Select the `JOJ - NPC Merged profile 2.0.txt`
+- Navigate to Journals of Jyggalag > tools > EasyNPC > Mugshots > Select the **`JOJ - NPC Merge Profile (Lord's Vision).txt` or `JOJ - NPC Merge Profile (Reserved Vision).txt` depending on whcih profile you're building.**
 
 This will load up my pre-made profile, which mirrors the in-game build exactly.  
 You can either tweak my choices or search for specific NPCs by name using the **\"Name\"** search bar and apply changes to your personal overhauls.
@@ -161,16 +161,16 @@ You can either tweak my choices or search for specific NPCs by name using the **
 After the build completes, you'll get a success message:
 
 > “Your NPC Merge is ready at:  
-> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge`”
+> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge (Lord's Vision)` or `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge (Reserved Vision)` depending on your profile.
 
-![easynpc16](https://github.com/user-attachments/assets/e713d5c8-ab43-4682-b85a-17a3c2343a18)
+![image](https://github.com/user-attachments/assets/b241093d-2649-4bcb-9b02-2a9dab64fcc0)
 
 ---
 
 ### 📦 Post-Build Steps in MO2
 
 1. Close EasyNPC  
-2. Enable `JOJ - NPC Merge` in MO2  
+2. Enable **`JOJ - NPC Merge Profile (Lord's Vision).txt` or `JOJ - NPC Merge Profile (Reserved Vision).txt`** depedning on your profile in MO2  
 3. Refresh your MO2 panels  
 
 You’ll now see **4 new plugins** appear at the bottom of your plugin list.
