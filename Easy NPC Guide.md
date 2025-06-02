@@ -59,14 +59,14 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 1. In **MO2**, scroll to the `EasyNPC` separator in the left panel.  
 2. **Enable each mod one at a time, in order**, from top to bottom. Enabling mods one-by-one ensures the plugin order in the right panel mirrors the order of mods in the left panel, which helps preserve a clean and consistent plugin load order during the merge process.
 
-![5](https://github.com/user-attachments/assets/4a5bbe3a-3a14-4d87-b1b9-45884aede9ad)
+![easynpc1](https://github.com/user-attachments/assets/4088ef1b-a394-41cd-932d-2312781d33b7)
 
 3. Do the same in the right panel (Plugins):  
    - Click the first EasyNPC plugin, hold **Shift**, and click the last  
    - Right-click > **Create Group** > Name it `EasyNPC`  
    - Move this group just above the “Outputs” group for clarity  
 
-![1](https://github.com/user-attachments/assets/12adf39a-f856-42d2-9beb-2189de12fd30)
+![image](https://github.com/user-attachments/assets/6ab20340-d3c1-4bb8-a77a-e27330448782)
 
 ---
 
