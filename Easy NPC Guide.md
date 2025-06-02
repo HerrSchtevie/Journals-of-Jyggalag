@@ -88,10 +88,9 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
    - `Skyrim.esm`, `Update.esm`, `Dawnguard.esm`, `HearthFires.esm`, `Dragonborn.esm`  
    - All **Creation Club plugins** (Plugins 1–80)  
    - `_ResourcePack.esl`, `Unofficial Skyrim Special Edition Patch.esp`, and `Unofficial Skyrim Creation Club Content Patch.esl` (Plugins 87–88)  
-   - `3DNPC.esp`, `Wyrmstooth.esm`, `CS_Visions.esm`, and `AI Overhaul.esm`  
+   - `3DNPC.esp`, `Wyrmstooth.esm`, `AI Overhaul.esm`, `Immersive Wenches.esp`, `ICNs_ImmersiveCollegeNPCs.esp`, and `CS_Visions.esm`
    - Any additional **NPC overhaul mods** that you intend to merge (they will be towards the bottom if you included your NPC mods in the EasyNPC plugin group that we created in Step 1)  
-   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually. If you're using the provided `JOJ - NPC Merge profile 2.5.2.txt`, this has already been set up correctly—but it's still a 
-     good idea to double check. It should only be enabled to ensure compatibility with Sons of Nirn during the merge process.  
+   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually. If you're using the provided `JOJ - NPC Merge Profile (Lord's Vision or Reserved Vision).txt`, this has already been set up correctly—but it's still a good idea to double check. It should only be enabled to ensure compatibility with Sons of Nirn during the merge process.  
  
 
 ![easynpc3](https://github.com/user-attachments/assets/93e3ed5c-8104-4232-bec5-fd7315a16d21)
