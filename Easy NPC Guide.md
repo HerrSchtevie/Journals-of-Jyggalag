@@ -175,11 +175,13 @@ After the build completes, you'll get a success message:
 
 You’ll now see **4 new plugins** appear at the bottom of your plugin list.
 
-- Select all of them, then right-click > **Create Group** > Name it `Easy NPC Merge`  
+- Select all of them, then right-click > **Create Group** > Name it `JOJ NPC Merge`  
 - Move this new group just **above** the `Alternate Perspective` plugin group  
-- Enable all the plugins inside the new `Easy NPC Merge` group  
+- Enable all the plugins inside the new `Easy NPC Merge` group
+- Be sure to re-enable to Output plugins that we disabled in step 2!
+`All Synthesis Patches, ParallaxGen.esp, PG_1.esp, DynDOLOD.esp, and Occlusion.esp`  
 
-![6](https://github.com/user-attachments/assets/a012f00b-db1b-4fa5-b17b-68eef1887db4)
+![image](https://github.com/user-attachments/assets/02bfbad5-1cfe-4c15-8716-30562ac7c5bb)
 
 ---
 
@@ -190,10 +192,7 @@ Once the new merge is active:
 - **Disable ALL mods under the EasyNPC separator**  
   These were only needed for the merge. Leaving them enabled will cause plugin duplication, blackface bugs, and instability.
 
-![7](https://github.com/user-attachments/assets/709fc68a-c204-4b2b-bb36-43c6f6bd13fd)
-
-Be sure to reable to Output plugins that we disabled in step 2!
-`JOJ - Synthesis Patch.esp, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp`
+![Screenshot 2025-06-02 170139](https://github.com/user-attachments/assets/a548b61b-eb14-41e5-b084-513d8cdf4d57)
 
 ---
 
