@@ -142,17 +142,17 @@ You can either tweak my choices or search for specific NPCs by name using the **
 1. Go to the **Build** tab  
 2. Review the **Alerts** tab:
    - Warnings about "suspicious masters" can typically be ignored unless you're encountering build errors
-   - The Archive `Wintersun - Faiths of Skyrim - Textures.bsa` warning can be safely disregarded.   
+   - The Archives `StrangeRunes - Textures.bsa`, `StrangeRunes.bsa`, and `Wintersun - Faiths of Skyrim - Textures.bsa`, alerts can be safely disregarded.   
    - If any required NPC records are missing or unresolved, resolve those before continuing  
 
 3. Under **Output Settings**:
-   - **Mod Name**: `JOJ - NPC Merge`  
+   - **Mod Name**: `JOJ - NPC Merge (Your Profile)`  
    - ✅ **Pack files into archives** (recommended)  
    - ✅ **Attempt conversion of wigs to head parts**  
 
 4. When ready, click **Build** in the upper right corner  
 
-![4](https://github.com/user-attachments/assets/77796dae-0096-46d7-910c-92f4d7b89920)
+![image](https://github.com/user-attachments/assets/7fc66196-9af3-4ea8-b890-a26230eb51e2)
 
 ---
 
