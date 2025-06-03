@@ -17,19 +17,20 @@ Let the path of Order guide you.
 ## 📚 Table of Contents
 
 1. 🧙 [Character Creation and Progression](#-character-creation-and-progression)
-2. 🧭 [Questing](#-questing)
-3. 🗡️ [3rd Person Combat Stances](#-3rd-person-combat-stances)
-4. 🧍 [Stance Options](#-stance-options)
-5. 🪓 [Dynamic Grip](#-dynamic-grip)
-6. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
-7. 🗺️ [Map Marker Issues](#-map-marker-issues)
-8. 🧾 [NPC Names](#-npc-names)
-9. 🐻 [Skinning Mechanics](#-skinning-mechanics)
-10. 🏃 [Change Dodge Key](#-change-dodge-key)
-11. 🏠 [Player Homes](#-player-homes)
-12. 🚫 [Fast Travel Disabled](#-fast-travel-disabled)
-13. 💀 [Death Alternatives](#-death-alternatives)
-14. ✅ [Conclusion](#-conclusion)
+2. 💾 [Skyrim Save System Overhaul 3](#-skyrim-save-system-overhaul-3)
+3. 🧭 [Questing](#-questing)
+4. 🗡️ [3rd Person Combat Stances](#-3rd-person-combat-stances)
+5. 🧍 [Stance Options](#-stance-options)
+6. 🪓 [Dynamic Grip](#-dynamic-grip)
+7. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
+8. 🗺️ [Map Marker Issues](#-map-marker-issues)
+9. 🧾 [NPC Names](#-npc-names)
+10. 🐻 [Skinning Mechanics](#-skinning-mechanics)
+11. 🏃 [Change Dodge Key](#-change-dodge-key)
+12. 🏠 [Player Homes](#-player-homes)
+13. 🚫 [Fast Travel Disabled](#-fast-travel-disabled)
+14. 💀 [Death Alternatives](#-death-alternatives)
+15. ✅ [Conclusion](#-conclusion)
 
 
 ## 🧙 Character Creation and Progression
@@ -120,6 +121,60 @@ Let the path of Order guide you.
   - Bandit zones: minimum level 5
   - Draugr zones: minimum level 10
  
+---
+
+## 💾 Skyrim Save System Overhaul 3
+
+---
+
+SSSO3 is a powerful utility mod that overhauls the vanilla autosave, save, and load systems with much more reliable tools, but it does require a bit of configuration to set up. To enable it for your character, follow the steps below:
+
+❌ **Leave the mod disabled at first.** Do not enable SSSO3 until after you’ve created your character and completed any tutorial content.
+
+📝 **Make a careful note of your character’s exact name.** You’ll need this later when naming your config file.
+
+🚪 **Enter the main game world**, such as outside the Helgen cave if using a traditional start. Create a manual save and then **exit the game completely**.
+
+📁 **Find your save file.** It will be located in a folder like:  
+`D:\modlists\JOJ3.0\profiles\Journals of Jyggalag - CHOSEN PROFILE\saves`
+
+🔍 **Identify the correct save name.** Example:  
+`Save39_25A5A6EA_0_4D617961_Tamriel_000701_20250527021932_10_1.ess`
+
+🔑 **Copy the “character key”** portion of that file name. This is the section after the first underscore and before the worldspace name. In the above example, the key is:  
+`25A5A6EA_0_4D617961`  
+⚠️ Your character key will be different — do not copy this one.
+
+🖱️ In MO2, **enable the SSSO3 mod**, then **right-click it** and select **“Open in Explorer.”**
+
+📂 Open the `SSSOConf` folder and find the file `playerid.txt`.
+
+✍️ Open `playerid.txt` and replace the text:  
+
+From: "notset"
+To: "25A5A6EA_0_4D617961"
+
+
+💾 Use **File > Save As** and name the file with your character’s full and exact name, for example:  
+
+`John Skyrim.txt`
+
+🔁 Restart the game, load your character, and open the SSSO3 MCM to configure your settings.
+
+⚙️ Recommended defaults:
+- 🕔 Autosave every: **5 minutes**
+- ⏳ Force autosave every: **15 minutes**
+- ♻️ Rotate autosaves after: **5 copies**
+- 📦 Rotate manual saves after: **5 copies**
+- 🎮 Controls:
+  - Remap vanilla **quicksave/quickload** to unused keys
+  - Set **SSSO3 Manual Save** to `F5`
+  - Set **SSSO3 Manual Load** to `F9`
+- 🛡️ In the **Save Shield** section, check the boxes for:
+  - ✅ Combat State
+  - ✅ Riding
+  - ✅ High Speed
+
 ---
 
 ## 🧭 Questing
