@@ -129,37 +129,40 @@ Let the path of Order guide you.
 
 SSSO3 is a powerful utility mod that overhauls the vanilla autosave, save, and load systems with much more reliable tools, but it does require a bit of configuration to set up. To enable it for your character, follow the steps below:
 
-❌ **Leave the mod disabled at first.** Do not enable SSSO3 until after you’ve created your character and completed any tutorial content.
+**Leave the mod disabled at first.** Do not enable SSSO3 until after you’ve created your character and completed any tutorial content.
 
-📝 **Make a careful note of your character’s exact name.** You’ll need this later when naming your config file.
+**Make a careful note of your character’s exact name.** You’ll need this later when naming your config file.
 
-🚪 **Enter the main game world**, such as outside the Helgen cave if using a traditional start. Create a manual save and then **exit the game completely**.
+**Enter the main game world**, such as outside the Helgen cave if using a traditional start. Create a manual save and then **exit the game completely**.
 
-📁 **Find your save file.** It will be located in a folder like:  
+**Find your save file.** It will be located in a folder like:
+
 `D:\modlists\JOJ3.0\profiles\Journals of Jyggalag - CHOSEN PROFILE\saves`
 
-🔍 **Identify the correct save name.** Example:  
+**Identify the correct save name.** Example:  
 `Save39_25A5A6EA_0_4D617961_Tamriel_000701_20250527021932_10_1.ess`
 
-🔑 **Copy the “character key”** portion of that file name. This is the section after the first underscore and before the worldspace name. In the above example, the key is:  
+**Copy the “character key”** portion of that file name. This is the section after the first underscore and before the worldspace name. In the above example, the key is: 
+
 `25A5A6EA_0_4D617961`  
-⚠️ Your character key will be different — do not copy this one.
 
-🖱️ In MO2, **enable the SSSO3 mod**, then **right-click it** and select **“Open in Explorer.”**
+Your character key will be different — do not copy this one.
 
-📂 Open the `SSSOConf` folder and find the file `playerid.txt`.
+In MO2, **enable the SSSO3 mod**, then **right-click it** and select **“Open in Explorer.”**
 
-✍️ Open `playerid.txt` and replace the text:  
+Open the `SSSOConf` folder and find the file `playerid.txt`.
+
+Open `playerid.txt` and replace the text:  
 
 From: "notset"
 To: "25A5A6EA_0_4D617961"
 
 
-💾 Use **File > Save As** and name the file with your character’s full and exact name, for example:  
+Use **File > Save As** and name the file with your character’s full and exact name, for example:  
 
 `John Skyrim.txt`
 
-🔁 Restart the game, load your character, and open the SSSO3 MCM to configure your settings.
+Restart the game, load your character, and open the SSSO3 MCM to configure your settings.
 
 ⚙️ Recommended defaults:
 - 🕔 Autosave every: **5 minutes**
@@ -167,10 +170,13 @@ To: "25A5A6EA_0_4D617961"
 - ♻️ Rotate autosaves after: **5 copies**
 - 📦 Rotate manual saves after: **5 copies**
 - 🎮 Controls:
+  
   - Remap vanilla **quicksave/quickload** to unused keys
   - Set **SSSO3 Manual Save** to `F5`
   - Set **SSSO3 Manual Load** to `F9`
+    
 - 🛡️ In the **Save Shield** section, check the boxes for:
+  
   - ✅ Combat State
   - ✅ Riding
   - ✅ High Speed
