@@ -127,42 +127,80 @@ Let the path of Order guide you.
 
 ---
 
-SSSO3 is a powerful utility mod that overhauls the vanilla autosave, save, and load systems with much more reliable tools, but it does require a bit of configuration to set up. To enable it for your character, follow the steps below:
+**SSSO3** is a powerful utility mod that replaces the vanilla autosave, save, and load system with more stable and customizable tools. However, it does require a small amount of manual configuration per character.
 
-**Leave the mod disabled at first.** Do not enable SSSO3 until after you’ve created your character and completed any tutorial content.
+---
 
-**Make a careful note of your character’s exact name.** You’ll need this later when naming your config file.
+### 🔒 Before You Begin
 
-**Enter the main game world**, such as outside the Helgen cave if using a traditional start. Create a manual save and then **exit the game completely**.
+- **Do not enable the mod yet.**
+  - Keep SSSO3 disabled while creating your character and completing any tutorial or intro content.
+- **Note your character’s exact name.**
+  - You’ll need this later to name your config file correctly.
 
-**Find your save file.** It will be located in a folder like:
+---
+
+### 🎮 Save Your Game & Exit
+
+- Once you've finished the intro and entered the main game world (e.g., just outside the Helgen cave or your chosen start):
+  - Create a **manual save**.
+  - **Exit the game completely.**
+
+---
+
+### 📂 Locate Your Save File
+
+- Navigate to your save directory, typically located at:
 
 `D:\modlists\JOJ3.0\profiles\Journals of Jyggalag - CHOSEN PROFILE\saves`
 
-**Identify the correct save name.** Example:  
+**Identify the correct `.ess` file. Example:**
+ 
 `Save39_25A5A6EA_0_4D617961_Tamriel_000701_20250527021932_10_1.ess`
 
-**Copy the “character key”** portion of that file name. This is the section after the first underscore and before the worldspace name. In the above example, the key is: 
 
-`25A5A6EA_0_4D617961`  
+- **Extract the Character Key** from this filename:
+- This is the portion after the first underscore and before the worldspace name.
+- In the example above, the character key is:
+  ```
+  25A5A6EA_0_4D617961
+  ```
+> ⚠️ Your character key will be different — do not copy the example.
 
-Your character key will be different — do not copy this one.
+---
 
-In MO2, **enable the SSSO3 mod**, then **right-click it** and select **“Open in Explorer.”**
+### 🧾 Set Up the Configuration File
 
-Open the `SSSOConf` folder and find the file `playerid.txt`.
+1. In **MO2**, enable the SSSO3 mod.
+2. Right-click the mod and choose **“Open in Explorer.”**
+3. Open the `SSSOConf` folder.
+4. Find and open the file: `playerid.txt`
+5. Replace the contents of the file:
 
-Open `playerid.txt` and replace the text:  
+ - From:
+   ```
+   notset
+   ```
+ - To:
+   ```
+   YOUR_CHARACTER_KEY_HERE
+   ```
+   
+6. Use **File > Save As** and name the file with your character’s **exact name**:
 
-From: "notset"
-To: "25A5A6EA_0_4D617961"
+ - `John Skyrim.txt`
 
+---
 
-Use **File > Save As** and name the file with your character’s full and exact name, for example:  
+### ✅ Final Steps
 
-`John Skyrim.txt`
+- Relaunch the game.
+- Load your save.
+- Open the **SSSO3 MCM menu** and configure your desired settings.
 
-Restart the game, load your character, and open the SSSO3 MCM to configure your settings.
+You're done! The new save system is now active and tailored to your character.
+
+---
 
 ⚙️ Recommended defaults:
 - 🕔 Autosave every: **5 minutes**
