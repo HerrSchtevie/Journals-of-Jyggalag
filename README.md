@@ -33,18 +33,18 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
 ## 📋 Features
 
 - **Four Unique Profiles Included:**  
-  JOJ v3.0 offers four distinct profiles tailored to your preferred experience:  
+  JOJ v3.1.0 offers four distinct profiles tailored to your preferred experience:  
   - **Lord's Vision** – Full graphics and NSFW content  
   - **Performance** – Same content as Lord’s Vision with optimized graphics for lower-end PCs  
-  - **Reserved Vision** – High graphics with more immersive followers, armors, and clothing (immersion focused)  
+  - **Reserved Vision** – Full graphics with more immersive followers, armors, and clothing (immersion focused)  
   - **Reserved Performance** – Combines immersive content with performance-friendly settings
 
 - **Quest Mods:**  
-  JOJ v3.0 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
+  JOJ v3.1.0 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
   Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat:**  
-  Features custom stances inspired by WoLong, For Honor, and Elden Ring movesets, full BFCO integration, and a suite of enemy balance and difficulty tweaks. The combat system supports a challenging but fair experience where any playstyle is viable—battlemage, stealth archer, heavy melee, dual wield, and more. 
+  Features Elden Ring movesets, full BFCO integration, and a suite of enemy balance and difficulty tweaks. The combat system supports a challenging but fair experience where any playstyle is viable—battlemage, stealth archer, heavy melee, dual wield, and more. 
 
 - **City and World Overhauls:**  
   Fully integrated combinations of JK’s Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
@@ -56,7 +56,7 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
   JOJ integrates OStim Standalone, OBody, HIMBO, and 3BA with immersive balance. All adult content is carefully implemented — no defeat mods, no excessive scripts, and no forced interactions.
 
 - **Comprehensive NPC Overhauls:**  
-  Nearly every NPC in Skyrim has been visually enhanced using a curated blend of ColdSun’s Visions, Pandorables NPCs, Sons of Nirn, and other top-quality overhaul mods — all seamlessly integrated through a custom EasyNPC merge for maximum compatibility and consistency.
+  Nearly every NPC in Skyrim has been visually enhanced through a custom EasyNPC merge for maximum compatibility and consistency.
 
 
 
@@ -221,7 +221,7 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 |-----------------------------|-----------------------------------------------------------------------------|
 | **Lord’s Vision**           | Full graphical fidelity + full NSFW content                                 |
 | **Performance**             | Same content as Lord’s Vision, with reduced graphical settings              |
-| **Reserved Vision**         | High graphics + immersive/SFW clothing, followers, and armor                |
+| **Reserved Vision**         | Full graphics + immersive/SFW clothing, followers, and armor                |
 | **Reserved Performance**    | Same as Reserved Vision but optimized for lower-end PCs                     |
 
 > ⚠️ **IMPORTANT:** Once you choose a profile, **stick with it**.  
@@ -266,7 +266,6 @@ Controller support is fully integrated into JOJ — but all related mods are **d
 1. Scroll to the **`Controller Support`** separator in MO2 (highlighted in blue).
 2. **Enable all of the following mods**:
    - `Gamepad++`
-   - `JOJ - Custom Stances - Controller`
    - `Wheeler - Quick Action Wheel Of Skyrim`
    - `Wheeler CTD-Fix`
    - `Dragonborn - Wheeler Reskin`
@@ -324,6 +323,11 @@ For more information on controller support, NPC management, and running essentia
 - ⚠️ [Rule 11 Modding Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Rule%2011%20Guide.md)  
   A detailed breakdown of how to add your own mods. This falls under **Rule 11** — support is not guaranteed and you’re on your own.
 
+- 🧭 [JOJ Gameplay Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Gameplay%20Guide.md)  
+  Tips, tricks, and detailed info on systems, progression, and mechanics unique to the modlist.
+
+- 🧙‍♂️ [JOJ Follower Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Follower%20Guide.md)  
+  A full breakdown of included followers, their locations, compatibility notes, and roleplay relevance.
 
 ---
 
