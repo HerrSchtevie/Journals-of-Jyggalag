@@ -39,14 +39,25 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 
 ## 📸 Step 0: Install Mugshots for EasyNPC
 
-1. Before opening **EasyNPC**, go to my Nexus page:  
-   [Journals of Jyggalag](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files) and download the file **"JOJ - NPC Mugshots"**  
-2. Unzip this file and place the **`Mugshots`** folder (the entire folder) into: `Journals of Jyggalag > tools > EasyNPC`  
-3. This download also includes files called **`JOJ - NPC Merge Profile (Lord's Vision).txt` and `JOJ - NPC Merge Profile (Reserved Vision).txt`**.  
-   You will use this in **Step 4** below, and it can remain in the same `EasyNPC` folder along with the Mugshots  
-4. This will allow you to see the faces of the NPCs you are trying to select, making the selection process much easier  
-5. Note: This pack only includes mugshots for NPC overhauls already included in Journals of Jyggalag. If you're adding your own NPC overhauls, you'll need to find mugshots for those separately.  
-   You can find a community-made mugshot collection here: [Natural Lighting Mugshots (for EasyNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/97595)  
+### 📸 Step 0: (Optional) Add Mugshots for EasyNPC
+
+EasyNPC works perfectly without mugshots — but having them makes it much easier to visually select NPC appearances during customization. If you’d like to add mugshots, follow these steps:
+
+1. Download community-made mugshot packs from the following Nexus pages:
+   - [SirLach's EasyNPC Mugshot Packs](https://www.nexusmods.com/skyrimspecialedition/mods/74398?tab=description)  
+     *Includes mugshots for many major NPC overhauls used in JOJ.*
+   - [Natural Lighting Mugshots (for EasyNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/97595)  
+     *Well-lit mugshots with a clean background for a variety of NPCs.*
+
+2. Create the following folder structure inside your modlist tools directory:
+
+`Journals of Jyggalag > tools > EasyNPC > Mugshots`
+
+3. Extract all mugshot folders into the `Mugshots` folder. Make sure each folder name matches the mod/plugin name used in your load order.
+
+> ⚠️ **Note:** Mugshots are not required for EasyNPC to function. They simply make it easier to preview NPC faces while customizing.
+
+> 🎯 If you're adding your own NPC overhauls not included in JOJ, you'll need to find or generate mugshots for those separately.
 
 ---
 
@@ -95,9 +106,8 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
    - `_ResourcePack.esl`, `Unofficial Skyrim Special Edition Patch.esp`, and `Unofficial Skyrim Creation Club Content Patch.esl` (Plugins 87–88)  
    - `3DNPC.esp`, `Wyrmstooth.esm`, `AI Overhaul.esm`, `Immersive Wenches.esp`, `ICNs_ImmersiveCollegeNPCs.esp`, and `CS_Visions.esm`
    - Any additional **NPC overhaul mods** that you intend to merge (they will be at the very bottom). 
-   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually. If you're using the provided `JOJ - NPC Merge Profile (Lord's Vision or Reserved Vision).txt`, this has already been set up correctly—but it's still a good idea to double check. It should only be enabled to ensure compatibility with Sons of Nirn during the merge process.  
+   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually.
  
-
 ![easynpc3](https://github.com/user-attachments/assets/93e3ed5c-8104-4232-bec5-fd7315a16d21)
 ![easynpc4](https://github.com/user-attachments/assets/ba5eacbf-7f7f-47e1-8331-34726f336a12)
 ![easynpc3](https://github.com/user-attachments/assets/c2459a4a-5758-420f-b331-19662ce79fd3)
@@ -126,15 +136,6 @@ While support may be available on our [Discord](https://discord.gg/8ZCa7w8BZQ), 
 🚫 Do **not** change the Default Source  
 
 > **IMPORTANT:** None of your NPCs should have `AI Overhaul.esm` selected as their **Default Source** (Blue Box).  
-> If you downloaded the `JOJ - NPC Mugshots` pack from [Step 0](#-step-0-install-mugshots-for-easynpc), this is already configured correctly in the included profiles:  
-> **`JOJ - NPC Merge Profile (Lord's Vision).txt` and `JOJ - NPC Merge Profile (Reserved Vision).txt`**
-
-To load the profile:  
-- Click the **folder icon** in the top-right of the **Profile** tab  
-- Navigate to Journals of Jyggalag > tools > EasyNPC > Mugshots > Select the **`JOJ - NPC Merge Profile (Lord's Vision).txt` or `JOJ - NPC Merge Profile (Reserved Vision).txt` depending on whcih profile you're building.**
-
-This will load up my pre-made profile, which mirrors the in-game build exactly.  
-You can either tweak my choices or search for specific NPCs by name using the **\"Name\"** search bar and apply changes to your personal overhauls.
 
 > Ignore “Plugin not loaded” warnings unless it’s for an NPC you’re actively editing. These are safe to skip if mugshots don’t load.
 
