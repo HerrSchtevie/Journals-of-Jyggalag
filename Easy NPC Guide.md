@@ -176,7 +176,7 @@ After the build completes, you'll get a success message:
 ### 📦 Post-Build Steps in MO2
 
 1. Close EasyNPC  
-2. Enable **`JOJ - NPC Merge Profile (Lord's Vision).txt` or `JOJ - NPC Merge Profile (Reserved Vision).txt`** depedning on your profile in MO2  
+2. Enable **`JOJ - NPC Merge Profile (Lord's Vision)` or `JOJ - NPC Merge Profile (Reserved Vision)`** depedning on your profile in MO2  
 3. Refresh your MO2 panels  
 
 You’ll now see **4 new plugins** appear at the bottom of your plugin list.
