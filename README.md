@@ -86,7 +86,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
-| **Disk Space**| ~245GB Download / ~462GB Installed / ~707GB Total        | ~245GB Download / ~462GB Installed / ~707GB Total   |
+| **Disk Space**| ~227GB Download / ~467GB Installed / ~694GB Total        | ~227GB Download / ~467GB Installed / ~694GB Total   |
 
 ---
 
@@ -101,7 +101,7 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | SATA SSD                                             | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
-| **Disk Space**| ~245GB Download / ~462GB Installed / ~707GB Total   | ~245GB Download / ~462GB Installed / ~707GB Total   |
+| **Disk Space**| ~227GB Download / ~467GB Installed / ~694GB Total   | ~227GB Download / ~467GB Installed / ~694GB Total   |
 
 ---
 
@@ -170,10 +170,10 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Journals of Jyggalag**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
-           📦 Requires approximately **245 GB of free space**.
+           📦 Requires approximately **227 GB of free space**.
 
      - An **Installation Location** – where the modlist will be fully installed and run from.  
-           💾 Requires approximately **462 GB of free space**.  
+           💾 Requires approximately **467 GB of free space**.  
            ⚠️ **This must be on an SSD** for performance and stability.
 
 5. **Start Installation**
@@ -237,13 +237,13 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 
 ### 3. **Configure JOJ to you preferences**
 
-Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag v3.0 is built to adapt — but it expects you to pick your setup and stick with it.
+Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag v3.1.0 is built to adapt — but it expects you to pick your setup and stick with it.
 
 ---
 
 ### 🖥️ Widescreen & Resolution Support
 
-Journals of Jyggalag v3.0 includes full widescreen support with UI presets for all major aspect ratios. These options are found near the **bottom of MO2** under the **`Resolution Presets`** separator (highlighted in blue).
+Journals of Jyggalag v3.1.0 includes full widescreen support with UI presets for all major aspect ratios. These options are found near the **bottom of MO2** under the **`Resolution Presets`** separator (highlighted in blue).
 
 - **✅ Always enabled:**
   - `JOJ - Core UI`
@@ -272,7 +272,7 @@ Controller support is fully integrated into JOJ — but all related mods are **d
    - `Dragonborn - Wheeler Reskin Edge UI Colors`
    - `Complete Controller Setup`
   
-  ![image](https://github.com/user-attachments/assets/8f058580-3922-4d30-8c0f-1fa9ad8cfaa6)
+  ![image](https://github.com/user-attachments/assets/153398df-a8dc-4298-94c1-f47bcd1de232)
 
 3. In the **right-side plugin pane**, locate the following plugins and drag them into the correct plugin groups:
    - `Gamepad++` → move to the **User Interface** group
@@ -303,7 +303,7 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 - 🗣️ **Language:** Your Skyrim installation **must be set to English**  
   → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
-- 💾 **Storage:** The full installation requires approximately **707 GB of space**
+- 💾 **Storage:** The full installation requires approximately **694 GB of space**
 
 ---
 
