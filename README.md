@@ -86,7 +86,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
-| **Disk Space**| ~227GB Download / ~467GB Installed / ~694GB Total        | ~227GB Download / ~467GB Installed / ~694GB Total   |
+| **Disk Space**| ~235GB Download / ~465GB Installed / ~700GB Total        | ~235GB Download / ~465GB Installed / ~700GB Total    |
 
 ---
 
@@ -101,7 +101,7 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | SATA SSD                                             | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
-| **Disk Space**| ~227GB Download / ~467GB Installed / ~694GB Total   | ~227GB Download / ~467GB Installed / ~694GB Total   |
+| **Disk Space**| ~235GB Download / ~465GB Installed / ~700GB Total   | ~235GB Download / ~465GB Installed / ~700GB Total   |
 
 ---
 
@@ -303,7 +303,7 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 - 🗣️ **Language:** Your Skyrim installation **must be set to English**  
   → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
-- 💾 **Storage:** The full installation requires approximately **694 GB of space**
+- 💾 **Storage:** The full installation requires approximately **700 GB of space**
 
 ---
 
