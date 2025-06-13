@@ -90,7 +90,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 
 ---
 
-🎮 **System Requirements for Journals of Jyggalag - 🛡️ Reserved Vision / Reserved Performance Profiles** 🎮
+🎮 **System Requirements for Journals of Jyggalag - 🛡️ Performance / Reserved Performance Profiles** 🎮
 
 Optimized for Lower-End Hardware | Reduced Visual Load
 
