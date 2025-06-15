@@ -116,7 +116,7 @@ The downloads can be removed after successful installation. NOT RECOMMENDED. But
 Before continuing, make sure these system components are installed — they are required for Wabbajack and Skyrim to function correctly:
 
 - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-- [.NET SDK](https://dotnet.microsoft.com/download)
+- [.NET SDK](https://dotnet.microsoft.com/download) - both .NET 8 and .NET 9 are required
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
 If you're unsure whether these are already installed, it's safe to install them again — they will update or repair as needed.
