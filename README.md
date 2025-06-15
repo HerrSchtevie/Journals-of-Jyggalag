@@ -4,12 +4,11 @@
 
 ---
 
-### 📎 Links
+### 📎 Community
 
-| [Join our Discord](https://discord.gg/scrollsofschtevie) | [View on Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=description) | [Support on Ko-fi](https://ko-fi.com/herrschtevie) | [Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2) |
-|:--:|:--:|:--:|:--:|
-| Join the Community | View the Modlist | Buy Me a Coffee | View Full Load Order |
-
+| [Join our Discord](https://discord.gg/scrollsofschtevie) | [View on Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=description) | [Support on Ko-fi](https://ko-fi.com/herrschtevie) | [Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2) | [Watch on Twitch](https://www.twitch.tv/herrschtevie) |
+|:--:|:--:|:--:|:--:|:--:|
+| Join the Community | View the Modlist | Buy Me a Coffee | View Full Load Order | Watch Live on Twitch |
 
 ---
 
