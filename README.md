@@ -237,7 +237,7 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 
 ### 3. **Configure JOJ to you preferences**
 
-Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag v3.1.0 is built to adapt — but it expects you to pick your setup and stick with it.
+Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag is built to adapt — but it expects you to pick your setup and stick with it.
 
 ---
 
