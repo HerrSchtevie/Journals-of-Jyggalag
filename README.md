@@ -4,8 +4,7 @@
 
 ---
 
-[![Scrolls of Schtevie Discord](![discord-portable-network-graphics-computer-icons-logo-desktop-wallpaper-social-media--4870489818267648](https://github.com/user-attachments/assets/6eff0b84-4638-4e13-aa1a-603f72c19010)
-)](https://discord.gg/scrollsofschtevie)
+[![Scrolls of Schtevie Discord](https://github.com/user-attachments/assets/c9215155-68a1-44d8-bf8d-c1535cf58a4f)](https://discord.gg/scrollsofschtevie)
 
 ---
 
