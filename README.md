@@ -4,7 +4,7 @@
 
 ---
 
-[![Scrolls of Schtevie Discord](https://github.com/user-attachments/assets/c9215155-68a1-44d8-bf8d-c1535cf58a4f)](https://discord.gg/scrollsofschtevie)
+[![Scrolls of Schtevie Discord](https://discord.gg/scrollsofschtevie)
 
 ---
 
