@@ -4,10 +4,6 @@
 
 ---
 
-[![Scrolls of Schtevie Discord](https://discord.gg/scrollsofschtevie)
-
----
-
 ## 📖 Table of Contents
 - [⚠️ Disclaimer](#️-disclaimer)
 - [📌 Introduction](#-introduction)
