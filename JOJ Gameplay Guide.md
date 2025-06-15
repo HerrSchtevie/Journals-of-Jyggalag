@@ -19,18 +19,15 @@ Let the path of Order guide you.
 1. 🧙 [Character Creation and Progression](#-character-creation-and-progression)
 2. 💾 [Skyrim Save System Overhaul 3](#-skyrim-save-system-overhaul-3)
 3. 🧭 [Questing](#-questing)
-4. 🗡️ [3rd Person Combat Stances](#-3rd-person-combat-stances)
-5. 🧍 [Stance Options](#-stance-options)
-6. 🪓 [Dynamic Grip](#-dynamic-grip)
-7. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
-8. 🗺️ [Map Marker Issues](#-map-marker-issues)
-9. 🧾 [NPC Names](#-npc-names)
-10. 🐻 [Skinning Mechanics](#-skinning-mechanics)
-11. 🏃 [Change Dodge Key](#-change-dodge-key)
-12. 🏠 [Player Homes](#-player-homes)
-13. 🚫 [Fast Travel Disabled](#-fast-travel-disabled)
-14. 💀 [Death Alternatives](#-death-alternatives)
-15. ✅ [Conclusion](#-conclusion)
+4. 🧑‍🎨 [Face & Appearance Issues](#-face--appearance-issues)
+5. 🗺️ [Map Marker Issues](#-map-marker-issues)
+6. 🧾 [NPC Names](#-npc-names)
+7. 🐻 [Skinning Mechanics](#-skinning-mechanics)
+8. 🏃 [Change Dodge Key](#-change-dodge-key)
+9. 🏠 [Player Homes](#-player-homes)
+10. 🚫 [Fast Travel Disabled](#-fast-travel-disabled)
+11. 💀 [Death Alternatives](#-death-alternatives)
+12. ✅ [Conclusion](#-conclusion)
 
 
 ## 🧙 Character Creation and Progression
@@ -254,134 +251,6 @@ The **Vicn series of quests** require more specific preparation and progression.
   - **Unslaad**
 
 These quests are large, story-rich expansions with unique environments and mechanics. Approach them when you are ready for long-form, high-difficulty content.
-
----
-
-## 🗡️ 3rd Person Combat Stances
-
-### Overview
-
-Journals of Jyggalag introduces a **stance system** for third-person combat. These stances change:
-- Your character’s **animations**
-- The **effectiveness, rhythm, and style** of your combat abilities
-
-Whether you're wielding swords, great hammers, bows, or spells, stances allow you to tailor your combat experience and adapt to different threats.
-
-### How to Use
-- **Assigned Hotkey**: `X`
-- You can switch stances:
-  - **Anytime**, even during combat
-  - To match enemy types or your playstyle
-
-Stances are **not tied to specific classes**, but offer tools to customize your approach.
-
----
-
-## 🧍 Stance Options
-
-### Bear Stance
-A heavy-hitting stance focused on overwhelming force.
-
-**Effects:**
-- Melee attacks and Destruction spells deal **+25% damage**
-- You take **+15% melee damage**
-- Works well with:
-  - Large weapons
-  - Ranged Destruction casting
-  - Risk-reward melee builds
-
----
-
-### Wolf Stance
-A stamina-based stance that emphasizes pressure and bleeding effects.
-
-**Requirements:**
-- Bonuses apply **only if stamina is above 35%**
-
-**Effects with sharp weapons (swords, daggers, bows, greatswords, axes, greataxes):**
-- **–15% damage** to non-undead targets
-- Inflict **Bleed**: 2 damage per second for 5 seconds
-
-**Notes:**
-- No bonuses for mages
-- Has **no effect** on maces or greathammers
-
----
-
-### Hawk Stance
-A mobility-focused stance built for speed and hybrid playstyles.
-
-**Effects:**
-- Stamina and magicka regenerate **+70% faster**
-- Power attacks cost **+20% more stamina**
-- Ideal for:
-  - Fast weapons
-  - Mobile builds
-  - Hybrid casters or evasive characters
-
----
-
-## 🪓 Dynamic Grip
-
-### Overview
-
-Journals of Jyggalag includes the **Dynamic Grip** mod, allowing you to switch between **one-handed** and **two-handed grips** on the fly—even mid-combat.
-
-For example:
-- Equip a greatsword in one hand to cast spells
-- Switch back to two-handed mode for full damage output
-
-This gives you more flexibility and synergy between weapon types and magic.
-
----
-
-### How to Change Grip
-
-- **Default Hotkey**: `G`
-  - You can customize this in `DynamicGrip.ini`
-
----
-
-### Gameplay Effects
-
-#### Two-Handed Grip (while using a one-handed weapon):
-- **+30% damage bonus**
-- **Increased attack speed**
-
-#### One-Handed Grip (while using a two-handed weapon):
-- **–30% damage penalty**
-- **Reduced attack speed**
-
----
-
-### Perk Behavior
-
-- **Perks apply based on weapon type, not grip mode**:
-  - One-handed perks affect only **naturally one-handed weapons**
-  - Two-handed perks affect only **naturally two-handed weapons**
-- Gripping a two-handed sword with one hand does **not** make it eligible for one-handed perks
-
----
-
-### Customizing the Hotkey
-
-To change the grip hotkey:
-1. Navigate to the `SKSE/Plugins` folder in your MO2 Data tab
-2. Open the `DynamicGrip.ini` file
-3. Replace the default hotkey with your preferred **scancode**
-
-Useful reference: [Input Script Scancode List](https://ck.uesp.net/wiki/Input_Script)
-
----
-
-### Known Issues
-
-- **Not all weapons** will react reliably to grip changes.
-  - If issues occur, **unequip and re-equip** the weapon
-- **Incompatible mod: Wheeler**
-  - Shares the same default keybind
-  - Listed as incompatible on its mod page
-  - **Recommendation**: Disable Wheeler if using Dynamic Grip
 
 ---
 
