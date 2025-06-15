@@ -33,14 +33,14 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
 ## 📋 Features
 
 - **Four Unique Profiles Included:**  
-  JOJ v3.1.0 offers four distinct profiles tailored to your preferred experience:  
+  JOJ v3.2.1 offers four distinct profiles tailored to your preferred experience:  
   - **Lord's Vision** – Full graphics and NSFW content  
   - **Performance** – Same content as Lord’s Vision with optimized graphics for lower-end PCs  
   - **Reserved Vision** – Full graphics with more immersive followers, armors, and clothing (immersion focused)  
   - **Reserved Performance** – Combines immersive content with performance-friendly settings
 
 - **Quest Mods:**  
-  JOJ v3.1.0 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
+  JOJ v3.2.1 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
   Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat:**  
@@ -86,7 +86,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
-| **Disk Space**| ~235GB Download / ~465GB Installed / ~700GB Total        | ~235GB Download / ~465GB Installed / ~700GB Total    |
+| **Disk Space**| ~237GB Download / ~451GB Installed / ~688GB Total       | ~237GB Download / ~451GB Installed / ~688GB Total   |
 
 ---
 
@@ -101,7 +101,7 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | SATA SSD                                             | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
-| **Disk Space**| ~235GB Download / ~465GB Installed / ~700GB Total   | ~235GB Download / ~465GB Installed / ~700GB Total   |
+| **Disk Space**| ~237GB Download / ~451GB Installed / ~688GB Total   | ~237GB Download / ~451GB Installed / ~688GB Total   |
 
 ---
 
@@ -170,10 +170,10 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Journals of Jyggalag**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
-           📦 Requires approximately **227 GB of free space**.
+           📦 Requires approximately **237 GB of free space**.
 
      - An **Installation Location** – where the modlist will be fully installed and run from.  
-           💾 Requires approximately **467 GB of free space**.  
+           💾 Requires approximately **451 GB of free space**.  
            ⚠️ **This must be on an SSD** for performance and stability.
 
 5. **Start Installation**
@@ -303,7 +303,7 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 - 🗣️ **Language:** Your Skyrim installation **must be set to English**  
   → [How to change Skyrim’s language](https://help.bethesda.net/app/answers/detail/a_id/651/~/how-do-i-change-the-language-in-skyrim%3F)
-- 💾 **Storage:** The full installation requires approximately **700 GB of space**
+- 💾 **Storage:** The full installation requires approximately **688 GB of space**
 
 ---
 
