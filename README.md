@@ -33,14 +33,14 @@ Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, 
 ## 📋 Features
 
 - **Four Unique Profiles Included:**  
-  JOJ v3.2.1 offers four distinct profiles tailored to your preferred experience:  
+  JOJ offers four distinct profiles tailored to your preferred experience:  
   - **Lord's Vision** – Full graphics and NSFW content  
   - **Performance** – Same content as Lord’s Vision with optimized graphics for lower-end PCs  
   - **Reserved Vision** – Full graphics with more immersive followers, armors, and clothing (immersion focused)  
   - **Reserved Performance** – Combines immersive content with performance-friendly settings
 
 - **Quest Mods:**  
-  JOJ v3.2.1 includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
+  JOJ includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
   Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat:**  
@@ -243,7 +243,7 @@ Before diving into your playthrough, take a moment to configure the list to matc
 
 ### 🖥️ Widescreen & Resolution Support
 
-Journals of Jyggalag v3.1.0 includes full widescreen support with UI presets for all major aspect ratios. These options are found near the **bottom of MO2** under the **`Resolution Presets`** separator (highlighted in blue).
+Journals of Jyggalag includes full widescreen support with UI presets for all major aspect ratios. These options are found near the **bottom of MO2** under the **`Resolution Presets`** separator (highlighted in blue).
 
 - **✅ Always enabled:**
   - `JOJ - Core UI`
