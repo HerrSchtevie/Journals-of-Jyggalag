@@ -190,6 +190,8 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 > 📺 Optional: [Watch Biggie’s Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
 
+---
+
 6. While Wabbajack is running, this is a great time to join the [Discord server](https://discord.gg/8ZCa7w8BZQ) and ask any questions you might have. 
 
 Or review the mod pages for [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) and start planning your character build.
