@@ -202,7 +202,7 @@ Each NPC has **two selectors**:
 > ⚠️ **Important:**  
 > **Every NPC in your list must use either `USSEP` or `Skyrim.esm` as their Default Source.**
 
-![image](https://github.com/user-attachments/assets/6f947a16-c088-4b0d-a077-8c637a1a50fe)
+![image](https://github.com/user-attachments/assets/1b82e21f-bc89-42cd-b771-984270bfbe27)
 
 > 💬 **"Plugin not loaded"** warnings can be ignored unless you are actively editing that NPC.  
 > These typically appear when mugshots don’t load, but they will not break your merge.
