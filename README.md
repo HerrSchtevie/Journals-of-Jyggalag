@@ -161,9 +161,9 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Reinstall **Skyrim Anniversary Edition** via Steam.
    - **Launch Skyrim AE once through Steam** to allow all Creation Club content to download.  
      Do **not** change any settings or start a game — just reach the main menu, download the Creation Kit content via the popup, then close it.
-   - - Install the **Skyrim Special Edition Creation Kit** from the *Tools* section in your Steam Library.  
-        ✅ Make sure it’s installed on the **same drive** as Skyrim AE.  
-        ⚠️ **Do not install the regular Skyrim Creation Kit** — it is not compatible and will not work with this modlist.
+   - Install the **Skyrim Special Edition Creation Kit** from the *Tools* section in your Steam Library.  
+     ✅ Make sure it’s installed on the **same drive** as Skyrim AE.  
+     ⚠️ **Do not install the regular Skyrim Creation Kit** — it is not compatible and will not work with this modlist.
    - **Launch the Creation Kit once** to initialize its content, allow it to complete downloading, then close it.  
 
 3. **Launch Wabbajack**
@@ -178,28 +178,26 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Journals of Jyggalag**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
-           📦 Requires approximately **237 GB of free space**.
-
+       📦 Requires approximately **237 GB of free space**.
      - An **Installation Location** – where the modlist will be fully installed and run from.  
-           💾 Requires approximately **451 GB of free space**.  
-           ⚠️ **This must be on an SSD** for performance and stability.
+       💾 Requires approximately **451 GB of free space**.  
+       ⚠️ **This must be on an SSD** for performance and stability.
 
-5. **Manually Download the LoversLab Mod**
+5. **Manually Download the LoversLab Mod**  
+   One required mod **must be downloaded manually** from LoversLab:
 
-One required mod **must be downloaded manually** from LoversLab:
+   - **Mod Page:**  
+     [Assorted Futanari Texture Patches - BnP TRX](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/)
 
-  - **Mod Page:**  
-      [Assorted Futanari Texture Patches - BnP TRX](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/)
+   - **Direct Download (if logged in):**  
+     [Click here to download](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003334&confirm=1&t=1&csrfKey=3dfd07c673775819fc8095aeec12e2ad)
 
-  - **Direct Download (if logged in):**  
-      [Click here to download](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003334&confirm=1&t=1&csrfKey=3dfd07c673775819fc8095aeec12e2ad)
+   > ⚠️ You **must be logged into LoversLab** to access the direct download link.
 
-> ⚠️ You **must be logged into LoversLab** to access the direct download link.
+   Once downloaded, **place the file into your `Journals of Jyggalag\downloads` folder**.
 
-Once downloaded, **place the file into your `Journals of Jyggalag\downloads` folder**.
-
-> ❌ **If you skip this step**, Wabbajack will **fail during installation** and display an error telling you to manually download this mod.  
-> ✅ Downloading and placing it correctly will allow the install to continue without errors.       
+   > ❌ **If you skip this step**, Wabbajack will **fail during installation** and display an error telling you to manually download this mod.  
+   > ✅ Downloading and placing it correctly will allow the install to continue without errors.
 
 6. **Start Installation**
    - Click **Start** to begin the automated installation.
