@@ -152,13 +152,13 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
    - For `Performance` (no ENB):  
      ❌ **Leave this box unchecked**.
 4. In the **Output** field, choose a destination folder.  
-   > 📁 It’s recommended to create a folder like `Journals of Jyggalag - Outputs` on the same drive as your installation to keep things organized.
+   > 📁 It’s recommended to create a folder like `Journals of Jyggalag - Outputs\ParallaxGen Output` on the same drive as your installation to keep things organized.
 5. ⚠️ **Do not check** the box for **"Zip Output"**.  
    While it won’t break anything, it will make it more difficult to manually copy the generated files later.
 6. Click **Start Patching**.
 7. Let the process run until **complete**.
 
-![image](https://github.com/user-attachments/assets/803686b7-3c67-484e-a905-aefd99a37285)
+![image](https://github.com/user-attachments/assets/4965611a-1279-45eb-b28d-2b7ff19295a2)
 
 
 > 💬 **Note:** You may see warnings — that’s perfectly fine. As long as ParallaxGen finishes without a critical error, you're good to go.
