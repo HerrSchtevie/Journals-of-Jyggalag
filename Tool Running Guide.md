@@ -232,6 +232,8 @@ In **Mod Organizer 2**, scroll to the `Outputs` separator and **enable**:
 
 - `xLODGen Resource - SSE Terrain Tamriel`
 
+![image](https://github.com/user-attachments/assets/9a524bcc-1577-419a-9478-d5863ee4d9c5)
+
 This is required for proper terrain LOD generation.
 
 ---
