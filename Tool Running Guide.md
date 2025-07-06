@@ -500,19 +500,39 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ---
 
-> ⚠️ **Before launching DynDOLOD, you must disable two specific plugins.**  
+> ⚠️ **Before launching DynDOLOD, you must disable these specific plugins.**  
 > These will cause generation failures if left enabled.
 
-**Disable the following plugins in MO2:**
-- From the **Embers XD** plugin group:  
-  `JKs Castle Volkihar - Embers XD patch.esp`
+---
 
-![image](https://github.com/user-attachments/assets/8d7262b8-50ae-47ae-abe9-2d1bce8cb626)
+### 🔌 **Disable the following plugins in MO2:**
 
-- From the **World Map** plugin group:  
-  `OCW_AMM-SE_FEPatch.esp`
+#### 📂 From the `Embers XD` plugin group:
+- `JKs Castle Volkihar - Embers XD patch.esp`
 
-![image](https://github.com/user-attachments/assets/4c7d7344-6266-469a-8691-3e28a334d39f)
+![image](https://github.com/user-attachments/assets/ad838833-9696-408e-9d19-564d6b369002)
+
+#### 🗺️ From the `World Map` plugin group:
+- `OCW_AMM-SE_FEPatch.esp`
+
+![image](https://github.com/user-attachments/assets/eb31b258-dd57-486d-89b4-37f7678f4805)
+
+#### 🧩 From the `JOJ Custom Patches` plugin group:
+- `JOJ - Cell Patch - Lair of Succubi.esp`
+- `JOJ - City Patch - Markarth.esp`
+- `JOJ - OCW Atlas Map Markers Fix.esp`
+
+![image](https://github.com/user-attachments/assets/e41a85ec-aae8-4d4a-bead-e1920e1f30c1)
+
+#### 🔄 From the `Alternate Perspective` plugin group:
+- `JOJ - Alternate Perspective.esp`
+- `JOJ - Journal of Followers.esp`
+
+![image](https://github.com/user-attachments/assets/88dbf116-4262-4363-969f-b6a31e3f29ad)
+
+
+✅ Once all these plugins are disabled, you're ready to launch **DynDOLOD**.
+
 
 ---
 
@@ -520,20 +540,13 @@ Once the plugins are disabled:
 
 1. Launch **DynDOLOD** from the MO2 dropdown menu  
 2. Allow it to fully load
-    > 🛑 **Pop-Up Warnings Notice:**  
-    > You’ll likely receive **two warning popups** like the one below. These are safe to ignore.  
-    >  
-    > ![image](https://github.com/user-attachments/assets/32aafa5a-68f2-489d-88b4-0e4db0e4a584)
-    >  
-    > These errors are caused by conflicting record types (e.g., a `BOOK` being overwritten by a `CELL`), which are irrelevant to LOD generation.  
-    > Just click **Ignore** and allow DynDOLOD to continue loading normally.  
 3. In the **top-left checkbox**, make sure **everything is checked**  
    (Right-click > **Select All**)  
-4. Set your **Output Path** to the `dyndolod outputs` folder if it isn’t already  
+4. Set your **Output Path** to the `DynDOLOD Output` folder if it isn’t already  
 5. In the **top-right corner**, select your quality preset based on your profile:
 
-    - **Lord’s Vision / Reserved Vision** → Click **High**  
-    - **Performance / Reserved Performance** → Click **Medium**
+    - **Lord’s Vision** → Click **High**  
+    - **Performance** → Click **Medium**
 
 7. Match your other settings to the example provided below
 
