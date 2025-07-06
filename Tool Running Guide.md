@@ -113,6 +113,38 @@ Return to **MO2** and re-enable the **three Synthesis plugins** under the `Outpu
 
 ---
 
+## 🔧 Step 1.5: Optional VRAMr Output (Recommended for Performance Users)
+
+This step is **optional** and intended for users running the **Performance** profile who want to optimize texture memory usage.
+
+If you choose to generate a **VRAMr Output**, refer to the official resources below:
+
+- 📘 [VRAMr Nexus Page (Mod + Tutorials)](https://www.nexusmods.com/skyrimspecialedition/mods/90557)
+- 📜 Guurzak's detailed **VRAMr guide for JOJ** on the **Scrolls of Schtevie Discord**  
+  - 🧠 [Join Discord](https://discord.gg/scrollsofschtevie)  
+  - 📎 [Direct Guide Link](https://discord.com/channels/1355637388281385071/1380587127854862578)
+
+---
+
+### ⚠️ Tool Order and Activation Notes
+
+- **Run VRAMr** **before** running **ParallaxGen**
+- The **VRAMr Output** mod must be **enabled** while running:
+  - ✅ ParallaxGen
+  - ✅ xLODGen
+
+- The **VRAMr Output** mod must be **disabled** before running:
+  - ❌ TexGen
+  - ❌ DynDOLOD
+
+- After all tools are finished, you may **re-enable the VRAMr Output** for normal gameplay.
+
+---
+
+✅ If you're not generating a custom VRAMr output, skip this step and move on to **ParallaxGen**.
+
+---
+
 ## 🏔️ Step 2: Run ParallaxGen
 
 > ⚠️ Before you run ParallaxGen, follow these steps carefully.
@@ -366,7 +398,7 @@ All required plugins and mod files are already included in JOJ, so earlier steps
 ## 🎨 Step 4: Run TexGen
 
 > ⚠️ **Important for Performance Users:**  
-> If you are using the **Performance** or **Reserved Performance** profiles, you must **disable** the `JOJ - VRAMr (Your Profile)` mod** before running TexGen.  
+> If you are using the **Performance** profile and have generated your own VRAMr Output, you must **disable** it** before running TexGen.  
 > Keep it disabled until **after DynDOLOD** has finished running (the next step).
 
 ![image](https://github.com/user-attachments/assets/f7809c0c-5746-4b54-81ec-45899dcf4d16)
