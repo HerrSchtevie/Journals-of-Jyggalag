@@ -66,11 +66,11 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 1. In **MO2**, scroll to the `Easy NPC` separator in the left panel.  
 2. **Enable each mod one at a time, in order**, from top to bottom. Enabling mods one-by-one ensures the plugin order in the right panel mirrors the order of mods in the left panel, which helps preserve a clean and consistent plugin load order during the merge process.
 
-![easynpc1](https://github.com/user-attachments/assets/4088ef1b-a394-41cd-932d-2312781d33b7)
+![image](https://github.com/user-attachments/assets/579a9d3d-eb7b-43f5-9e8b-7c73e0be60f9)
 
 3. In the right panel (Plugins), the plugins can just stay at the very bottom below `Outputs`:  
 
-![image](https://github.com/user-attachments/assets/e71da6fc-1df4-40c0-a768-c09f74fad2b2)
+![image](https://github.com/user-attachments/assets/cbe8da81-e268-4fad-a265-721a07963f18)
 
 ---
 
