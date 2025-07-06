@@ -222,7 +222,7 @@ YourDrive:\Journals of Jyggalag - Outputs
 
 This is already pre-configured in **MO2 > Modify Executables**, but you can change it if needed.  
 
-![image](https://github.com/user-attachments/assets/e27470ad-9180-4418-9d01-caea04884fa7)
+![image](https://github.com/user-attachments/assets/62575a96-91b2-4e74-9803-d61e5f5d8eb7)
 
 ---
 
@@ -290,7 +290,7 @@ Check all worldspaces in the right panel (right-click > **Select All**)
 
 After the LOD levels have been generated, your files will be located in:
 
-`Journals of Jyggalag - Outputs\XLODGen output\`
+`Journals of Jyggalag - Outputs\XLODGen Output\`
 
 
 1. Navigate to the following folder:
@@ -303,7 +303,7 @@ After the LOD levels have been generated, your files will be located in:
 3. Now open:
 
     ```
-    Journals of Jyggalag - Outputs\XLODGen outputs\
+    Journals of Jyggalag - Outputs\XLODGen Output\
     ```
 
 4. Locate the `meshes` and `textures` folders (these should be the only files present)  
