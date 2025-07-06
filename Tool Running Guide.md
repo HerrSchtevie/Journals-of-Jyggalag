@@ -442,7 +442,7 @@ Once all LOD tools are finished, you can safely re-enable them.
 2. Allow it to load completely
 3. Make sure your settings match the image below:
 
-![texgen](https://github.com/user-attachments/assets/58646424-6da3-4242-9a7a-d1d71e41fc93)
+![image](https://github.com/user-attachments/assets/4928201a-f07c-4f1e-98f7-3f84f1ad1219)
 
 4. Click **Start** to begin the process
 
@@ -462,7 +462,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
 ### 📁 Move the Output to MO2
 
 1. At the top of the TexGen window, you’ll see the output path  
-   *(`Journals of Jyggalag - Outputs\TexGen_Output`)*
+   *(`Journals of Jyggalag - Outputs\TexGen Output`)*
 
 2. Open that folder, and **copy the `textures` folder** from it
 
