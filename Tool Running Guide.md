@@ -297,7 +297,6 @@ After the LOD levels have been generated, your files will be located in:
 
     ```
     Journals of Jyggalag\mods\JOJ - xLODGen Output (Your Profile)
-    
     ```
 
 2. **Delete everything inside this folder** to ensure no remnant files remain  
@@ -305,7 +304,6 @@ After the LOD levels have been generated, your files will be located in:
 
     ```
     Journals of Jyggalag - Outputs\XLODGen outputs\
-    
     ```
 
 4. Locate the `meshes` and `textures` folders (these should be the only files present)  
