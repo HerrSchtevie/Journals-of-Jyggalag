@@ -319,6 +319,50 @@ After the LOD levels have been generated, your files will be located in:
 
 ---
 
+## 🌾 Step 4.5: Grass Cache (Optional / Advanced)
+
+This step is **optional** — JOJ includes pre-generated grass caches for both supported profiles.  
+You are free to use the existing `JOJ - Grass Cache (Your Profile)` mod **without doing anything further**.
+
+However, you **should regenerate your own grass cache** if:
+
+- You’ve added or removed large worldspace/landscape mods (e.g. major quest mods or new land mods)
+- You’ve made significant terrain edits or changes to grass settings in INI files
+
+---
+
+### 🧠 How to Regenerate Grass Cache in JOJ
+
+If you choose to regenerate grass cache, **you're on your own for this part**.  
+But here’s what you need to know:
+
+1. Inside MO2, locate the mod:
+
+    ```
+    JOJ - Grass Cache (Your Profile)
+    ```
+**Delete everything** inside this mod folder.  
+This is required before beginning step 2.3.1 of the guide below.
+
+2. **Read this guide** on Nexus by *infernalryan*:  
+   📘 [Grass LOD + Cache Guide](https://www.nexusmods.com/skyrimspecialedition/articles/6919)
+
+3. Skip directly to **Step 2.3.1** in the Nexus guide.  
+All required plugins and mod files are already included in JOJ, so earlier steps can be ignored.
+
+> 🔔 **Note:** Grass caching can be time-consuming and performance-intensive.  
+> If you're unsure, it's perfectly fine to use the included cache.
+
+---
+
+🎖️ Special thanks to [infernalryan](https://next.nexusmods.com/profile/infernalryan?gameId=1704) for creating the comprehensive grass caching guide.
+
+---
+
+✅ Once finished (or skipped), you’re ready to move on to **TexGen**.
+
+---
+
 ## 🎨 Step 4: Run TexGen
 
 > ⚠️ **Important for Performance Users:**  
