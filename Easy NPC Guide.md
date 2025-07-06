@@ -283,11 +283,11 @@ Once the new merge is active:
 Once your new NPC merge is built and organized, you must run **EasyNPC Debug** to resolve FaceGen conflicts.
 
 1. Launch **EasyNPC Debug** from the MO2 executables dropdown.
-2. Allow it to fully load.
-3. In the yellow box labeled **"Conflicting overrides detected"**, click the dropdown.
 
 ![image](https://github.com/user-attachments/assets/e764f866-c6f3-474a-8c8e-c5287a55cc66)
 
+2. Allow it to fully load.
+2. In the yellow box labeled **"Conflicting overrides detected"**, click the dropdown.
 4. Click the **red "Apply Workaround"** button.
 
 ![image](https://github.com/user-attachments/assets/ef902be8-5c0e-4233-bfcf-e503fbbd9a3a)
