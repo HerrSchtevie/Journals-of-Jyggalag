@@ -233,17 +233,16 @@ Each NPC has **two selectors**:
 After the build completes, you'll get a success message:
 
 > “Your NPC Merge is ready at:  
-> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge (Lord's Vision)` or `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge (Reserved Vision)` depending on your profile.
+> `YourDrive:\Journals of Jyggalag\mods\JOJ - NPC Merge`
 
-![image](https://github.com/user-attachments/assets/b241093d-2649-4bcb-9b02-2a9dab64fcc0)
+![image](https://github.com/user-attachments/assets/bb761581-0ad2-4eec-a5d3-74e2e1ec21ba)
 
 ---
 
 ### 📦 Post-Build Steps in MO2
 
 1. Close EasyNPC  
-2. Enable **`JOJ - NPC Merge Profile (Lord's Vision)` or `JOJ - NPC Merge Profile (Reserved Vision)`** depedning on your profile in MO2  
-3. Refresh your MO2 panels  
+2. Refresh your MO2 panels  
 
 You’ll now see **4 new plugins** appear at the bottom of your plugin list.
 
