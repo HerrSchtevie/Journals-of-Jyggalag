@@ -401,7 +401,7 @@ All required plugins and mod files are already included in JOJ, so earlier steps
 > If you are using the **Performance** profile and have generated your own VRAMr Output, you must **disable it** before running TexGen.  
 > Keep it disabled until **after DynDOLOD** has finished running (the next step).
 
-![image](https://github.com/user-attachments/assets/f7809c0c-5746-4b54-81ec-45899dcf4d16)
+---
 
 > 🧹 **Clean Slate Reminder:**  
 > Just like with ParallaxGen, you must **delete your previous TexGen outputs** before generating new ones.
