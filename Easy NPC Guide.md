@@ -306,6 +306,9 @@ Once your new NPC merge is built and organized, you must run **EasyNPC Debug** t
 
 1. **Rerun Synthesis** after your new EasyNPC merge is complete and the debug fix has been applied.  
    📘 *See my [Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md) for instructions on how to rerun Synthesis.*
+2. Don’t forget to **re-enable all plugins** in the `Outputs` plugin group once everything else is complete!
+
+![image](https://github.com/user-attachments/assets/9ad9d6dc-eb46-4871-9188-559e7ff84bf7)
 
 ---
 
