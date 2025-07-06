@@ -184,13 +184,30 @@ Before you begin, make sure you meet the following **hard requirements**:
            💾 Requires approximately **451 GB of free space**.  
            ⚠️ **This must be on an SSD** for performance and stability.
 
-5. **Start Installation**
+5. Manually Download the LoversLab Mod
+
+One required mod **must be downloaded manually** from LoversLab due to site restrictions:
+
+**Mod Page:**  
+[Assorted Futanari Texture Patches - BnP TRX](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/)
+
+**Direct Download (if logged in):**  
+[Click here to download](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003334&confirm=1&t=1&csrfKey=3dfd07c673775819fc8095aeec12e2ad)
+
+> ⚠️ You **must be logged into LoversLab** to access the direct download link.
+
+Once downloaded, **place the file into your `Journals of Jyggalag\downloads` folder**.
+
+> ❌ **If you skip this step**, Wabbajack will **fail during installation** and display an error telling you to manually download this mod.  
+> ✅ Downloading and placing it correctly will allow the install to continue without errors.       
+
+6. **Start Installation**
    - Click **Start** to begin the automated installation.
    - Wabbajack will handle the process automatically. If any files fail to download (e.g., Nexus permissions), Wabbajack will prompt you to log in or download manually.
 
    > 📺 *Optional:* [Watch Biggie’s Wabbajack Install Guide](https://www.youtube.com/watch?v=nApuOZWp12c&ab_channel=biggie_boss)
 
-6. **While Wabbajack is running:**
+7. **While Wabbajack is running:**
    - Join the [Discord server](https://discord.gg/8ZCa7w8BZQ) and ask any questions you might have.
    - Review the mod pages for [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219), [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) and start planning your character build.
 
