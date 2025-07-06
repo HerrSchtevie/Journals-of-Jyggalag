@@ -156,28 +156,63 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 
 ---
 
-## 🎨 Step 4: Build Your Profile
+## 🎨 Step 4: Prepare and Build Your Profile
 
-1. Go to the **Profiles** tab  
-2. Select NPCs and choose the visual appearance you'd like for each  
+### 🧹 Maintenance Before Merge
 
-> You are free to mix and match faces from any available overhaul.
+Before editing any NPCs, you need to **clear out leftover data** from any previous merges:
+
+1. Go to the **Maintenance** tab.
+2. Select the following options:
+   - ✅ Reset NPC Defaults  
+   - ✅ Reset Face Selection  
+   - ✅ Delete Logs  
+   - ✅ Trim Autosave  
+
+![image](https://github.com/user-attachments/assets/1dc19c40-f794-4121-ac7f-3a1f31ba9a73)
+
+Once done, return to the **Profiles** tab to begin customizing your NPCs.
 
 ---
 
-### 🧠 How This Works
+### 🧱 Building Your Profile
 
-- **Blue Box** = Default Source (determines FaceGen assets)  
-- **Green Crown** = Face Source (determines face appearance)
+1. Navigate to the **Profiles** tab.
+2. Scroll through the list of NPCs and choose the **face appearance** you prefer for each one.
 
-✅ **Only change the Face Source**  
-🚫 Do **not** change the Default Source  
+> 🧩 You are free to **mix and match** appearances from any NPC overhaul in your load order.
 
-> **IMPORTANT:** None of your NPCs should have `AI Overhaul.esm` selected as their **Default Source** (Blue Box).  
+---
 
-> Ignore “Plugin not loaded” warnings unless it’s for an NPC you’re actively editing. These are safe to skip if mugshots don’t load.
+### 🧠 Understanding Sources
 
-![3](https://github.com/user-attachments/assets/21f08565-e7d3-4c00-8d22-f851c935ea2c)
+Each NPC has **two selectors**:
+
+- 🔷 **Default Source (Blue Box)**  
+  - Controls where the **AI/Dialogue, data assets, meshes/textures** come from.
+- 👑 **Face Source (Green Crown)**  
+  - Controls the actual **appearance** of the NPC (based on mugshots).
+
+> ⚠️ **IMPORTANT:**  
+> No NPC should ever have `AI Overhaul.esm` set as their **Default Source**.  
+> This will cause blackface and other visual bugs.
+
+#### 🔍 To quickly find and fix this:
+
+1. Click the **funnel icon** under the Profile tab.
+2. In the search bar, enter: `default plugin: AI Overhaul`
+3. This will filter the list to show **only NPCs** using `AI Overhaul.esm` as their **Default Source**.
+4. For **every single NPC**, you must change the Default Source (Blue Box) to one of the following:
+   - ✅ `Unofficial Skyrim Special Edition Patch.esp` *(preferred — this should be used whenever possible)*
+   - ✅ `Skyrim.esm` *(only use this if USSEP is not available for that NPC)*
+
+> ⚠️ **Important:**  
+> **Every NPC in your list must use either `USSEP` or `Skyrim.esm` as their Default Source.**
+
+![image](https://github.com/user-attachments/assets/6f947a16-c088-4b0d-a077-8c637a1a50fe)
+
+> 💬 **"Plugin not loaded"** warnings can be ignored unless you are actively editing that NPC.  
+> These typically appear when mugshots don’t load, but they will not break your merge.
 
 ---
 
