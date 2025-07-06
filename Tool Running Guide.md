@@ -222,7 +222,7 @@ YourDrive:\Journals of Jyggalag - Outputs
 
 This is already pre-configured in **MO2 > Modify Executables**, but you can change it if needed.  
 
-![image](https://github.com/user-attachments/assets/5faac650-ccbe-443d-97e4-974aedf2e12f)
+![image](https://github.com/user-attachments/assets/8c981ca2-3e3a-4c09-b763-abf3c1d0c0bf)
 
 ---
 
@@ -242,44 +242,44 @@ Check all worldspaces in the right panel (right-click > **Select All**)
 ---
 
 ### 🔹 LOD4 Settings
-- **Lord's Vision / Reserved Vision**
+- **Lord's Vision**
 
 ![image](https://github.com/user-attachments/assets/f8342944-4aac-4e44-9070-a5de883a74f3)
 
-- **Performance / Reserved Performance**  
+- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/e685caab-5760-4554-a173-2c631ccc13df)
 
 ---
 
 ### 🔹 LOD8 Settings
-- **Lord's Vision / Reserved Vision**  
+- **Lord's Vision**  
 
 ![image](https://github.com/user-attachments/assets/a96541f1-18bb-4d64-901f-3db691ae8fb7)
 
-- **Performance / Reserved Performance**  
+- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/3eaf00e7-8400-4012-bc2e-22581909ea13)
 
 ---
 
 ### 🔹 LOD16 Settings
-- **Lord's Vision / Reserved Vision**  
+- **Lord's Vision**  
 
 ![image](https://github.com/user-attachments/assets/00738425-81a7-47b2-9e81-1f23054499a8)
 
-- **Performance / Reserved Performance**  
+- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/2aa518a3-978d-459e-8ac4-13940d14410b)
 
 ---
 
 ### 🔹 LOD32 Settings
-- **Lord's Vision / Reserved Vision**  
+- **Lord's Vision**  
 
 ![image](https://github.com/user-attachments/assets/0b617d8f-053a-46f1-84fa-5bc6b2d9067f)
 
-- **Performance / Reserved Performance**  
+- **Performance**  
 
 ![image](https://github.com/user-attachments/assets/4b3e75b9-5e44-44a2-a611-3ecd8a82e082)
 
