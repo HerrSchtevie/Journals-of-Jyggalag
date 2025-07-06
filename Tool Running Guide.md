@@ -222,7 +222,7 @@ YourDrive:\Journals of Jyggalag - Outputs
 
 This is already pre-configured in **MO2 > Modify Executables**, but you can change it if needed.  
 
-![image](https://github.com/user-attachments/assets/8c981ca2-3e3a-4c09-b763-abf3c1d0c0bf)
+![image](https://github.com/user-attachments/assets/e27470ad-9180-4418-9d01-caea04884fa7)
 
 ---
 
