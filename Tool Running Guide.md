@@ -319,7 +319,7 @@ After the LOD levels have been generated, your files will be located in:
 
 ---
 
-## 🌾 Step 4.5: Grass Cache (Optional / Advanced)
+## 🌾 Step 3.5: Grass Cache (Optional / Advanced)
 
 This step is **optional** — JOJ includes pre-generated grass caches for both supported profiles.  
 You are free to use the existing `JOJ - Grass Cache (Your Profile)` mod **without doing anything further**.
