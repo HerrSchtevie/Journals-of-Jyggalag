@@ -398,7 +398,7 @@ All required plugins and mod files are already included in JOJ, so earlier steps
 ## 🎨 Step 4: Run TexGen
 
 > ⚠️ **Important for Performance Users:**  
-> If you are using the **Performance** profile and have generated your own VRAMr Output, you must **disable** it** before running TexGen.  
+> If you are using the **Performance** profile and have generated your own VRAMr Output, you must **disable it** before running TexGen.  
 > Keep it disabled until **after DynDOLOD** has finished running (the next step).
 
 ![image](https://github.com/user-attachments/assets/f7809c0c-5746-4b54-81ec-45899dcf4d16)
@@ -413,6 +413,26 @@ All required plugins and mod files are already included in JOJ, so earlier steps
 1. In **MO2**, scroll down to the `Outputs` separator
 2. **Double-click** `JOJ - TexGen Output (Your Profile)` and choose **Open in Explorer**
 3. Inside the folder, **delete the `textures` folder** completely
+
+---
+
+## 🚫 Disable Conflicting Plugins Before TexGen
+
+Before running **TexGen**, you must temporarily **disable the following plugins** in MO2. These can interfere with LOD generation:
+
+- `JOJ - Cell Patch - Lair of Succubi`  
+  *(Found in the `JOJ Custom Patches` plugin group)*
+
+- `JOJ - Journal of Followers`  
+  *(Found in the `Alternate Perspective` plugin group)*
+
+- `JOJ - Alternate Perspective`  
+  *(Also in the `Alternate Perspective` plugin group)*
+
+These plugins should remain **disabled** until after both **TexGen** and **DynDOLOD** are complete.  
+Once all LOD tools are finished, you can safely re-enable them.
+
+![image](https://github.com/user-attachments/assets/19b409f8-4e8a-4120-b5c6-ff401feb6e65)
 
 ---
 
