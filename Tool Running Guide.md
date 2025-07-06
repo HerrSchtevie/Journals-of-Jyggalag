@@ -492,14 +492,6 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ### ▶️ Step 5: Run DynDOLOD
 
-> 📁 **Output Location Notice:**  
-> The output path for DynDOLOD is set **inside the DynDOLOD window**, near the bottom of the interface.  
-> By default, it should point to:  
-> `Journals of Jyggalag - Outputs\dyndolod outputs\`  
-> You may change this path if needed **before starting generation**.
-
----
-
 > ⚠️ **Before launching DynDOLOD, you must disable these specific plugins.**  
 > These will cause generation failures if left enabled.
 
@@ -530,19 +522,30 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ![image](https://github.com/user-attachments/assets/88dbf116-4262-4363-969f-b6a31e3f29ad)
 
+---
 
 ✅ Once all these plugins are disabled, you're ready to launch **DynDOLOD**.
 
+1. Launch **DynDOLOD** from the MO2 dropdown menu  
+2. Allow it to fully load
+
+> 📁 **Output Location Notice:**  
+> The output path for DynDOLOD is set **inside the initial DynDOLOD window**, at the top of the interface.  
+> By default, it should point to:  
+> `Journals of Jyggalag\tools\DynDOLOD\DynDOLOD_Output\`  
+> You may change this path if needed **before starting generation**.
+
+> It is recommended to change your Output location to this so all of your Outputs go in the same place. This isn't required, but it helps keep all your output files organized in one place.:  
+> `Journals of Jyggalag - Outputs\DynDOLOD Output\`
+
+![image](https://github.com/user-attachments/assets/1d3a75e3-39e1-4494-9d61-9dd9c49590d0)
 
 ---
 
-Once the plugins are disabled:
-
-1. Launch **DynDOLOD** from the MO2 dropdown menu  
-2. Allow it to fully load
+3. Click `Advanced`
 3. In the **top-left checkbox**, make sure **everything is checked**  
    (Right-click > **Select All**)  
-4. Set your **Output Path** to the `DynDOLOD Output` folder if it isn’t already  
+4. Double check that your **Output Path** is set to the `Journals of Jyggalag - Outputs\DynDOLOD Output\`. 
 5. In the **top-right corner**, select your quality preset based on your profile:
 
     - **Lord’s Vision** → Click **High**  
@@ -550,16 +553,18 @@ Once the plugins are disabled:
 
 7. Match your other settings to the example provided below
 
-![image](https://github.com/user-attachments/assets/5171072b-1a41-4f51-8387-92b3dc492f09)
+![image](https://github.com/user-attachments/assets/065ce9b7-c817-4fe4-a669-c45ffa5fb046)
 
+8. Allow DynDOLOD to run and complete. Be patient as this generally takes at least an hour, sometimes two depending on your PC specs.
+9. Once it completes, just click `Exit DynDOLOD`
+    
 ---
 
 ### 📁 Move the Output to MO2
 
 Once DynDOLOD completes, the output files will be located at:
 
-`Journals of Jyggalag - Outputs\dyndolod output`
-
+`Journals of Jyggalag - Outputs\DynDOLOD Output` if you followed the above recommended steps.
 
 1. Open that folder and **copy everything inside**
 2. Paste all files into:
@@ -594,15 +599,25 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
 - Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
   
-- Don't forget to **re-enable** the following plugins in MO2:**
-- From the **Embers XD** plugin group:  
-  `JKs Castle Volkihar - Embers XD patch.esp`
+- Don't forget to **re-enable** the following plugins in MO2 from the steps above:**
 
-- From the **World Map** plugin group:  
-  `OCW_AMM-SE_FEPatch.esp`
+#### 📂 From the `Embers XD` plugin group:
+- `JKs Castle Volkihar - Embers XD patch.esp`
+
+#### 🗺️ From the `World Map` plugin group:
+- `OCW_AMM-SE_FEPatch.esp`
+
+#### 🧩 From the `JOJ Custom Patches` plugin group:
+- `JOJ - Cell Patch - Lair of Succubi.esp`
+- `JOJ - City Patch - Markarth.esp`
+- `JOJ - OCW Atlas Map Markers Fix.esp`
+
+#### 🔄 From the `Alternate Perspective` plugin group:
+- `JOJ - Alternate Perspective.esp`
+- `JOJ - Journal of Followers.esp`
 
 > ⚠️ **Important for Performance Users:**  
-> If you are using the **Performance** or **Reserved Performance** profiles, you must **re-enable** the `JOJ - VRAMr (Your Profile)` mod** that we previously disabled.
+> If you are using the **Performance** profiles and have a VRAMr Output, you must **re-enable** it.
 
 ---
 
