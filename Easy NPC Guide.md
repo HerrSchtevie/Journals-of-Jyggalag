@@ -142,8 +142,10 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 ![image](https://github.com/user-attachments/assets/6f2c74e1-7c18-43f8-9e58-4619753d7b9f)
 ![image](https://github.com/user-attachments/assets/984245e5-4883-4dd2-a399-11d8aa34c21e)
 ![image](https://github.com/user-attachments/assets/fc29ad99-f6a6-4122-bcf1-3e90fb0ef6b3)
-![image](https://github.com/user-attachments/assets/43a5b017-bdf2-4381-9347-8c7c650da1e9)
-![image](https://github.com/user-attachments/assets/cc24b631-81fc-4c2c-9ff8-88d17a9b5dfd)
+![image](https://github.com/user-attachments/assets/ba4ca70c-2a52-415c-9513-f29a04e20c3f)
+![image](https://github.com/user-attachments/assets/f5e8aeb2-4345-436d-b6ed-c35b97328f0c)
+![image](https://github.com/user-attachments/assets/2b8cc1ef-60cc-40ed-ac5a-542d5272836b)
+![image](https://github.com/user-attachments/assets/78805128-df04-4d5e-8dd3-c3ec74338e8a)
 
 ---
 
