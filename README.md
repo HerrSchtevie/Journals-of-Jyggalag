@@ -184,9 +184,9 @@ Before you begin, make sure you meet the following **hard requirements**:
            💾 Requires approximately **451 GB of free space**.  
            ⚠️ **This must be on an SSD** for performance and stability.
 
-5. **Select the Modlist**
+5. **Manually Download the LoversLab Mod**
 
-One required mod **must be downloaded manually** from LoversLab due to site restrictions:
+One required mod **must be downloaded manually** from LoversLab:
 
   **Mod Page:**  
   [Assorted Futanari Texture Patches - BnP TRX](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/)
