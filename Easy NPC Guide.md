@@ -241,18 +241,29 @@ After the build completes, you'll get a success message:
 
 ### 📦 Post-Build Steps in MO2
 
-1. Close EasyNPC  
-2. Refresh your MO2 panels  
+1. **Close EasyNPC**
+2. **Refresh** your MO2 panels (click the refresh icon or restart MO2)
 
-You’ll now see **4 new plugins** appear at the bottom of your plugin list.
+---
 
-- Select all of them, then right-click > **Create Group** > Name it `JOJ NPC Merge`  
-- Move this new group just **above** the `Alternate Perspective` plugin group  
-- Enable all the plugins inside the new `Easy NPC Merge` group
-- Be sure to re-enable to Output plugins that we disabled in step 2!
-`All Synthesis Patches, ParallaxGen.esp, PG_1.esp, DynDOLOD.esp, and Occlusion.esp`  
+You’ll now see **6 new plugins** added to your load order:
 
-![image](https://github.com/user-attachments/assets/02bfbad5-1cfe-4c15-8716-30562ac7c5bb)
+- `NPC Appearances Merged - Textures0.esp`  
+- `NPC Appearances Merged - Textures1.esp`  
+- `NPC Appearances Merged0.esp`  
+- `NPC Appearances Merged1.esp`  
+- `NPC Appearances Merged2.esp`  
+- `NPC Appearances Merged.esp`
+
+---
+
+### 📁 Organize Your Merge Plugins
+
+1. **Move all 6 plugins** into the `NPC Appearances` plugin group  
+2. **Place them directly underneath** `Children of the Hist.esp`
+3. Make sure they are ordered **exactly like this**:
+
+![image](https://github.com/user-attachments/assets/ac004410-f183-41e9-901a-d3ee1ecebeed)
 
 ---
 
