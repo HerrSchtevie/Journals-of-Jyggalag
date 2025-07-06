@@ -290,20 +290,22 @@ Check all worldspaces in the right panel (right-click > **Select All**)
 
 After the LOD levels have been generated, your files will be located in:
 
-`Journals of Jyggalag - Outputs\lodgen outputs\`
+`Journals of Jyggalag - Outputs\XLODGen output\`
 
 
 1. Navigate to the following folder:
 
     ```
     Journals of Jyggalag\mods\JOJ - xLODGen Output (Your Profile)
+    
     ```
 
 2. **Delete everything inside this folder** to ensure no remnant files remain  
 3. Now open:
 
     ```
-    Journals of Jyggalag - Outputs\lodgen outputs\
+    Journals of Jyggalag - Outputs\XLODGen outputs\
+    
     ```
 
 4. Locate the `meshes` and `textures` folders (these should be the only files present)  
