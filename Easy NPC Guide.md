@@ -108,7 +108,7 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
    - Either way, your numbers will still be **close enough to follow along**.
 
 ### 🧩 Core Skyrim & Creation Club Plugins
-These are typically **Plugins 1–80**:
+**Plugins 1–80**:
 - `Skyrim.esm`
 - `Update.esm`
 - `Dawnguard.esm`
