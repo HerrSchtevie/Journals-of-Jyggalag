@@ -110,11 +110,14 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
  
 ![easynpc3](https://github.com/user-attachments/assets/93e3ed5c-8104-4232-bec5-fd7315a16d21)
 ![easynpc4](https://github.com/user-attachments/assets/ba5eacbf-7f7f-47e1-8331-34726f336a12)
-![easynpc3](https://github.com/user-attachments/assets/c2459a4a-5758-420f-b331-19662ce79fd3)
-![easynpc11](https://github.com/user-attachments/assets/7f256593-ff6c-4ba6-ac99-a03a5b41da01)
-![image](https://github.com/user-attachments/assets/6943c11a-90a6-4a8c-8faf-fda18e92eb53)
-![image](https://github.com/user-attachments/assets/e50bf6c5-8190-4909-8846-bab0156df703)
-![image](https://github.com/user-attachments/assets/15b8189e-379f-4c03-99d2-324776d0a3fb)
+![image](https://github.com/user-attachments/assets/f81300ce-273f-446a-922a-cc33bebfa30d)
+![image](https://github.com/user-attachments/assets/9564a088-b614-415e-9409-4f99c656576e)
+![image](https://github.com/user-attachments/assets/61047918-5e06-4057-91cd-feaee19a1bfa)
+![image](https://github.com/user-attachments/assets/6f2c74e1-7c18-43f8-9e58-4619753d7b9f)
+![image](https://github.com/user-attachments/assets/984245e5-4883-4dd2-a399-11d8aa34c21e)
+![image](https://github.com/user-attachments/assets/fc29ad99-f6a6-4122-bcf1-3e90fb0ef6b3)
+![image](https://github.com/user-attachments/assets/43a5b017-bdf2-4381-9347-8c7c650da1e9)
+![image](https://github.com/user-attachments/assets/cc24b631-81fc-4c2c-9ff8-88d17a9b5dfd)
 
 ---
 
