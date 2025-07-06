@@ -542,7 +542,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
 
 ---
 
-3. Click `Advanced`
+3. Click `Advanced >>>`
 3. In the **top-left checkbox**, make sure **everything is checked**  
    (Right-click > **Select All**)  
 4. Double check that your **Output Path** is set to the `Journals of Jyggalag - Outputs\DynDOLOD Output\`. 
