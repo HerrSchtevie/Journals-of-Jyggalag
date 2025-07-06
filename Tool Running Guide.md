@@ -124,10 +124,10 @@ Return to **MO2** and re-enable the **three Synthesis plugins** under the `Outpu
 In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `Outputs` separator.  
 **Disable** the following mods:
 
-- `JOJ - DynDOLOD Output`
-- `JOJ - TexGen Output`
+- `JOJ - DynDOLOD Output (Your Profile)`
+- `JOJ - TexGen Output (Your Profile`
 
-(![image](https://github.com/user-attachments/assets/44a9d589-48a2-4d14-9cca-f628f986f52d)
+![image](https://github.com/user-attachments/assets/c9bae4d0-46c7-4ea3-85c1-c99f85048356)
 
 
 ✅ Keep these disabled for now, even after the ParallaxGen step is complete.
@@ -137,7 +137,7 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 ### 🧹 Clear Old Output Files
 
 1. **Delete the contents** of the existing output mod folder:
-- In MO2, right-click on `JOJ - ParallaxGen Output` and choose **Open in Explorer**
+- In MO2, right-click on `JOJ - ParallaxGen Output (Your Profile` and choose **Open in Explorer**
 - Delete **all files inside** this folder
 
 ---
@@ -147,9 +147,9 @@ In **Mod Organizer 2**, scroll to the bottom of the left panel and locate the `O
 1. Open **ParallaxGen**.
 2. In the **Profile** dropdown, make sure the profile you're currently using is selected.
 3. Depending on your profile:
-   - For `Lord's Vision` and `Reserved Vision` (ENB-enabled):  
+   - For `Lord's Vision` (ENB-enabled):  
      ✅ **Check** the box **"Fix Mesh Lighting (ENB ONLY)"** in the top right.
-   - For `Performance` and `Reserved Performance` (no ENB):  
+   - For `Performance` (no ENB):  
      ❌ **Leave this box unchecked**.
 4. In the **Output** field, choose a destination folder.  
    > 📁 It’s recommended to create a folder like `Journals of Jyggalag - Outputs` on the same drive as your installation to keep things organized.
