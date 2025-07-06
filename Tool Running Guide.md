@@ -57,80 +57,38 @@ If you’re unsure, just follow the guide **step-by-step, top to bottom** — it
 
 ---
 
-### ⚙️ Step 1: Run Synthesis
+## ⚙️ Step 1: Run Synthesis
 
-Each **Journals of Jyggalag** profile uses a unique Synthesis patcher setup. You must configure Synthesis properly for your chosen profile **before running it**, or the patchers may generate incorrect data.
+Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
 
 #### Supported Profiles:
 - `Lord's Vision` – Full experience  
 - `Performance` – Lower fidelity, same content  
-- `Reserved Vision` – Immersion-focused visuals  
-- `Reserved Performance` – Immersion + performance
 
 ---
 
-### 🔧 Setting Up Synthesis for Your Profile
+### 🧭 Quick Setup Instructions
 
-1. In **Mod Organizer 2 (MO2)**, go to the **Plugins tab**.  
-   In the **`Outputs`** plugin group, **disable all plugins** before running Synthesis.  
-   ⚠️ This prevents circular patching, load order issues, and unwanted data duplication.
-   
-   ![image](https://github.com/user-attachments/assets/ccd5d094-58eb-45e9-8c80-ffd88a0f3934)
+1. Open **Synthesis** from the MO2 dropdown.
 
-2. In the top-right MO2 dropdown menu, click **Edit...**
-   
-   ![image](https://github.com/user-attachments/assets/30e34f8f-21e9-47db-a350-55ef82d0da3e)
+2. In the **top-right corner**, click the **profile**.
 
-3. In the left-hand list, select **Synthesis**.
-   
-   ![image](https://github.com/user-attachments/assets/13202921-5c58-456f-8e45-461c99e2f396)
- 
-4. In the field labeled `Create files in mod instead of overwrite (*)`, select the correct output folder for your active profile:
+![image](https://github.com/user-attachments/assets/00fbcd9f-d797-4df3-9701-381cb96c6047)
 
-```
-JOJ - Synthesis Output (Lord's Vision)  
-JOJ - Synthesis Output (Performance)  
-JOJ - Synthesis Output (Reserved Vision)  
-JOJ - Synthesis Output (Reserved Performance)  
-```
+   From the list, select the profile that matches your current MO2 profile:
+   - `Lord's Vision`
+   - `Performance`
 
-5. Click **OK** to close the Modify Executables window.
+![image](https://github.com/user-attachments/assets/924a565a-6ee5-49c2-8c46-9c6a9a70d920)
 
----
+3. Once selected, click the **Run** button in the **bottom-left corner**.  
+   Synthesis will now execute all patchers relevant to your chosen profile.
 
-### 🧠 Configuring Patchers in Synthesis
+4. When complete, you’ll see **“Complete”** in purple text at the top-left corner.
 
-1. Launch **Synthesis** from the MO2 dropdown.  
-2. Once loaded, verify that the patchers are named correctly for your active profile.  
-   - By default, the patchers are labeled for **Lord’s Vision**.  
-   - If you're using a different profile, you **must rename** the patchers.
+![image](https://github.com/user-attachments/assets/95153c12-8ecf-4ffc-bd30-377fad04ffbf)
 
-#### 🔁 How to Rename Patchers:
-- Click on the patcher’s title (e.g. `Lord's Vision - Synthesis Terrain`)
-- Rename it to match your current profile.  
-  Example for Reserved Vision:
-
-```
-Reserved Vision - Synthesis Terrain  
-Reserved Vision - Synthesis Character  
-Reserved Vision - Synthesis Gameplay  
-```
-
-![image](https://github.com/user-attachments/assets/c9ad1871-a00c-4ec5-8fcc-44148acf50d1)
-
----
-
-### ▶️ Run the Patchers
-
-Once your patchers are correctly named and the output path is set, click the **Run** button at the bottom of the Synthesis window. Let the process complete — this may take several minutes depending on your system and load order.
-
-✅ You will know the process is complete when you see "Complete" in purple text in the top-left corner.
-
-You can now safely close Synthesis.
-
-Return to MO2 and re-enable the plugins in the Outputs plugin group that you disabled in Step 1.
-
-![image](https://github.com/user-attachments/assets/d2688dc9-31c2-4beb-a654-c84e9fb5ea0e)
+5. You can now **close Synthesis**.
 
 ---
 
@@ -144,6 +102,14 @@ If you receive a **blocking error** when launching or running Synthesis:
 **Recommended Fixes:**
 - Run **MO2 as Administrator** and try again.
 - Reboot your PC to clear temp/cache files and try again.
+
+---
+
+### 🔁 Final Step: Re-enable Plugins
+
+Return to **MO2** and re-enable the **three Synthesis plugins** under the `Outputs` separator.
+
+![image](https://github.com/user-attachments/assets/92fbd63c-b733-47f6-b16f-2c2cecdb2251)
 
 ---
 
