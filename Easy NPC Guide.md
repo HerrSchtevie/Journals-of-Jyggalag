@@ -273,6 +273,8 @@ Once the new merge is active:
 
 - **Disable ALL mods under the EasyNPC separator**  
   These were only needed for the merge. Leaving them enabled will cause plugin duplication, blackface bugs, and instability.
+
+![image](https://github.com/user-attachments/assets/b1cb2944-6994-4152-a109-8ce9e240f74d)
   
 ---
 
@@ -281,9 +283,6 @@ Once the new merge is active:
 Once your new NPC merge is built and organized, you must run **EasyNPC Debug** to resolve FaceGen conflicts.
 
 1. Launch **EasyNPC Debug** from the MO2 executables dropdown.
-
-![image](https://github.com/user-attachments/assets/b1cb2944-6994-4152-a109-8ce9e240f74d)
-
 2. Allow it to fully load.
 3. In the yellow box labeled **"Conflicting overrides detected"**, click the dropdown.
 
