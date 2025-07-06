@@ -26,6 +26,10 @@ Proceed with caution. You have been warned.
 
 ---
 
+### 🕺 Pandora
+  - **When to run:** After **adding or removing any animation mod** — including locomotion, idle, combat, OAR animations, or MCO/DAR-based behavior changes.  
+  - **What it does:** Compiles behavior data and animation bindings into a functioning output using OAR (Open Animation Replacer). Ensures animations play correctly in-game by linking conditions, behaviors, and transitions into a single cache.
+
 ### ⚙️ Synthesis
   - **When to run:** After adding gameplay mods, appearance overhauls, perk overhauls, combat mods, or other systems that use Synthesis patchers.  
   - **What it does:** Automatically generates compatibility patches for things like perks, spells, leveled lists, appearance, high-poly head, terrain, and more, depending on the patchers active for your profile.
@@ -54,6 +58,58 @@ You’ll find detailed, step-by-step instructions for each tool below — includ
 These tools **build off one another in a specific sequence**, and must be run in the **order listed above** for everything to function correctly.
   
 If you’re unsure, just follow the guide **step-by-step, top to bottom** — it’s written in the exact order you should run each tool.
+
+---
+
+## 🕺 Step 0: Run Pandora (Only if Using Animations)
+
+This step is only required if you're **adding or removing animation mods** in JOJ — including OAR, MCO, DAR-based movement, combat, or idle animations.  
+If you haven’t changed any animations, you can **skip this step** and proceed directly to **Step 1: Synthesis**.
+
+---
+
+### 🧹 1. Clear Old Pandora Output
+
+- In **MO2**, scroll down to the `Outputs` separator.
+- Locate the mod:  
+  `JOJ - Pandora Output`
+- Right-click > **Open in Explorer**
+- **Delete everything** inside this folder.
+
+---
+
+### ⚙️ 2. Open Pandora Behavior Engine+
+
+- Launch **Pandora Behavior Engine+** from the **MO2 executable dropdown**.
+
+---
+
+### ☑️ 3. Select All Patchers
+
+- In the **top-left corner**, check the box labeled **Select All**.
+
+![image](https://github.com/user-attachments/assets/ad25c912-3ced-4539-afa4-ea37efa79102)
+
+---
+
+### ▶️ 4. Click Run
+
+- Click the **Run** button at the **bottom of the window**.
+
+---
+
+### 📁 Output Info
+
+By default, Pandora is configured to output to:
+
+```
+JOJ - Pandora Output
+```
+
+![image](https://github.com/user-attachments/assets/4a57a161-0d81-4dd7-866b-f93aafd83a34)
+
+This is already set correctly for JOJ and does **not** need to be changed.  
+However, if you want to change the output location, you can do so by editing the executable settings in MO2 — though this is **not recommended** unless you know exactly what you're doing.
 
 ---
 
