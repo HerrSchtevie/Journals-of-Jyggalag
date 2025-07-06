@@ -8,6 +8,13 @@ This guide walks you through how to **rebuild or customize your NPC appearance m
 
 ---
 
+> ⚠️ **Disclaimer:**  
+> This guide has been updated for **Journals of Jyggalag v3.3.0**, which is **not yet live** on the Wabbajack UI.  
+> While all steps and plugin requirements still apply to **v3.2.2**, you may notice some differences in screenshots, plugin numbers, or mods listed under the EasyNPC separator — as these have been updated significantly between versions.  
+> This disclaimer will be removed once **v3.3.0** is officially released. We are still actively building and testing the new version.
+
+---
+
 ## 🧠 What is EasyNPC?
 
 EasyNPC is a GUI-based tool that lets you:
