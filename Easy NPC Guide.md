@@ -76,19 +76,10 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 
 ## 🛹 Step 2: Clean Previous Merge
 
-> 💡 **Note:**  
-> The **Lord's Vision** and **Performance** profiles share the `JOJ - NPC Merge (Lord's Vision)` mod file.  
-> The **Reserved Vision** and **Reserved Performance** profiles share the `JOJ - NPC Merge (Reserved Vision)` mod file.
-
-> ⚠️ **Disclaimer:**  
-> This guide was created using the **Journals of Jyggalag - Lord's Vision** profile.  
-> Some **plugin numbers, filenames, or output folders** may differ slightly in the other profiles.
-> Adjust accordingly based on your selected profile.
-
 1. In the **right panel**, disable:  
    - `All Synthesis Patches, ParallaxGen.esp, PG_1.esp, Occlusion.esp, DynDOLOD.esp` *(temporarily)*
 
-2. In the **left panel**, locate `JOJ - NPC Merge (Your Profile)` under the `Outputs` separator  
+2. In the **left panel**, locate `JOJ - NPC Merge` under the `Outputs` separator  
    - Right-click > **Open in Explorer**  
    - Delete **everything inside the folder**  
 
