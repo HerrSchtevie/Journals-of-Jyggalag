@@ -188,11 +188,11 @@ Before you begin, make sure you meet the following **hard requirements**:
 
 One required mod **must be downloaded manually** from LoversLab:
 
-  **Mod Page:**  
-  [Assorted Futanari Texture Patches - BnP TRX](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/)
+  - **Mod Page:**  
+      [Assorted Futanari Texture Patches - BnP TRX](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/)
 
-  **Direct Download (if logged in):**  
-  [Click here to download](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003334&confirm=1&t=1&csrfKey=3dfd07c673775819fc8095aeec12e2ad)
+  - **Direct Download (if logged in):**  
+      [Click here to download](https://www.loverslab.com/files/file/31870-assorted-futanari-texture-patches/?do=download&r=2003334&confirm=1&t=1&csrfKey=3dfd07c673775819fc8095aeec12e2ad)
 
 > ⚠️ You **must be logged into LoversLab** to access the direct download link.
 
