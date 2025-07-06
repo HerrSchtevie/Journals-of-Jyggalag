@@ -221,17 +221,17 @@ Each NPC has **two selectors**:
 1. Go to the **Build** tab  
 2. Review the **Alerts** tab:
    - Warnings about "suspicious masters" can typically be ignored unless you're encountering build errors
-   - The Archives `StrangeRunes - Textures.bsa`, `StrangeRunes.bsa`, and `Wintersun - Faiths of Skyrim - Textures.bsa`, alerts can be safely disregarded.   
+   - The Archive `Wintersun - Faiths of Skyrim - Textures.bsa`, alert can be safely disregarded.   
    - If any required NPC records are missing or unresolved, resolve those before continuing  
 
 3. Under **Output Settings**:
-   - **Mod Name**: `JOJ - NPC Merge (Your Profile)`  
+   - **Mod Name**: `JOJ - NPC Merge`  
    - ✅ **Pack files into archives** (recommended)  
    - ✅ **Attempt conversion of wigs to head parts**  
 
 4. When ready, click **Build** in the upper right corner  
 
-![image](https://github.com/user-attachments/assets/7fc66196-9af3-4ea8-b890-a26230eb51e2)
+![image](https://github.com/user-attachments/assets/503188d3-e1b5-47ae-9037-3125a9320b4c)
 
 ---
 
