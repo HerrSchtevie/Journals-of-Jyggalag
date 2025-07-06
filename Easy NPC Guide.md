@@ -103,6 +103,9 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 3. **Deselect all plugins**:  
    - Click the checkbox next to **"Load?"** (this will highlight all plugins), then press **Spacebar** to deselect everything.
 4. Manually **reselect only the following plugins**:
+5. Your plugin numbers may be **slightly different** from mine.  
+   - This depends on what **you’ve done to modify the list**, or honestly, what **I’ve changed since writing this guide**.  
+   - Either way, your numbers will still be **close enough to follow along**.
 
 ### 🧩 Core Skyrim & Creation Club Plugins
 These are typically **Plugins 1–80**:
