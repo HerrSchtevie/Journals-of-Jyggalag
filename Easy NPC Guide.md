@@ -98,15 +98,47 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 
 ## ▶️ Step 3: Run EasyNPC
 
-1. Launch **EasyNPC** from the MO2 dropdown  
-2. Let it load fully  
-3. **Deselect all plugins** (easiest way to do this is click the box next to "Load?" which will highlight everything, then press spacebar to deselect everything), then manually select only the following:
-   - `Skyrim.esm`, `Update.esm`, `Dawnguard.esm`, `HearthFires.esm`, `Dragonborn.esm`  
-   - All **Creation Club plugins** (Plugins 1–80)  
-   - `_ResourcePack.esl`, `Unofficial Skyrim Special Edition Patch.esp`, and `Unofficial Skyrim Creation Club Content Patch.esl` (Plugins 87–88)  
-   - `3DNPC.esp`, `Wyrmstooth.esm`, `AI Overhaul.esm`, `Immersive Wenches.esp`, `ICNs_ImmersiveCollegeNPCs.esp`, and `CS_Visions.esm`
-   - Any additional **NPC overhaul mods** that you intend to merge (they will be at the very bottom). 
-   - Be careful **not** to set `AI Overhaul.esm` as the default data source for any NPCs manually.
+1. Launch **EasyNPC** from the MO2 executable dropdown.
+2. Let it fully load.
+3. **Deselect all plugins**:  
+   - Click the checkbox next to **"Load?"** (this will highlight all plugins), then press **Spacebar** to deselect everything.
+4. Manually **reselect only the following plugins**:
+
+### 🧩 Core Skyrim & Creation Club Plugins
+These are typically **Plugins 1–80**:
+- `Skyrim.esm`
+- `Update.esm`
+- `Dawnguard.esm`
+- `HearthFires.esm`
+- `Dragonborn.esm`
+- All **Creation Club content plugins**
+- `_ResourcePack.esl`
+
+### 🛠 Unofficial Patches
+- `Unofficial Skyrim Special Edition Patch.esp` *(Plugin 87)*
+- `Unofficial Skyrim Creation Club Content Patch.esl` *(Plugin 88)*
+
+### 🧑‍🎤 NPC & Quest Mods
+- `3DNPC.esp` *(Plugin 150)*
+- `Wyrmstooth.esm` *(Plugin 154)*
+- `PAN_LamaesGaze.esp` *(Plugin 265)*
+- `AI Overhaul.esm` *(Plugin 283)*  
+  > ⚠️ **Do not** set this as the default data source for any NPCs.
+- `Better Argonian Horns.esp` *(Plugin 449)*
+- `CS_Visions.esm` *(Plugin 2517)*
+- `ICNs_ImmersiveCollegeNPCs.esp` *(Plugin 2556)*
+- `Children of the Hist.esp` *(Plugin 3237)*
+
+### 🧝 NPC Overhauls & Replacers
+- All plugins **below Plugin 3274 – Occlusion**  
+  These will include all of your NPC overhauls and appearance replacers.  
+  Your plugin numbers may differ slightly depending on which mods you're using.  
+  If you followed all the instructions under **"Step 1: Enable NPC Overhaul Mods"**, they’ll all appear here.
+
+---
+
+> 🟡 **Note:**  
+> If you see a **yellow warning icon** next to a plugin and you’re unable to enable it, **hover over the warning**. It will tell you what **master plugin** needs to be enabled in order to load it.
  
 ![easynpc3](https://github.com/user-attachments/assets/93e3ed5c-8104-4232-bec5-fd7315a16d21)
 ![easynpc4](https://github.com/user-attachments/assets/ba5eacbf-7f7f-47e1-8331-34726f336a12)
