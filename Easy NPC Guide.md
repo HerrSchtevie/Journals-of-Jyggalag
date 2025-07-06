@@ -273,8 +273,39 @@ Once the new merge is active:
 
 - **Disable ALL mods under the EasyNPC separator**  
   These were only needed for the merge. Leaving them enabled will cause plugin duplication, blackface bugs, and instability.
+  
+---
 
-![Screenshot 2025-06-02 170139](https://github.com/user-attachments/assets/a548b61b-eb14-41e5-b084-513d8cdf4d57)
+### 🛠 EasyNPC Debug (Required After Merge)
+
+Once your new NPC merge is built and organized, you must run **EasyNPC Debug** to resolve FaceGen conflicts.
+
+1. Launch **EasyNPC Debug** from the MO2 executables dropdown.
+
+![image](https://github.com/user-attachments/assets/b1cb2944-6994-4152-a109-8ce9e240f74d)
+
+2. Allow it to fully load.
+3. In the yellow box labeled **"Conflicting overrides detected"**, click the dropdown.
+
+![image](https://github.com/user-attachments/assets/e764f866-c6f3-474a-8c8e-c5287a55cc66)
+
+4. Click the **red "Apply Workaround"** button.
+
+![image](https://github.com/user-attachments/assets/ef902be8-5c0e-4233-bfcf-e503fbbd9a3a)
+
+5. Wait for the process to complete, then close the window.
+
+![image](https://github.com/user-attachments/assets/693a78d9-d6ea-45a1-bceb-3cb7bffc8697)
+
+> ⚠️ **This step is required.**  
+> Skipping it may lead to blackface bugs, mismatched NPC data, or missing headparts in-game.
+
+---
+
+### ✅ Final Steps
+
+1. **Rerun Synthesis** after your new EasyNPC merge is complete and the debug fix has been applied.  
+   📘 *See my [Tool Running Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Tool%20Running%20Guide.md) for instructions on how to rerun Synthesis.*
 
 ---
 
