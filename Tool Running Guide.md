@@ -8,6 +8,13 @@ This guide walks you through **how to run all tools**, but not all of them need 
 
 ---
 
+> ⚠️ **Disclaimer 1:**  
+> This guide has been updated for **Journals of Jyggalag v3.3.0**, which is **not yet live** on the Wabbajack UI.  
+> While all steps and plugin requirements still apply to **v3.2.2**, you may notice some differences in screenshots, plugin numbers, or mod names — as these have been updated significantly between versions.  
+> This disclaimer will be removed once **v3.3.0** is officially released. We are still actively building and testing the new version.
+
+---
+
 ### ⚠️ DISCLAIMER – READ THIS FIRST
 
 Adding any mods to **Journals of Jyggalag** falls under **Rule 11**:  
