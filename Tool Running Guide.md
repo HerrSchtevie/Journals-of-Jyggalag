@@ -412,7 +412,7 @@ After the LOD levels have been generated, your files will be located in:
 3. Now open:
 
     ```
-    Journals of Jyggalag - Outputs\XLODGen Output\
+    Journals of Jyggalag - Outputs\xLODGen Output\
     ```
 
 4. Locate the `meshes` and `textures` folders (these should be the only files present)  
