@@ -208,7 +208,7 @@ This `.txt` file contains my default NPC appearance selections and will dramatic
 
 This will load my curated selections for all NPCs, including:
 
-- ✅ Proper default sources (no `AI Overhaul.esm` issues)
+- ✅ Proper default sources (no `AI Overhaul.esp` issues)
 - ✅ Balanced visual selections
 - ✅ Stability-tested configurations
 
