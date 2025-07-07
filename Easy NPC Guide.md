@@ -230,9 +230,9 @@ Each NPC has **two selectors**:
 
 > ⚠️ **IMPORTANT:**  
 > No NPC should ever have `AI Overhaul.esm` set as their **Default Source**.  
-> This will cause blackface and other visual bugs.
+> This will cause blackface and other visual bugs. This is already done for you if you use my `JOJ - NPC Merge Profile.txt`
 
-#### 🔍 To quickly find and fix this:
+#### 🔍 To quickly find and fix this if you're not using my JOJ - NPC Merge Profile:
 
 1. Click the **funnel icon** under the Profile tab.
 2. In the search bar, enter: `default plugin: AI Overhaul`
@@ -242,7 +242,7 @@ Each NPC has **two selectors**:
    - ✅ `Skyrim.esm` *(only use this if USSEP is not available for that NPC)*
 
 > ⚠️ **Important:**  
-> **Every NPC in your list must use either `USSEP` or `Skyrim.esm` as their Default Source.**
+> **Every NPC in your list must use either `USSEP` or `Skyrim.esm` as their Default Source. Again, this is done for you if you use my JOJ - NPC Merge Profile**
 
 ![image](https://github.com/user-attachments/assets/1b82e21f-bc89-42cd-b771-984270bfbe27)
 
