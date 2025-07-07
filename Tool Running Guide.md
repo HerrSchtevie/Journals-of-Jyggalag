@@ -399,7 +399,7 @@ Check all worldspaces in the right panel (right-click > **Select All**)
 
 After the LOD levels have been generated, your files will be located in:
 
-`Journals of Jyggalag - Outputs\XLODGen Output\`
+`Journals of Jyggalag - Outputs\xLODGen Output\`
 
 
 1. Navigate to the following folder:
