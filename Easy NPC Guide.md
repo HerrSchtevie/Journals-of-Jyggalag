@@ -184,6 +184,41 @@ Once done, return to the **Profiles** tab to begin customizing your NPCs.
 
 ---
 
+### ⚡ Skip Manual Sorting with a Pre-Built Profile (Optional but Recommended)
+
+If you want to **save time** and avoid manually sorting through hundreds of NPCs, you can download my pre-built profile file from the Nexus:
+
+📦 [**JOJ - NPC Merge Profile** (Miscellaneous Files)](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files)
+
+![image](https://github.com/user-attachments/assets/d81f20ef-774a-406e-b457-76496a1edcdf)
+
+This `.txt` file contains my default NPC appearance selections and will dramatically speed up the merge process.
+
+---
+
+### 📝 How to Use It:
+
+1. Download the file from the **Miscellaneous Files** section of the Nexus page.
+2. Unzip it anywhere on your PC.
+3. In EasyNPC, go to the **Profiles** tab.
+4. Click the **folder icon** in the **top-right corner** labeled **“Load Profile.”**
+5. Select the `JOJ NPC Merge Profile.txt` file you just downloaded.
+
+---
+
+This will load my curated selections for all NPCs, including:
+
+- ✅ Proper default sources (no `AI Overhaul.esm` issues)
+- ✅ Balanced visual selections
+- ✅ Stability-tested configurations
+
+Once it’s loaded, you’re free to make additional changes — just scroll through or **use the search** to find specific NPCs you want to alter by name.  
+Any NPCs you don’t change will remain exactly as I’ve configured them in the profile.
+
+> 🧠 Continue with the guide below for more on how to safely make changes without causing blackface or instability.
+
+---
+
 ### 🧠 Understanding Sources
 
 Each NPC has **two selectors**:
