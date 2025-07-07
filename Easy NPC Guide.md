@@ -251,6 +251,22 @@ Each NPC has **two selectors**:
 
 ---
 
+### 💾 Save Your Custom Profile
+
+Once you're happy with your selections, it's a good idea to **save your NPC merge profile**.  
+That way, if you want to make changes later, you can just reload your custom profile and continue — rather than building it from scratch or relying on mine again.
+
+1. Click the **Save icon** in the **top-right corner** of the EasyNPC Profile tab.
+2. Save the file as something like:  
+   `My JOJ NPC Merge.txt` (you can name it whatever you want)
+3. In the future, just click the **Load icon** to reload this file and make changes directly to your existing selections.
+
+This is especially helpful if you're making small tweaks later on or revisiting your NPC setup after a long break.
+
+> 💡 Pro tip: Save a copy before and after major changes, so you can revert easily if needed.
+
+---
+
 ## 🛡️ Step 5: Build the Merge File
 
 1. Go to the **Build** tab  
