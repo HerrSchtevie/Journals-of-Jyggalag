@@ -113,6 +113,20 @@ However, if you want to change the output location, you can do so by editing the
 
 ---
 
+### ✅ Pandora Completion
+
+Once Pandora finishes generating the behavior data, you'll see a message at the bottom of the window that says:
+
+> **"Launch finished in (X) seconds"**
+
+![image](https://github.com/user-attachments/assets/a4bf97e5-a311-46f1-8d76-3187f64ba989)
+
+You're good to **close Pandora** at this point.
+
+> 🔄 **Don't forget to refresh MO2** after closing Pandora so the output is recognized properly.
+
+---
+
 ## ⚙️ Step 1: Run Synthesis
 
 Each **Journals of Jyggalag** profile uses a prebuilt Synthesis configuration.
