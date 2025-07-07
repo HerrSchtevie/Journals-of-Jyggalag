@@ -317,7 +317,7 @@ You're now ready to move on to the next tool!
 
 > ⚠️ This tool must be configured correctly for each LOD level (LOD4, LOD8, LOD16, LOD32).
 
-> 📸 I’ve included two screenshots for **each** LOD level below — one for Lord’s Vision/Reserved Vision and one for Performance/Reserved Performance. Please double-check the title above each image to ensure you're using the correct settings for the profile you're configuring.
+> 📸 I’ve included two screenshots for **each** LOD level below — one for Lord’s Vision and one for Performance. Please double-check the title above each image to ensure you're using the correct settings for the profile you're configuring.
 
 ---
 
