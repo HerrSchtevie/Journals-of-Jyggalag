@@ -726,6 +726,6 @@ You are responsible for **everything you add or modify** after the Wabbajack ins
 
 Thank you for using Journals of Jyggalag. May your LODs be crisp and your crashes few. 🧠✨
 
-- Herr Schtevie
+Herr Schtevie
 
 ![Jyggalag_red_resized](https://github.com/user-attachments/assets/b1db96ec-04b4-44d8-b8ed-cccade05bc57)
