@@ -676,7 +676,7 @@ Make sure **all three are enabled**, then drag them into the correct plugin grou
 - Move `DynDOLOD.esp` and `Occlusion.esp` into the `Outputs` plugin group
 - Ensure that **`DynDOLOD.esp` and `Occlusion.esp` are the final two entries** at the very bottom of your load order.
   
-- Don't forget to **re-enable** the following plugins in MO2 from the steps above:**
+- Don't forget to **re-enable** the following plugins in MO2 from the steps above:
 
 #### 📂 From the `Embers XD` plugin group:
 - `JKs Castle Volkihar - Embers XD patch.esp`
@@ -725,3 +725,7 @@ You are responsible for **everything you add or modify** after the Wabbajack ins
 ---
 
 Thank you for using Journals of Jyggalag. May your LODs be crisp and your crashes few. 🧠✨
+
+- Herr Schtevie
+
+![Jyggalag_red_resized](https://github.com/user-attachments/assets/b1db96ec-04b4-44d8-b8ed-cccade05bc57)
