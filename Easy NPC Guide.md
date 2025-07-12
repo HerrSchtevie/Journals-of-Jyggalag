@@ -186,11 +186,7 @@ Once done, return to the **Profiles** tab to begin customizing your NPCs.
 
 ### ⚡ Skip Manual Sorting with a Pre-Built Profile (Optional but Recommended)
 
-If you want to **save time** and avoid manually sorting through hundreds of NPCs, you can download my pre-built profile file from the Nexus:
-
-📦 [**JOJ - NPC Merge Profile** (Miscellaneous Files)](https://www.nexusmods.com/skyrimspecialedition/mods/146771?tab=files)
-
-![image](https://github.com/user-attachments/assets/d81f20ef-774a-406e-b457-76496a1edcdf)
+If you want to **save time** and avoid manually sorting through hundreds of NPCs, you can use my included pre-built profile file:
 
 This `.txt` file contains my default NPC appearance selections and will dramatically speed up the merge process.
 
@@ -198,11 +194,13 @@ This `.txt` file contains my default NPC appearance selections and will dramatic
 
 ### 📝 How to Use It:
 
-1. Download the file from the **Miscellaneous Files** section of the Nexus page.
-2. Unzip it anywhere on your PC.
-3. In EasyNPC, go to the **Profiles** tab.
-4. Click the **folder icon** in the **top-right corner** labeled **“Load Profile.”**
-5. Select the `JOJ NPC Merge Profile.txt` file you just downloaded.
+1. In EasyNPC, go to the **Profiles** tab.
+2. Click the **folder icon** in the **top-right corner** labeled **“Load Profile.”**
+3. Select the included `JOJ NPC Merge Profile.txt` from
+  
+   ```
+   Your Drive:\Journals of Jyggalag\tools\EasyNPC\JOJ - NPC Merge Profile.txt
+   ```
 
 ---
 
