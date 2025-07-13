@@ -633,7 +633,7 @@ Once TexGen completes, it will display a message and a **button to exit**:
 ![image](https://github.com/user-attachments/assets/065ce9b7-c817-4fe4-a669-c45ffa5fb046)
 
 8. Allow DynDOLOD to run and complete. Be patient as this generally takes at least an hour, sometimes two depending on your PC specs.
-9. Once it completes, just click `Exit DynDOLOD`
+9. Once it completes, just click `Save and Exit`
     
 ---
 
