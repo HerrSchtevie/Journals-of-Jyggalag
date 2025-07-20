@@ -120,6 +120,7 @@ EasyNPC works perfectly without mugshots — but having them makes it much easie
 - `Unofficial Skyrim Creation Club Content Patch.esl` *(Plugin 88)*
 
 ### 🧑‍🎤 NPC & Quest Mods
+- `Legacy of the Dragonborn.esm` *(Plugin 124)* - not in screenshots, must still be enabled
 - `3DNPC.esp` *(Plugin 150)*
 - `Wyrmstooth.esm` *(Plugin 154)*
 - `PAN_LamaesGaze.esp` *(Plugin 265)*
