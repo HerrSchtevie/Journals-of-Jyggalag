@@ -83,7 +83,7 @@ For reference, I run this list on a 32:9 ultrawide monitor (5120 x 1440) with sm
 
 ### 📋 Recommended System Specs
 
-🎮 **System Requirements for Journals of Jyggalag - 🛡️ Lord’s Vision / Reserved Vision Profiles** 🎮
+🎮 **System Requirements for Journals of Jyggalag - 🛡️ Lord’s Vision Profile** 🎮
 
 High Graphics | Full Feature Set | Maximum Visuals
 
@@ -98,7 +98,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 
 ---
 
-🎮 **System Requirements for Journals of Jyggalag - 🛡️ Performance / Reserved Performance Profiles** 🎮
+🎮 **System Requirements for Journals of Jyggalag - 🛡️ Performance Profile** 🎮
 
 Optimized for Lower-End Hardware | Reduced Visual Load
 
