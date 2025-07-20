@@ -123,7 +123,7 @@ Come join us on Discord — feedback and chaos always welcome.
   </a>
 
   <a href="https://discord.gg/scrollsofschtevie" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="300"/>
+    <img src="https://i.imgur.com/gzj8DaD.png" width="300"/>
   </a>
 </div>
 
