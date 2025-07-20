@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="YOUR_JOJ_LOGO_URL" width="500"/>
+  <img src="https://i.imgur.com/zCYLQKF.png" width="500"/>
 </div>
 
 <div align="center">
 
-[ Nexus ](https://www.nexusmods.com/skyrimspecialedition/mods/YOURID) |
-[ Installation Guide ](https://YOURINSTALLURL.com) |
-[ Load Order ](https://YOURLOADORDERURL.com) |
-[ FAQ ](https://YOURFAQ.com) |
-[ GitHub ](https://github.com/YOURJOJREPO) |
-[ Discord ](https://discord.gg/YOURDISCORDINVITE)
+[ Nexus ](https://www.nexusmods.com/skyrimspecialedition/mods/146771) |
+[ Installation Guide ](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/main/README.md) |
+[ Load Order ](https://loadorderlibrary.com/lists/journals-of-jyggalag-2) |
+[ GitHub ](https://github.com/HerrSchtevie/Journals-of-Jyggalag) |
+[ Discord ](https://discord.gg/scrollsofschtevie)
 
 </div>
 
@@ -56,9 +55,9 @@ Major quests include *Legacy of the Dragonborn*, *The Forgotten City*, *VIGILANT
 - High-res textures, handpicked ENB support, lush foliage, dense forests, and region-specific landscapes
 
 <div align="center">
-  <img src="SCREENSHOT1_URL" width="31%"/>
-  <img src="SCREENSHOT2_URL" width="31%"/>
-  <img src="SCREENSHOT3_URL" width="31%"/>
+  <img src="https://i.imgur.com/cUPBinr.jpeg" width="31%"/>
+  <img src="https://i.imgur.com/WcdrBzN.jpeg" width="31%"/>
+  <img src="https://i.imgur.com/keNkOUT.jpeg" width="31%"/>
 </div>
 
 ---
@@ -95,7 +94,7 @@ JOJ fully integrates adult content in a way that enhances immersion — without 
 
 > 📌 Requirements pulled directly from the README:
 
-![System Requirements](YOUR_README_SCREENSHOT_URL)
+![System Requirements](https://i.imgur.com/Ln8X0Gu.png)
 
 If you're unsure which profile to use, start with **Performance** — it includes the full experience with lighter visuals.
 
@@ -106,10 +105,10 @@ If you're unsure which profile to use, start with **Performance** — it include
 JOJ installs using **Wabbajack**, the automated modlist installer. No modding experience is required.
 
 > 📘 **Follow the Full Installation Guide**:  
-> [https://YOURINSTALLURL.com](https://YOURINSTALLURL.com)
+> [Installtion Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/main/README.md)
 
 > 🧾 **See the Load Order Library**:  
-> [https://YOURLOADORDERURL.com](https://YOURLOADORDERURL.com)
+> [Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2)
 
 ---
 
@@ -119,11 +118,11 @@ Need help? Want to show off your build? Curious about upcoming patches or modlis
 Come join us on Discord — feedback and chaos always welcome.
 
 <div align="center">
-  <a href="https://ko-fi.com/YOURNAME" target="_blank">
+  <a href="https://ko-fi.com/herrschtevie" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="300"/>
   </a>
 
-  <a href="https://discord.gg/YOURDISCORDINVITE" target="_blank">
+  <a href="https://discord.gg/scrollsofschtevie" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" width="300"/>
   </a>
 </div>
@@ -144,5 +143,5 @@ Come join us on Discord — feedback and chaos always welcome.
 ## 📜 Scrolls of Schtevie
 
 For patch notes, changelogs, future lists, and dev ramblings:  
-Visit the [GitHub Repo](https://github.com/YOURJOJREPO) or join the [Discord](https://discord.gg/YOURDISCORDINVITE)
+Visit the [GitHub Repo](https://github.com/HerrSchtevie) or join the [Discord](https://discord.gg/scrollsofschtevie)
 
