@@ -9,7 +9,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-- Hundreds of new armor and clothing mods  
+- Hundreds of new armor and clothing mods
+- Remade Easy NPC Merge with lots of new handpicked additions
 - Numerous melee animation updates  
 - **Talos’ Tease**: Custom brothel made by Juntii  
   - Located in Whiterun behind Heimskr’s house  
