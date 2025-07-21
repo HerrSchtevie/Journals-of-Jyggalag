@@ -69,7 +69,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790)  
 [Thundertrot Horse Animations](https://www.nexusmods.com/skyrimspecialedition/mods/140941)  
 [Faster Horses](https://www.nexusmods.com/skyrimspecialedition/mods/2003)  
-[Legacy of the Dragonborn CBBE 3BA and (or) HIMBO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/106317)
+[Legacy of the Dragonborn CBBE 3BA and (or) HIMBO Patch](https://www.nexusmods.com/skyrimspecialedition/mods/106317)  
 [Legacy of the Dragonborn - Followers Patch ](https://www.nexusmods.com/skyrimspecialedition/mods/40816)  
 [Cheesemod for EVERYONE](https://www.nexusmods.com/skyrimspecialedition/mods/36506)  
 [Legacy of the Dragonborn BadGremlins Collection](https://www.nexusmods.com/skyrimspecialedition/mods/15092)  
