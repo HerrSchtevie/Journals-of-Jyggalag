@@ -7,11 +7,14 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
+## Additions
+
 - Hundreds of new armor and clothing mods  
 - Numerous melee animation updates  
 - **Talos’ Tease**: Custom brothel made by Juntii  
-- Located in Whiterun behind Heimskr’s house  
-- Massive custom outfit distribution and armor/weapon rebalancing project (Credit: Aaronavich, Viconia, Kat, and Juntii) 
+  - Located in Whiterun behind Heimskr’s house  
+- Massive custom outfit distribution and armor/weapon rebalancing project  
+  - Credit: Aaronavich, Viconia, Kat, and Juntii  
 
 ---
 
