@@ -10,7 +10,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Additions
 
 - Hundreds of new armor and clothing mods
-- Remade Easy NPC Merge with lots of new handpicked additions
 - Numerous melee animation updates    
 - Massive custom outfit distribution and armor/weapon rebalancing project  
   - Credit: Aaronavich, Viconia, Kat, and Juntii  
