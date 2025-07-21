@@ -62,6 +62,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Simple Nail Polish](https://www.nexusmods.com/skyrimspecialedition/mods/108077)  
 [Gothic Makeup for RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/49901)  
 [Obi’s Tattoos](https://www.nexusmods.com/skyrimspecialedition/mods/105109)  
+[Sex Grants Experience](https://www.nexusmods.com/skyrimspecialedition/mods/132720)  
 [Immersive Equipment Displays - unequip when nude](https://www.nexusmods.com/skyrimspecialedition/mods/71625)  
 [Footprints and associated mods](https://www.nexusmods.com/skyrimspecialedition/mods/3808)  
 [Simple Offense Suppression MCM](https://www.nexusmods.com/skyrimspecialedition/mods/41774)  
