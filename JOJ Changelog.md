@@ -7,8 +7,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-## Additions
-
 - Hundreds of new armor and clothing mods
 - Numerous melee animation updates    
 - Massive custom outfit distribution and armor/weapon rebalancing project  
