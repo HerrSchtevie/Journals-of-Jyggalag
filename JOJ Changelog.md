@@ -22,7 +22,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [Conduit - Short-term Weapon Infusions](https://www.nexusmods.com/skyrimspecialedition/mods/58023)  
 [Wait Your Turn - Enemy Circling Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/65091)  
 [Saints and Seducers Extended Cut](https://www.nexusmods.com/skyrimspecialedition/mods/72772)  
-[Link](https://www.nexusmods.com/skyrimspecialedition/mods/56433)  
+[Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433)  
 [Redcap and patches](https://www.nexusmods.com/skyrimspecialedition/mods/73441)  
 [Khajiit Will Follow and patches](https://www.nexusmods.com/skyrimspecialedition/mods/2227)  
 [There is No Umbra](https://www.nexusmods.com/skyrimspecialedition/mods/89089)  
