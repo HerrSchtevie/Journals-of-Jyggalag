@@ -92,7 +92,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Removed Echatere SE  
 - Removed OVirginity  
 - Removed Ostim On Demand (but kept OOD’s Ostim Stress and Fear integration)  
-- Removed BALLS  
+- Removed B.A.L.L.S. Loading Screens  
 - Removed Simple Hunting Overhaul and related patches  
 - Updated hotkey map to current settings  
 - Enabled Feminine Walk and Run animations for female NPCs  
