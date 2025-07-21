@@ -16,22 +16,22 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ_dark_fantasy_splash.png",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Journals-of-Jyggalag",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_372100ed-fb6e-411c-94c7-84ed88ed1941",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_801e25ec-1c86-48f4-b649-cb5ec13fc661",
       "machineURL": "Journals_of_Jyggalag",
-      "discordURL": "https://discord.gg/8ZCa7w8BZQ"
+      "discordURL": "https://discord.gg/scrollsofschtevie"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "7Q0LehxJvks=",
-      "Size": 2237855179,
-      "NumberOfArchives": 2931,
-      "SizeOfArchives": 253939718090,
-      "NumberOfInstalledFiles": 740157,
-      "SizeOfInstalledFiles": 483413982668
+      "Hash": "8at/XBCm0sk=",
+      "Size": 1433510518,
+      "NumberOfArchives": 3489,
+      "SizeOfArchives": 309732565843,
+      "NumberOfInstalledFiles": 645374,
+      "SizeOfInstalledFiles": 603842959169
     },
-    "version": "3.2.2"
+    "version": "3.3.0"
   }
 ]
 
