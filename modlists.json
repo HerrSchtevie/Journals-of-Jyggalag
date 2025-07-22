@@ -32,6 +32,40 @@
       "SizeOfInstalledFiles": 603842959169
     },
     "version": "3.3.0"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Tomes of Talos",
+    "description": "Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of Journals of Jyggalag, designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim's atmosphere without breaking its lore or tone.",
+    "author": "Herr Schtevie",
+    "maintainers": [
+      "github/HerrSchtevie"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/HerrSchtevie/Tomes-of-Talos/refs/heads/main/TOT%20wallpaper.png",
+      "readme": "https://github.com/HerrSchtevie/Tomes-of-Talos",
+      "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_64c426ed-42a6-49ab-b2a4-896d322b857e",
+      "machineURL": "Tomes_of_Talos",
+      "discordURL": "https://discord.gg/scrollsofschtevie"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "qeHvq7hgTqI=",
+      "Size": 1248389231,
+      "NumberOfArchives": 3116,
+      "SizeOfArchives": 259676952477,
+      "NumberOfInstalledFiles": 519293,
+      "SizeOfInstalledFiles": 468819559335
+    },
+    "version": "1.0.0"
   }
 ]
 
