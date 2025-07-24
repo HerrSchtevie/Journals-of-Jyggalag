@@ -152,6 +152,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Updates, Patches, and Removals
 
 - Fixed NFF Ignore Token SPID
+- Removed FLuted Armor (too many BodySlide issues)
 - Applied fix in JOJ - Outfits for Auri
 - Fixed LOTD NPC blackface
   - Fixed by adjusting Synthesis patchers
