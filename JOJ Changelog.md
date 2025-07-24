@@ -1,3 +1,37 @@
+# JOJ 3.3.1 (Work in progress - not yet live update)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[ElSopa - HD Medieval Anvil SE](https://www.nexusmods.com/skyrimspecialedition/mods/48825)  
+[Renthal's workbench](https://www.nexusmods.com/skyrimspecialedition/mods/23164)  
+[Moonlight Tales Mini - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/97942?tab=files)  
+
+
+---
+
+## Updates, Patches, and Removals
+
+- Fixed NFF Ignore Token SPID
+- Removed [Fluted Armor](https://www.nexusmods.com/skyrimspecialedition/mods/106381?tab=images) (too many BodySlide issues)
+- Applied fix in JOJ - Outfits for Auri
+- Fixed LOTD NPC blackface
+  - Fixed by adjusting Synthesis patchers
+- Fixed controller issue with level up menu in JOJ - Core UI and widecreen patches
+- Fixed broken JOJ - Forms of Order (Carmelli'i)
+- Rebuilt Easy NPC Merge and changed Orc overhaul to [Children of the Pariah](https://www.nexusmods.com/skyrimspecialedition/mods/97981)
+- Change GrassControl.ini to load farther away grass (Lord's Vision only)
+- Disable debug mode in MCM Recorder for Sex Grants Experience
+- Disabled slowdown effect for killmoves in [Dismembering Framework]() and [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388) by default via MCM Recorder
+- Updated DynDOLOD and TexGen
+
+---
+
+
 # JOJ 3.3.0 (07/21/2025)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
