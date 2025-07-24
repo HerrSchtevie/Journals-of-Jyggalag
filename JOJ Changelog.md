@@ -145,6 +145,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 [ElSopa - HD Medieval Anvil SE](https://www.nexusmods.com/skyrimspecialedition/mods/48825)  
 [Renthal's workbench](https://www.nexusmods.com/skyrimspecialedition/mods/23164)  
+[Moonlight Tales Mini - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/97942?tab=files)  
 
 
 ---
