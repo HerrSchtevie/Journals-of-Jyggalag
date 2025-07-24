@@ -26,6 +26,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Rebuilt Easy NPC Merge and changed Orc overhaul to [Children of the Pariah](https://www.nexusmods.com/skyrimspecialedition/mods/97981)
 - Change GrassControl.ini to load farther away grass (Lord's Vision only)
 - Disable debug mode in MCM Recorder for Sex Grants Experience
+- Updated [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388)  
 - Updated DynDOLOD and TexGen
 
 ---
