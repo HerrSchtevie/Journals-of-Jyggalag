@@ -133,6 +133,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - **Removed Reserved Profiles (will be rebranded into Tomes of Talos)**  
 
+---
 
 # JOJ 3.3.1
 
