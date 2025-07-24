@@ -160,4 +160,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Fixed controller issue with level up menu in JOJ - Core UI and widecreen patches
 - Fixed broken JOJ - Forms of Order (Carmelli'i)
 - Rebuilt Easy NPC Merge and changed Orc overhaul to [Children of the Pariah](https://www.nexusmods.com/skyrimspecialedition/mods/97981)
+- Change GrassControl.ini to load farther away grass (Lord's Vision only)
+- Disable debug mode in MCM Recorder for Sex Grants Experience
 - Updated DynDOLOD and TexGen
