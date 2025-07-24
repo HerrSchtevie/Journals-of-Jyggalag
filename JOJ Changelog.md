@@ -133,3 +133,29 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 - **Removed Reserved Profiles (will be rebranded into Tomes of Talos)**  
 
+
+# JOJ 3.3.1
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[ElSopa - HD Medieval Anvil SE](https://www.nexusmods.com/skyrimspecialedition/mods/48825)  
+[Renthal's workbench](https://www.nexusmods.com/skyrimspecialedition/mods/23164)  
+
+
+---
+
+## Updates, Patches, and Removals
+
+- Fixed NFF Ignore Token SPID
+- Applied fix in JOJ - Outfits for Auri
+- Fixed LOTD NPC blackface
+  - Fixed by adjusting Synthesis patchers
+- Fixed controller issue with level up menu in JOJ - Core UI and widecreen patches
+- Fixed broken JOJ - Forms of Order (Carmelli'i)
+- Rebuilt Easy NPC Merge and changed Orc overhaul to [Children of the Pariah](https://www.nexusmods.com/skyrimspecialedition/mods/97981)
+- Updated DynDOLOD and TexGen
