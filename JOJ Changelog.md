@@ -19,7 +19,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Fixed NFF Ignore Token SPID
 - Removed [Fluted Armor](https://www.nexusmods.com/skyrimspecialedition/mods/106381?tab=images) (too many BodySlide issues)
 - Applied fix in JOJ - Outfits for Auri
-- Fixed LOTD NPC blackface
+- Fixed various NPC blackfaces
   - Fixed by adjusting Synthesis patchers
 - Fixed controller issue with level up menu in JOJ - Core UI and widecreen patches
 - Fixed broken JOJ - Forms of Order (Carmelli'i)
