@@ -1,4 +1,25 @@
-# JOJ 3.3.1 (07/25/2025)
+# JOJ 3.3.2 (WORK IN PROGRESS)
+
+This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
+The actual MO2 modlist is always the authoritative reference for modlist content.
+
+---
+
+## Additions
+
+[placeholder mod name](placeholder link)  
+
+---
+
+## Updates, Patches, and Removals
+
+- Updated Lux and Lux Patch Hub on both profiles
+- Fixed LOTD safehouse textures
+- Fixed JOJ - 21 x 9 UI Patch levelingmenu.swf
+
+---
+
+# JOJ 3.3.1 (Updated 07/25/2025)
 
 This is not a comprehensive list of all changes, but an overview of the more notable or interesting updates.  
 The actual MO2 modlist is always the authoritative reference for modlist content.
@@ -10,7 +31,6 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 [ElSopa - HD Medieval Anvil SE](https://www.nexusmods.com/skyrimspecialedition/mods/48825)  
 [Renthal's workbench](https://www.nexusmods.com/skyrimspecialedition/mods/23164)  
 [Moonlight Tales Mini - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/97942?tab=files)  
-
 
 ---
 
