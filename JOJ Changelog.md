@@ -14,7 +14,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 ## Updates, Patches, and Removals
 
 - Updated Lux and Lux Patch Hub on both profiles
-- Fixed LOTD safehouse textures
+- Fixed LOTD safehouse textures on Performance profile
 - Fixed JOJ - 21 x 9 UI Patch levelingmenu.swf
 
 ---
