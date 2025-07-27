@@ -17,6 +17,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Updated Lux and Lux Patch Hub on both profiles
 - Fixed LOTD safehouse textures on Performance profile
 - Fixed JOJ - 21 x 9 UI Patch levelingmenu.swf
+- Fixed white tree issue in Riverwood on Performance profile
 - Updated [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201?tab=files)
 - Updated [Lost Grimoire SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4455?tab=files)  
 
