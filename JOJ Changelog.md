@@ -7,7 +7,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Additions
 
-[placeholder mod name](placeholder link)  
+[Conduit - Alternate Death Patch](https://www.nexusmods.com/skyrimspecialedition/mods/114826)  
+[Static Sunhelm Rewritten - Explicit Check](https://www.nexusmods.com/skyrimspecialedition/mods/110009?tab=files) (replaced Static Sunhelm Rewritten)
 
 ---
 
@@ -16,6 +17,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Updated Lux and Lux Patch Hub on both profiles
 - Fixed LOTD safehouse textures on Performance profile
 - Fixed JOJ - 21 x 9 UI Patch levelingmenu.swf
+- Updated [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201?tab=files)
+- Updated [Lost Grimoire SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4455?tab=files)  
 
 ---
 
