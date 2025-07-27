@@ -14,7 +14,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 
 ## Updates, Patches, and Removals
 
-- Updated Lux and Lux Patch Hub on both profiles
+- Updated [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) and [Lux - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/113002) on both profiles  
 - Fixed LOTD safehouse textures on Performance profile
 - Fixed JOJ - 21 x 9 UI Patch levelingmenu.swf
 - Fixed white tree issue in Riverwood on Performance profile
