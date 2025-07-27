@@ -53,7 +53,7 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Change GrassControl.ini to load farther away grass (Lord's Vision only)
 - Made some OStim physics adjustements
 - Disable debug mode in MCM Recorder for Sex Grants Experience
-- Disabled slowdown effect for killmoves in [Dismembering Framework]() and [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388) by default via MCM Recorder
+- Disabled slowdown effect for killmoves in [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203) and [Sanguine Symphony](https://www.nexusmods.com/skyrimspecialedition/mods/148388) by default via MCM Recorder
 - Updated DynDOLOD and TexGen
 
 ---
