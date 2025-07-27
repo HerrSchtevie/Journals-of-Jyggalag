@@ -239,7 +239,7 @@ Once Wabbajack finishes, you're not quite ready to jump in yet — follow these 
 
 ### 2. **Select Your Profile (and Stick With It)**
 
-Journals of Jyggalag includes **four distinct profiles**, each preconfigured with its own settings, tool outputs, and game experience.  
+Journals of Jyggalag includes **two distinct profiles**, each preconfigured with its own settings, tool outputs, and game experience.  
 You can select your profile from the **dropdown in the upper-left corner of MO2** (just above the mod pane).
 
 | Profile Name                | Description                                                                 |
