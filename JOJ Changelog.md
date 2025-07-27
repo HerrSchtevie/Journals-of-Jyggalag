@@ -19,7 +19,8 @@ The actual MO2 modlist is always the authoritative reference for modlist content
 - Fixed JOJ - 21 x 9 UI Patch levelingmenu.swf
 - Fixed white tree issue in Riverwood on Performance profile
 - Updated [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201?tab=files)
-- Updated [Lost Grimoire SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4455?tab=files)  
+- Updated [Lost Grimoire SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4455?tab=files)
+- Removed Armors of the Velothi Pt. II (NPC dark face bug issues)    
 
 ---
 
