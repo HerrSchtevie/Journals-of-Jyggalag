@@ -1,3 +1,10 @@
+> ⚠️ **DISCLAIMER: OUTDATED INFORMATION** ⚠️  
+> The information in this repository is **no longer up to date**.  
+> For the latest guides, readmes, and documentation for all **Scrolls of Schtevie** modlists—including *Journals of Jyggalag*, *Tomes of Talos*, and more—please visit the official wiki:  
+> 👉 [**Scrolls of Schtevie Wiki**](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki)
+
+---
+
 # Journals of Jyggalag (JOJ)
 
 ![splash](https://github.com/user-attachments/assets/e4cc5755-425a-47ac-9d5d-bfbfcdb61e24)
