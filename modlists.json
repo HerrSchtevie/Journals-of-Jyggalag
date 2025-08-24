@@ -18,20 +18,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
-      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_beeae275-1122-4323-ae7f-e92d2fadd87f",
+      "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_33b6c572-2364-416b-b11d-06b26c5dea26",
       "machineURL": "Journals_of_Jyggalag",
       "discordURL": "https://discord.gg/scrollsofschtevie"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "QKvXN5Y689Y=",
-      "Size": 2542913086,
-      "NumberOfArchives": 3557,
-      "SizeOfArchives": 321510611188,
-      "NumberOfInstalledFiles": 696328,
-      "SizeOfInstalledFiles": 618122559309
+      "Hash": "TqyP1eLgZqs=",
+      "Size": 2549370125,
+      "NumberOfArchives": 3564,
+      "SizeOfArchives": 321790252753,
+      "NumberOfInstalledFiles": 695498,
+      "SizeOfInstalledFiles": 617638696809
     },
-    "version": "3.5.1"
+    "version": "3.5.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
