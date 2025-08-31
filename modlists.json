@@ -20,7 +20,7 @@
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
       "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_8cfcf42c-bb43-48db-8296-c6798f6a5714",
-      "machineURL": "Journals_of_Jyggalag",
+      "machineURL": "JournalsofJyggalag",
       "discordURL": "https://discord.gg/scrollsofschtevie",
       "websiteURL": ""
     },
@@ -59,7 +59,7 @@
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
       "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_4e9512ac-c349-42c0-a828-271001b17731",
-      "machineURL": "Tomes_of_Talos",
+      "machineURL": "TomesofTalos",
       "discordURL": "https://discord.gg/scrollsofschtevie",
       "websiteURL": ""
     },
@@ -79,3 +79,4 @@
   }
 
 ]
+
