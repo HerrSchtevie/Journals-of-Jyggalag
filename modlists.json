@@ -20,7 +20,7 @@
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
       "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_8cfcf42c-bb43-48db-8296-c6798f6a5714",
-      "machineURL": "JournalsofJyggalag",
+      "machineURL": "JournalsOfJyggalag",
       "discordURL": "https://discord.gg/scrollsofschtevie",
       "websiteURL": ""
     },
@@ -36,7 +36,7 @@
     "version": "3.5.3",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-08-31T19:21:26.8815607Z",
-    "repositoryName": ""
+    "repositoryName": "Scrolls_of_Schtevie"
   },
   {
     "title": "Tomes of Talos",
@@ -59,7 +59,7 @@
       "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/TOT%20wallpaper.png",
       "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
       "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_4e9512ac-c349-42c0-a828-271001b17731",
-      "machineURL": "TomesofTalos",
+      "machineURL": "TomesOfTalos",
       "discordURL": "https://discord.gg/scrollsofschtevie",
       "websiteURL": ""
     },
@@ -75,8 +75,9 @@
     "version": "1.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "0001-01-01T00:00:00",
-    "repositoryName": ""
+    "repositoryName": "Scrolls_of_Schtevie"
   }
 
 ]
+
 
