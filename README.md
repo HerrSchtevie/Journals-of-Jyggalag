@@ -1,7 +1,7 @@
 > ⚠️ **DISCLAIMER: OUTDATED INFORMATION** ⚠️  
 > The information in this repository is **no longer up to date**.  
-> For the latest guides, readmes, and documentation for all **Scrolls of Schtevie** modlists—including *Journals of Jyggalag*, *Tomes of Talos*, and more—please visit the official wiki:  
-> 👉 [**Scrolls of Schtevie Wiki**](https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki)
+> For the latest guides, readmes, and documentation for all **Scrolls of Schtevie** modlists—including *Journals of Jyggalag*, *Tomes of Talos*, and more—please visit the official website:  
+> 👉 [**The Modding Bordello Official WEbsite**](https://www.themoddingbordello.com/)
 
 ---
 
